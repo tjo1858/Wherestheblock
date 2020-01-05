@@ -1,4 +1,5 @@
 #Ashwin instructions
+
 2 scripts 1 results
 censor-dev is a detailed script with developer comments
 censor-client is the same script a little smaller for client end executions
@@ -6,6 +7,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 
 
 #Sahil instructions
+
 0. Blockurl file contains the URL to be tested CSV list
 1. Enter the root directory
 2. Run command:
