@@ -1,0 +1,755 @@
+sahilgupta221@sahilgupta221-HP-Pavilion-Sleekbook-14-PC:~/Wherestheblock/TLS_traceroute$ sudo python TLS_traceroute.py 30
+WARNING: No route found for IPv6 destination :: (no default route?)
+ebay.in
+line_count: 0
+TTL: 1
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 2
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 3
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 4
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 5
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 6
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 7
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 8
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 9
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 10
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 11
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 12
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 13
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 14
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 15
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 16
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 17
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 18
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 19
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 20
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 21
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 22
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 23
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 24
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 25
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 26
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 27
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 28
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 29
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+kat.cr
+line_count: 1
+TTL: 1
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 2
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 3
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 4
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+TTL: 5
+###[ TLS Record ]###
+  content_type= handshake
+  version   = TLS_1_0
+  length    = None
+###[ TLS Handshakes ]###
+     \handshakes\
+      |###[ TLS Handshake ]###
+      |  type      = client_hello
+      |  length    = None
+      |###[ TLS Client Hello ]###
+      |     version   = TLS_1_2
+      |     gmt_unix_time= 1579041880
+      |     random_bytes= '\xd8/f\xfd\x81?\x15\xcf\xf1\xecG\xe0\xb8\x80/\xeeW\xb9\xd1\xa6$\xfcT(\xe9\xb3\xd9z'
+      |     session_id_length= None
+      |     session_id= ''
+      |     cipher_suites_length= None
+      |     cipher_suites= ['RSA_WITH_AES_128_CBC_SHA']
+      |     compression_methods_length= None
+      |     compression_methods= ['NULL']
+      |     \extensions\
+sending TLS payload
+
