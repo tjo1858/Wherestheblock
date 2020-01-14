@@ -34,3 +34,11 @@ with open('BlockUrls.csv', mode='r') as csv_file:
                 results_writer.writerow(item)
 
 
+###
+traceroute = subprocess.Popen(["traceroute", '-w', '100',hostname],stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+
+for line in iter(traceroute.stdout.readline,""):
+    print(line)
+###
+
+
