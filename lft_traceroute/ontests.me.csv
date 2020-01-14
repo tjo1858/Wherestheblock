@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ontests.me,0,"traceroute to ontests.me (104.24.125.162), 30 hops max, 60 byte packets
+"
+ontests.me,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  6.726 ms  13.688 ms
+"
+ontests.me,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  10.765 ms  2.123 ms
+"
+ontests.me,3," 3  199.109.111.9 (199.109.111.9)  15.665 ms  12.333 ms
+"
+ontests.me,4," 4  199.109.107.193 (199.109.107.193)  7.281 ms  8.252 ms
+"
+ontests.me,5," 5  nyc111-9204-syr-9208.cdn.nysernet.net (199.109.107.94)  18.337 ms  16.562 ms
+"
+ontests.me,6," 6  nyiix.as13335.net (198.32.160.195)  23.363 ms  21.402 ms
+"
+ontests.me,7," 7  * 104.24.125.162 (104.24.125.162)  127.114 ms
+"

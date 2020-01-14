@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+kat.cr,0,"traceroute to kat.cr (91.195.240.126), 30 hops max, 60 byte packets
+"
+kat.cr,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  6.055 ms  22.499 ms
+"
+kat.cr,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  6.422 ms  6.133 ms
+"
+kat.cr,3," 3  xe-0-1-2.cr1-buf1.ip4.gtt.net (208.116.142.153)  7.482 ms  3.674 ms
+"
+kat.cr,4," 4  et-0-0-67.cr5-nyc2.ip4.gtt.net (89.149.185.10)  13.772 ms  31.854 ms
+"
+kat.cr,5," 5  nyk-b3-link.telia.net (62.115.167.204)  11.226 ms  10.823 ms
+"
+kat.cr,6," 6  nyk-bb2-link.telia.net (62.115.139.150)  108.231 ms  116.350 ms
+"
+kat.cr,7," 7  ldn-bb3-link.telia.net (62.115.113.21)  121.031 ms  112.738 ms
+"
+kat.cr,8," 8  prs-bb3-link.telia.net (62.115.134.92)  110.964 ms  107.946 ms
+"
+kat.cr,9," 9  ffm-bb3-link.telia.net (62.115.123.12)  110.348 ms  113.657 ms
+"
+kat.cr,10,"10  mcn-b2-link.telia.net (62.115.120.130)  108.676 ms mcn-b2-link.telia.net (62.115.120.128)  200.522 ms
+"
+kat.cr,11,"11  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  121.591 ms  111.640 ms
+"
+kat.cr,12,"12  91.195.241.102 (91.195.241.102)  117.931 ms  103.089 ms
+"
+kat.cr,13,"13  91.195.241.118 (91.195.241.118)  102.868 ms  102.648 ms
+"
+kat.cr,14,"14  91.195.240.126 (91.195.240.126)  103.732 ms  104.968 ms
+"

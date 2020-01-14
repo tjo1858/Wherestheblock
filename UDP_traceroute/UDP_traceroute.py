@@ -14,7 +14,7 @@ with open('BlockUrls.csv', mode='r') as csv_file:
         print row["URL"]
         print "line_count:", line_count
         line_count += 1
-        traceroute = subprocess.Popen(["traceroute", '-I', row["URL"]], stdout=subprocess.PIPE,
+        traceroute = subprocess.Popen(["traceroute", '-U', row["URL"]], stdout=subprocess.PIPE,
                                       stderr=subprocess.STDOUT)
         filename = row["URL"] + ".csv"
         with open(filename, mode='w') as results:
@@ -24,4 +24,3 @@ with open('BlockUrls.csv', mode='r') as csv_file:
             for line in iter(traceroute.stdout.readline, ""):
                 results_writer.writerow([row["URL"],TTL,line])
                 TTL += 1
-

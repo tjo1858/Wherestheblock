@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+ebay.in,0,"traceroute to ebay.in (66.135.195.175), 30 hops max, 60 byte packets
+"
+ebay.in,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  13.204 ms  7.698 ms
+"
+ebay.in,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  7.660 ms  6.109 ms
+"
+ebay.in,3," 3  de-cix.nyc.ebay.com (206.82.104.115)  10.183 ms  10.913 ms
+"
+ebay.in,4," 4  xe-2-2-1-slc1-bcr1.bb.ebay.com (216.113.190.145)  74.752 ms xe-2-2-1-slc1-bcr2.bb.ebay.com (216.113.190.159)  132.346 ms
+"
+ebay.in,5," 5  8.42.120.30 (8.42.120.30)  83.930 ms 8.42.120.24 (8.42.120.24)  75.463 ms
+"
+ebay.in,6," 6  * *
+"
+ebay.in,7," 7  * *
+"
+ebay.in,8," 8  * *
+"
+ebay.in,9," 9  * *
+"
+ebay.in,10,"10  ru.ebay.com (66.135.195.175)  619.472 ms  599.087 ms
+"

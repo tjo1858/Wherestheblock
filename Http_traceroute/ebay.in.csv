@@ -8,7 +8,19 @@ ebay.in,6,timed out
 ebay.in,7,timed out
 ebay.in,8,timed out
 ebay.in,9,timed out
-ebay.in,10,timed out
+ebay.in,10,"HTTP/1.1 301 Moved Permanently
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: https://pages.ebay.com/messages/page_not_found.html
+Vary: Accept
+Content-Length: 0
+rlogid: undefined
+Date: Sun, 12 Jan 2020 19:27:14 GMT
+Connection: keep-alive
+
+"
 ebay.in,11,"HTTP/1.1 301 Moved Permanently
 X-Content-Type-Options: nosniff
 Strict-Transport-Security: max-age=31536000
@@ -18,7 +30,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:33 GMT
+Date: Sun, 12 Jan 2020 19:27:14 GMT
 Connection: keep-alive
 
 "
@@ -31,7 +43,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:34 GMT
+Date: Sun, 12 Jan 2020 19:27:15 GMT
 Connection: keep-alive
 
 "
@@ -44,7 +56,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:34 GMT
+Date: Sun, 12 Jan 2020 19:27:16 GMT
 Connection: keep-alive
 
 "
@@ -57,7 +69,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:34 GMT
+Date: Sun, 12 Jan 2020 19:27:23 GMT
 Connection: keep-alive
 
 "
@@ -70,7 +82,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:34 GMT
+Date: Sun, 12 Jan 2020 19:27:23 GMT
 Connection: keep-alive
 
 "
@@ -83,7 +95,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:34 GMT
+Date: Sun, 12 Jan 2020 19:27:23 GMT
 Connection: keep-alive
 
 "
@@ -96,7 +108,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:34 GMT
+Date: Sun, 12 Jan 2020 19:27:23 GMT
 Connection: keep-alive
 
 "
@@ -109,7 +121,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:35 GMT
+Date: Sun, 12 Jan 2020 19:27:23 GMT
 Connection: keep-alive
 
 "
@@ -122,7 +134,7 @@ Location: https://pages.ebay.com/messages/page_not_found.html
 Vary: Accept
 Content-Length: 0
 rlogid: undefined
-Date: Sun, 05 Jan 2020 01:03:35 GMT
+Date: Sun, 12 Jan 2020 19:27:23 GMT
 Connection: keep-alive
 
 "

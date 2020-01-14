@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+urdupoint.com,0,"traceroute to urdupoint.com (104.17.15.38), 30 hops max, 60 byte packets
+"
+urdupoint.com,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  7.437 ms  13.937 ms  13.889 ms
+"
+urdupoint.com,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  7.244 ms  8.057 ms  13.696 ms
+"
+urdupoint.com,3," 3  199.109.111.9 (199.109.111.9)  13.685 ms  13.646 ms  13.590 ms
+"
+urdupoint.com,4," 4  199.109.107.193 (199.109.107.193)  13.552 ms  13.514 ms  13.457 ms
+"
+urdupoint.com,5," 5  nyc111-9204-syr-9208.cdn.nysernet.net (199.109.107.94)  28.401 ms  28.361 ms  28.320 ms
+"
+urdupoint.com,6," 6  * * *
+"
+urdupoint.com,7," 7  * * *
+"
+urdupoint.com,8," 8  * * *
+"
+urdupoint.com,9," 9  * * *
+"
+urdupoint.com,10,"10  * * *
+"
+urdupoint.com,11,"11  * * *
+"
+urdupoint.com,12,"12  * * *
+"
+urdupoint.com,13,"13  * * *
+"
+urdupoint.com,14,"14  * * *
+"
+urdupoint.com,15,"15  * * *
+"
+urdupoint.com,16,"16  * * *
+"
+urdupoint.com,17,"17  * * *
+"
+urdupoint.com,18,"18  * * *
+"
+urdupoint.com,19,"19  * * *
+"
+urdupoint.com,20,"20  * * *
+"
+urdupoint.com,21,"21  * * *
+"
+urdupoint.com,22,"22  * * *
+"
+urdupoint.com,23,"23  * * *
+"
+urdupoint.com,24,"24  * * *
+"
+urdupoint.com,25,"25  * * *
+"
+urdupoint.com,26,"26  * * *
+"
+urdupoint.com,27,"27  * * *
+"
+urdupoint.com,28,"28  * * *
+"
+urdupoint.com,29,"29  * * *
+"
+urdupoint.com,30,"30  * * *
+"
