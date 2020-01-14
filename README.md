@@ -52,3 +52,15 @@ Like:   sudo python final_hop_file.py 20
 	sudo python lft_traceroute.py
 
 3. Results of the http response is stored in Block URL names CSV files.
+
+
+
+#TLS traceroute instructions
+1. Install "pip install scapy-ssl_tls" if not installed.
+2. Blockurl file contains the URL to be tested CSV list
+3. Enter the TLS_traceroute directory
+2. Run command:
+	sudo python TLS_traceroute.py TTL
+Like:   sudo python TLS_traceroute.py 30
+
+5. Results of the http response is stored in Block URL names CSV files.
