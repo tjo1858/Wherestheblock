@@ -6,12 +6,49 @@ censor-client is the same script a little smaller for client end executions
 Blocking Method is a csv doc of my findings after running the script on a afganistan local host for 100 blocked urls
 
 
-#Sahil instructions
+#HTTP traceroute instructions
 
 0. Blockurl file contains the URL to be tested CSV list
-1. Enter the root directory
+1. Enter the HTTP_traceroute directory
 2. Run command:
 	sudo python final_hop_file.py TTL
 Like:   sudo python final_hop_file.py 20
+
+3. Results of the http response is stored in Block URL names CSV files.
+
+#TCP traceroute instructions
+
+0. Blockurl file contains the URL to be tested CSV list
+1. Enter the TCP_traceroute directory
+2. Run command:
+	sudo python TCP_traceroute.py
+
+3. Results of the http response is stored in Block URL names CSV files.
+
+
+#ICMP traceroute instructions
+
+0. Blockurl file contains the URL to be tested CSV list
+1. Enter the ICMP_traceroute directory
+2. Run command:
+	sudo python ICMP_traceroute.py
+
+3. Results of the http response is stored in Block URL names CSV files.
+
+#UDP traceroute instructions
+
+0. Blockurl file contains the URL to be tested CSV list
+1. Enter the UDP_traceroute directory
+2. Run command:
+	sudo python UDP_traceroute.py
+
+3. Results of the http response is stored in Block URL names CSV files.
+
+#lft traceroute instructions
+
+0. Blockurl file contains the URL to be tested CSV list
+1. Enter the lft_traceroute directory
+2. Run command:
+	sudo python lft_traceroute.py
 
 3. Results of the http response is stored in Block URL names CSV files.
