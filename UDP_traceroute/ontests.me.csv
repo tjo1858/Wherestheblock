@@ -1,17 +1,17 @@
 URL,TTL,Response_Message
 ontests.me,0,"traceroute to ontests.me (104.24.125.162), 30 hops max, 60 byte packets
 "
-ontests.me,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  7.365 ms  7.322 ms  7.298 ms
+ontests.me,1," 1  192.168.42.129 (192.168.42.129)  1.427 ms  1.396 ms  1.464 ms
 "
-ontests.me,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  7.995 ms  11.530 ms  11.533 ms
+ontests.me,2," 2  rit-core1-hsrp-010-vlan4078.rit.edu (129.21.71.252)  6.417 ms  6.459 ms  6.552 ms
 "
-ontests.me,3," 3  199.109.111.9 (199.109.111.9)  7.884 ms  7.858 ms  7.840 ms
+ontests.me,3," 3  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  5.404 ms  5.623 ms  5.581 ms
 "
-ontests.me,4," 4  199.109.107.193 (199.109.107.193)  11.421 ms  11.382 ms  11.408 ms
+ontests.me,4," 4  199.109.111.9 (199.109.111.9)  6.527 ms  6.573 ms  6.633 ms
 "
-ontests.me,5," 5  nyc111-9204-syr-9208.cdn.nysernet.net (199.109.107.94)  16.402 ms  16.319 ms  16.263 ms
+ontests.me,5," 5  199.109.107.193 (199.109.107.193)  8.890 ms  8.842 ms  15.027 ms
 "
-ontests.me,6," 6  * * *
+ontests.me,6," 6  nyc111-9204-syr-9208.cdn.nysernet.net (199.109.107.94)  23.355 ms  19.689 ms  19.670 ms
 "
 ontests.me,7," 7  * * *
 "

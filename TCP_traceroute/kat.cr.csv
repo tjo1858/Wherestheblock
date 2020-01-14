@@ -1,31 +1,33 @@
 URL,TTL,Response_Message
 kat.cr,0,"traceroute to kat.cr (91.195.240.126), 30 hops max, 60 byte packets
 "
-kat.cr,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  9.485 ms  9.351 ms  9.298 ms
+kat.cr,1," 1  192.168.42.129 (192.168.42.129)  1.114 ms  1.118 ms  2.409 ms
 "
-kat.cr,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  9.172 ms  9.044 ms  9.012 ms
+kat.cr,2," 2  rit-core1-hsrp-010-vlan4078.rit.edu (129.21.71.252)  10.219 ms  10.261 ms  10.227 ms
 "
-kat.cr,3," 3  xe-0-1-2.cr1-buf1.ip4.gtt.net (208.116.142.153)  8.943 ms  8.894 ms  8.863 ms
+kat.cr,3," 3  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  5.658 ms  5.531 ms  5.519 ms
 "
-kat.cr,4," 4  et-0-0-71.cr5-nyc2.ip4.gtt.net (89.149.185.14)  13.432 ms et-0-0-67.cr5-nyc2.ip4.gtt.net (89.149.185.10)  13.372 ms *
+kat.cr,4," 4  xe-0-1-2.cr1-buf1.ip4.gtt.net (208.116.142.153)  7.604 ms  7.675 ms  7.747 ms
 "
-kat.cr,5," 5  nyk-b3-link.telia.net (62.115.167.204)  13.837 ms  15.115 ms  13.809 ms
+kat.cr,5," 5  et-0-0-67.cr5-nyc2.ip4.gtt.net (89.149.185.10)  15.199 ms et-0-0-65.cr5-nyc2.ip4.gtt.net (89.149.187.94)  15.261 ms et-0-0-67.cr5-nyc2.ip4.gtt.net (89.149.185.10)  16.106 ms
 "
-kat.cr,6," 6  * nyk-bb2-link.telia.net (62.115.139.150)  217.086 ms  216.995 ms
+kat.cr,6," 6  nyk-b3-link.telia.net (62.115.167.204)  14.493 ms  12.214 ms  15.367 ms
 "
-kat.cr,7," 7  ldn-bb3-link.telia.net (62.115.113.21)  216.951 ms  206.134 ms  206.014 ms
+kat.cr,7," 7  nyk-bb2-link.telia.net (62.115.139.150)  114.708 ms  114.094 ms  114.651 ms
 "
-kat.cr,8," 8  prs-bb3-link.telia.net (62.115.134.92)  205.932 ms  205.886 ms  205.828 ms
+kat.cr,8," 8  ldn-bb3-link.telia.net (62.115.113.21)  137.653 ms  135.807 ms  135.612 ms
 "
-kat.cr,9," 9  ffm-bb3-link.telia.net (62.115.123.12)  192.014 ms  191.842 ms  169.915 ms
+kat.cr,9," 9  prs-bb3-link.telia.net (62.115.134.92)  112.357 ms  111.019 ms  110.706 ms
 "
-kat.cr,10,"10  mcn-b2-link.telia.net (213.155.134.13)  169.782 ms mcn-b2-link.telia.net (62.115.120.126)  169.588 ms mcn-b2-link.telia.net (62.115.136.19)  169.644 ms
+kat.cr,10,"10  ffm-bb3-link.telia.net (62.115.123.12)  111.087 ms  111.085 ms  111.504 ms
 "
-kat.cr,11,"11  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  122.548 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  122.580 ms  122.574 ms
+kat.cr,11,"11  mcn-b2-link.telia.net (62.115.120.130)  108.853 ms mcn-b2-link.telia.net (62.115.136.19)  108.333 ms mcn-b2-link.telia.net (62.115.120.130)  108.136 ms
 "
-kat.cr,12,"12  91.195.241.102 (91.195.241.102)  122.455 ms  122.418 ms  122.560 ms
+kat.cr,12,"12  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  103.195 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  110.487 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  110.204 ms
 "
-kat.cr,13,"13  91.195.241.118 (91.195.241.118)  223.752 ms *  223.721 ms
+kat.cr,13,"13  91.195.241.102 (91.195.241.102)  109.974 ms  109.870 ms  109.394 ms
 "
-kat.cr,14,"14  91.195.240.126 (91.195.240.126)  122.515 ms  120.036 ms  3101.146 ms
+kat.cr,14,"14  91.195.241.106 (91.195.241.106)  109.474 ms  113.158 ms  113.046 ms
+"
+kat.cr,15,"15  91.195.240.126 (91.195.240.126)  110.609 ms  110.494 ms  110.734 ms
 "

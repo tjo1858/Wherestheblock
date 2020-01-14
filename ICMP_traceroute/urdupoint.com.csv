@@ -1,17 +1,19 @@
 URL,TTL,Response_Message
 urdupoint.com,0,"traceroute to urdupoint.com (104.17.15.38), 30 hops max, 60 byte packets
 "
-urdupoint.com,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  5.843 ms  5.807 ms  5.848 ms
+urdupoint.com,1," 1  192.168.42.129 (192.168.42.129)  0.905 ms  0.966 ms  1.106 ms
 "
-urdupoint.com,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  5.628 ms  5.647 ms  5.648 ms
+urdupoint.com,2," 2  rit-core1-hsrp-010-vlan4078.rit.edu (129.21.71.252)  6.223 ms  6.335 ms  6.448 ms
 "
-urdupoint.com,3," 3  199.109.111.9 (199.109.111.9)  5.855 ms  5.895 ms  5.911 ms
+urdupoint.com,3," 3  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  6.134 ms  6.946 ms  7.038 ms
 "
-urdupoint.com,4," 4  199.109.107.193 (199.109.107.193)  15.173 ms  15.184 ms  15.217 ms
+urdupoint.com,4," 4  199.109.111.9 (199.109.111.9)  7.944 ms  8.186 ms  8.307 ms
 "
-urdupoint.com,5," 5  nyc111-9204-syr-9208.cdn.nysernet.net (199.109.107.94)  16.527 ms  18.602 ms  18.609 ms
+urdupoint.com,5," 5  199.109.107.193 (199.109.107.193)  12.035 ms  12.125 ms  12.248 ms
 "
-urdupoint.com,6," 6  nyiix.as13335.net (198.32.160.195)  18.605 ms  21.195 ms  21.236 ms
+urdupoint.com,6," 6  nyc111-9204-syr-9208.cdn.nysernet.net (199.109.107.94)  17.874 ms  14.283 ms  14.242 ms
 "
-urdupoint.com,7," 7  104.17.15.38 (104.17.15.38)  21.154 ms  15.751 ms  15.651 ms
+urdupoint.com,7," 7  nyiix.as13335.net (198.32.160.195)  15.960 ms  20.955 ms  21.005 ms
+"
+urdupoint.com,8," 8  104.17.15.38 (104.17.15.38)  20.400 ms  18.625 ms  15.460 ms
 "

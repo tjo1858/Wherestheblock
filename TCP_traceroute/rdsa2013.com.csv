@@ -1,25 +1,27 @@
 URL,TTL,Response_Message
 rdsa2013.com,0,"traceroute to rdsa2013.com (173.192.101.27), 30 hops max, 60 byte packets
 "
-rdsa2013.com,1," 1  rit-core1-010-vlan4073.rit.edu (129.21.63.252)  8.429 ms  8.276 ms  9.900 ms
+rdsa2013.com,1," 1  192.168.42.129 (192.168.42.129)  1.136 ms  1.265 ms  1.387 ms
 "
-rdsa2013.com,2," 2  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  4.121 ms  5.379 ms  5.339 ms
+rdsa2013.com,2," 2  rit-core1-hsrp-010-vlan4078.rit.edu (129.21.71.252)  16.075 ms  16.029 ms  16.077 ms
 "
-rdsa2013.com,3," 3  de-cix.nyc.us.ibm.com (206.82.104.149)  11.732 ms  11.685 ms  11.640 ms
+rdsa2013.com,3," 3  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  5.582 ms  5.636 ms  5.895 ms
 "
-rdsa2013.com,4," 4  ae6.cbs02.tl01.nyc01.networklayer.com (50.97.17.44)  11.552 ms  12.577 ms  12.603 ms
+rdsa2013.com,4," 4  de-cix.nyc.us.ibm.com (206.82.104.149)  16.181 ms  16.026 ms  16.232 ms
 "
-rdsa2013.com,5," 5  * * *
+rdsa2013.com,5," 5  ae6.cbs02.tl01.nyc01.networklayer.com (50.97.17.44)  16.394 ms * *
 "
-rdsa2013.com,6," 6  * ae2.cbs02.dr01.dal04.networklayer.com (169.45.18.4)  52.711 ms  51.479 ms
+rdsa2013.com,6," 6  ae0.cbs01.eq01.chi01.networklayer.com (50.97.17.48)  36.525 ms * *
 "
 rdsa2013.com,7," 7  * * *
 "
-rdsa2013.com,8," 8  ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  52.450 ms  52.356 ms  55.723 ms
+rdsa2013.com,8," 8  * * *
 "
-rdsa2013.com,9," 9  ae5.dar01.dal05.networklayer.com (173.192.18.215)  55.667 ms  54.288 ms ae6.dar02.dal05.networklayer.com (50.97.18.193)  55.204 ms
+rdsa2013.com,9," 9  ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  56.520 ms  55.509 ms  54.525 ms
 "
-rdsa2013.com,10,"10  * po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  86.724 ms po2.fcr01.sr01.dal05.networklayer.com (173.192.118.133)  86.652 ms
+rdsa2013.com,10,"10  ae6.dar02.dal05.networklayer.com (50.97.18.193)  57.640 ms ae5.dar01.dal05.networklayer.com (173.192.18.215)  54.893 ms ae6.dar02.dal05.networklayer.com (50.97.18.193)  56.274 ms
 "
-rdsa2013.com,11,"11  1b.65.c0ad.ip4.static.sl-reverse.com (173.192.101.27)  51.620 ms  53.970 ms  51.634 ms
+rdsa2013.com,11,"11  po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  86.269 ms po2.fcr01.sr01.dal05.networklayer.com (173.192.118.133)  86.401 ms *
+"
+rdsa2013.com,12,"12  1b.65.c0ad.ip4.static.sl-reverse.com (173.192.101.27)  55.996 ms  55.682 ms  58.512 ms
 "

@@ -1,0 +1,35 @@
+URL,TTL,Response_Message
+iiitd.ac.in,0,"traceroute to iiitd.ac.in (103.25.231.30), 30 hops max, 60 byte packets
+"
+iiitd.ac.in,1," 1  * * *
+"
+iiitd.ac.in,2," 2  rit-core1-hsrp-010-vlan4078.rit.edu (129.21.71.252)  5.616 ms  5.759 ms  5.820 ms
+"
+iiitd.ac.in,3," 3  rit-rit1-100g-pp-rtr001-vlan856.rit.edu (129.21.8.126)  5.435 ms  5.526 ms  5.914 ms
+"
+iiitd.ac.in,4," 4  199.109.11.9 (199.109.11.9)  6.740 ms  6.827 ms  6.971 ms
+"
+iiitd.ac.in,5," 5  syr-9208-buf-9208.nysernet.net (199.109.7.193)  12.078 ms  12.060 ms  12.312 ms
+"
+iiitd.ac.in,6," 6  nyc111-9204-syr-9208.nysernet.net (199.109.7.94)  16.521 ms  16.064 ms  16.008 ms
+"
+iiitd.ac.in,7," 7  nyc-9208-nyc111-9204.nysernet.net (199.109.7.165)  17.032 ms  16.041 ms  16.935 ms
+"
+iiitd.ac.in,8," 8  I2-NEWY-nyc-9208.nysernet.net (199.109.5.2)  15.782 ms  15.041 ms  15.143 ms
+"
+iiitd.ac.in,9," 9  180.149.48.12 (180.149.48.12)  108.102 ms  104.086 ms  104.142 ms
+"
+iiitd.ac.in,10,"10  180.149.48.1 (180.149.48.1)  224.410 ms  223.906 ms  225.215 ms
+"
+iiitd.ac.in,11,"11  180.149.48.17 (180.149.48.17)  225.213 ms 180.149.48.5 (180.149.48.5)  225.302 ms  225.368 ms
+"
+iiitd.ac.in,12,"12  * * 180.149.48.17 (180.149.48.17)  224.661 ms
+"
+iiitd.ac.in,13,"13  * * *
+"
+iiitd.ac.in,14,"14  103.25.231.1 (103.25.231.1)  253.346 ms  249.714 ms *
+"
+iiitd.ac.in,15,"15  103.25.231.30 (103.25.231.30)  250.198 ms  251.107 ms  251.046 ms
+"
+iiitd.ac.in,16,"16  103.25.231.30 (103.25.231.30)  250.076 ms  250.957 ms  274.981 ms
+"
