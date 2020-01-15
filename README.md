@@ -70,4 +70,4 @@ Like:   sudo python TLS_traceroute.py 30
 SSL_TLS sample packets to be craft:
 https://github.com/tintinweb/scapy-ssl_tls
 
-Repository installed in TLS traceroute folder as well.
+Examples are present in TLS traceroute folder as well.
