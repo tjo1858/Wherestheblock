@@ -18,13 +18,13 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 3. Results of the http response is stored in Block URL names CSV files.
 
 # TCP traceroute instructions
-
-0. Blockurl file contains the URL to be tested CSV list
-1. Enter the TCP_traceroute directory
-2. Run command:
+1. Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ssl_tls, sudo apt-get install python-scapy.
+2. Blockurl file contains the URL to be tested CSV list
+3. Enter the TCP_traceroute directory
+4. Run command:
 	sudo python TCP_traceroute.py
 
-3. Results of the http response is stored in Block URL names CSV files.
+5. Results of the http response is stored in Block URL names CSV files.
 
 
 # ICMP traceroute instructions
