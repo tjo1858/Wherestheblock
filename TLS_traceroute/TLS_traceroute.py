@@ -1,6 +1,18 @@
 import sys
 import socket
 import csv
+from io import BytesIO as StringIO
+
+class Capturing(list):
+    def __enter__(self):
+        self._stdout = sys.stdout
+        sys.stdout = self._stringio = StringIO()
+        return self
+    def __exit__(self, *args):
+        self.extend(self._stringio.getvalue().splitlines())
+        del self._stringio    # free up some memory
+        sys.stdout = self._stdout
+
 try:
     import scapy.all as scapy
 except ImportError:
@@ -33,7 +45,7 @@ with open('BlockUrls.csv', mode='r') as csv_file:
             c.connect(url)
             c.setsockopt(socket.SOL_IP, socket.IP_TTL, x)
 
-    # create TLS Handhsake / Client Hello packet
+#           create TLS Handhsake / Client Hello packet
 	    p = TLSRecord() / TLSHandshakes(handshakes=[TLSHandshake() /
                                                 TLSClientHello(cipher_suites=[TLSCipherSuite.RSA_WITH_AES_128_CBC_SHA])])
 
@@ -41,8 +53,12 @@ with open('BlockUrls.csv', mode='r') as csv_file:
 	    print ("sending TLS payload")
             try:
 #                c.send(req)
-		c.sendall(str(p))	
-                my_list.append([row["URL"],x,str(c.recv(4096))])
+		c.sendall(str(p))
+#		Capturing standard output in output variable to get stored in result csv file
+		with Capturing() as output:
+		    SSL(c.recv(4096)).show()	
+
+                my_list.append([row["URL"],x,output])
                 c.close()
             except socket.timeout as e:
                 my_list.append([row["URL"],x,e])
