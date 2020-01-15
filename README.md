@@ -12,6 +12,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 1. Enter the HTTP_traceroute directory
 2. Run command:
 	sudo python HTTP_traceroute.py TTL
+
 Like:   sudo python HTTP_traceroute.py 20
 
 3. Results of the http response is stored in Block URL names CSV files.
