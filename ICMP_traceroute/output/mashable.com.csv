@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mashable.com,0,"traceroute to mashable.com (104.104.52.41), 50 hops max, 60 byte packets
+"
+mashable.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.248 ms  0.280 ms  0.327 ms
+"
+mashable.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.592 ms  0.486 ms  0.534 ms
+"
+mashable.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.115 ms  26.127 ms  26.125 ms
+"
+mashable.com,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  29.611 ms  29.613 ms  29.606 ms
+"
+mashable.com,5," 5  ae1.milano52.mil.seabone.net (195.22.196.71)  53.286 ms  53.299 ms  53.270 ms
+"
+mashable.com,6," 6  akamai.milano52.mil.seabone.net (195.22.212.21)  40.925 ms  48.595 ms  48.286 ms
+"
+mashable.com,7," 7  a104-104-52-41.deploy.static.akamaitechnologies.com (104.104.52.41)  40.079 ms  40.079 ms  40.075 ms
+"

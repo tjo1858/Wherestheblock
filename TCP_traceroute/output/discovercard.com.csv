@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+discovercard.com,0,"traceroute to discovercard.com (104.91.22.90), 50 hops max, 60 byte packets
+"
+discovercard.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.146 ms  1.130 ms  1.161 ms
+"
+discovercard.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.569 ms  0.533 ms  0.531 ms
+"
+discovercard.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.108 ms  26.114 ms  30.278 ms
+"
+discovercard.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  28.667 ms  26.444 ms  26.438 ms
+"
+discovercard.com,5," 5  ffm-bb3-link.telia.net (62.115.141.240)  40.214 ms ffm-bb2-link.telia.net (62.115.116.161)  35.137 ms ffm-bb3-link.telia.net (62.115.141.240)  40.234 ms
+"
+discovercard.com,6," 6  mno-b3-link.telia.net (62.115.116.171)  40.188 ms  37.698 ms mno-b3-link.telia.net (62.115.116.173)  40.080 ms
+"
+discovercard.com,7," 7  * * *
+"
+discovercard.com,8," 8  a104-91-22-90.deploy.static.akamaitechnologies.com (104.91.22.90)  37.398 ms  34.912 ms  37.403 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+answers.com,0,"traceroute to answers.com (151.101.0.203), 30 hops max, 60 byte packets
+"
+answers.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.221 ms  12.395 ms  1.305 ms  0.486 ms  0.298 ms  0.770 ms  4.693 ms  0.348 ms  2.535 ms  0.881 ms
+"
+answers.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.096 ms  0.616 ms  0.589 ms  0.553 ms  0.480 ms  0.540 ms  0.500 ms  0.520 ms  0.533 ms  0.526 ms
+"
+answers.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.045 ms  16.356 ms  16.141 ms  16.080 ms  16.095 ms  17.735 ms  16.104 ms  16.040 ms  16.175 ms  16.045 ms
+"
+answers.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.184 ms  16.170 ms  16.157 ms  16.137 ms  16.194 ms  16.186 ms  16.290 ms  16.184 ms  16.144 ms  16.197 ms
+"
+answers.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.806 ms  42.856 ms  42.866 ms  42.804 ms  42.879 ms  42.768 ms  42.866 ms  42.988 ms  42.828 ms  42.855 ms
+"
+answers.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.699 ms  43.980 ms  43.972 ms  48.554 ms  43.857 ms  43.950 ms  43.911 ms  44.039 ms  43.947 ms  43.987 ms
+"
+answers.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.173 ms  41.278 ms  41.285 ms  41.177 ms  41.132 ms  41.052 ms  42.569 ms  41.145 ms  41.104 ms  41.136 ms
+"
+answers.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.122 ms  43.982 ms  44.082 ms  45.901 ms  44.298 ms  44.041 ms  44.218 ms  51.541 ms  135.999 ms  104.838 ms
+"
+answers.com,9," 9  fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  46.716 ms  46.680 ms fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  46.360 ms  46.309 ms  46.344 ms  46.352 ms  46.349 ms  46.469 ms  46.384 ms fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  46.649 ms
+"
+answers.com,10,"10  151.101.0.203 (151.101.0.203)  42.732 ms  42.773 ms  46.387 ms  46.417 ms  46.256 ms  46.362 ms  46.276 ms  42.724 ms  42.681 ms  46.274 ms
+"

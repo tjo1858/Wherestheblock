@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+blueseek.com,0,"traceroute to blueseek.com (151.139.128.10), 50 hops max, 60 byte packets
+"
+blueseek.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.697 ms  5.685 ms  5.722 ms
+"
+blueseek.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.570 ms  0.548 ms  0.547 ms
+"
+blueseek.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.450 ms  38.435 ms  38.433 ms
+"
+blueseek.com,4," 4  151.139.80.7 (151.139.80.7)  32.896 ms  35.336 ms  35.350 ms
+"
+blueseek.com,5," 5  151.139.80.3 (151.139.80.3)  35.687 ms  33.229 ms  35.694 ms
+"
+blueseek.com,6," 6  151.139.80.13 (151.139.80.13)  36.069 ms 151.139.80.16 (151.139.80.16)  36.099 ms 151.139.80.13 (151.139.80.13)  36.089 ms
+"
+blueseek.com,7," 7  151.139.128.10 (151.139.128.10)  35.777 ms  35.433 ms  33.146 ms
+"

@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+secureserver.net,0,"traceroute to secureserver.net (208.109.192.71), 50 hops max, 60 byte packets
+"
+secureserver.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.160 ms  1.151 ms  1.148 ms
+"
+secureserver.net,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.263 ms  2.274 ms  2.308 ms
+"
+secureserver.net,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.940 ms  30.944 ms  30.942 ms
+"
+secureserver.net,4," 4  * * *
+"
+secureserver.net,5," 5  * * *
+"
+secureserver.net,6," 6  4.28.83.74 (4.28.83.74)  167.185 ms  167.192 ms  167.185 ms
+"
+secureserver.net,7," 7  148.72.32.7 (148.72.32.7)  167.561 ms  168.601 ms  168.897 ms
+"
+secureserver.net,8," 8  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  167.442 ms  167.518 ms  167.522 ms
+"
+secureserver.net,9," 9  * * *
+"
+secureserver.net,10,"10  * * *
+"
+secureserver.net,11,"11  * * *
+"
+secureserver.net,12,"12  * * *
+"
+secureserver.net,13,"13  * * *
+"
+secureserver.net,14,"14  ip-208-109-192-71.ip.secureserver.net (208.109.192.71)  166.813 ms  166.779 ms  166.764 ms
+"

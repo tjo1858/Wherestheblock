@@ -1,0 +1,730 @@
+URL,TTL,Message
+cntv.cn,1,timed out
+cntv.cn,2,timed out
+cntv.cn,3,timed out
+cntv.cn,4,timed out
+cntv.cn,5,timed out
+cntv.cn,6,timed out
+cntv.cn,7,timed out
+cntv.cn,8,timed out
+cntv.cn,9,timed out
+cntv.cn,10,timed out
+cntv.cn,11,timed out
+cntv.cn,12,timed out
+cntv.cn,13,timed out
+cntv.cn,14,timed out
+cntv.cn,15,timed out
+cntv.cn,16,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:40 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:40 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,17,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:38 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:38 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,18,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:41 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:41 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,19,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:40 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:40 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,20,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:42 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:42 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,21,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:41 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:41 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,22,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:42 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:42 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,23,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:45 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,24,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:45 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,25,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:44 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:44 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,26,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:44 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:44 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,27,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:45 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,28,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:48 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:48 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,29,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:46 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:46 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,30,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:49 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:49 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,31,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:48 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:48 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,32,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:48 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:48 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,33,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:49 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:49 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,34,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:50 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:50 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,35,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:53 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:53 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,36,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:53 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:53 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,37,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:52 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:52 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,38,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:55 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:55 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,39,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:53 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:53 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,40,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:54 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:54 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,41,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:57 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:57 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,42,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:57 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:57 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,43,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:56 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:56 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,44,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:59 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:59 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,45,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:59 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:59 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,46,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:58 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,47,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:26:01 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:29:01 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,48,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:25:59 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:28:59 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"
+cntv.cn,49,"HTTP/1.1 200 OK
+Server: CCTV_WebServer
+Date: Thu, 16 Jan 2020 06:26:00 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 16 Jan 2020 06:29:00 GMT
+Cache-Control: max-age=180
+X-UA-Compatible: IE=EmulateIE7
+
+b4
+<html>
+<head>
+<META http-equiv=""pragma"" content=""no-cache"">
+<META HTTP-EQUIV=""Refresh"" CONTENT=""0;URL=http://www.cctv.com/"">
+<title>China Central Television</title>
+</head>
+</html>
+0
+
+"

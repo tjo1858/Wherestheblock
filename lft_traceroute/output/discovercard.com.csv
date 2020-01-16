@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+discovercard.com,0,"traceroute to discovercard.com (2.19.115.29), 30 hops max, 60 byte packets
+"
+discovercard.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.297 ms  0.273 ms  0.274 ms  2.522 ms  0.255 ms  0.331 ms  0.273 ms  0.345 ms  0.286 ms  0.332 ms
+"
+discovercard.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.516 ms  0.582 ms  0.691 ms  0.573 ms  0.540 ms  0.514 ms  0.597 ms  0.539 ms  0.655 ms  1.832 ms
+"
+discovercard.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.762 ms  18.075 ms  16.816 ms  17.065 ms  17.392 ms  16.178 ms  17.749 ms  16.188 ms  16.021 ms  16.109 ms
+"
+discovercard.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.185 ms  48.719 ms  28.617 ms  28.534 ms  16.191 ms  16.158 ms  16.229 ms  16.202 ms  16.186 ms  16.210 ms
+"
+discovercard.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.871 ms  42.845 ms  42.856 ms  42.862 ms  42.845 ms  62.322 ms  42.867 ms  42.967 ms  42.864 ms  42.885 ms
+"
+discovercard.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  43.951 ms mow-b1-link.telia.net (62.115.141.29)  41.525 ms  40.668 ms  41.278 ms mow-b4-link.telia.net (80.91.246.90)  44.169 ms mow-b1-link.telia.net (62.115.141.29)  41.441 ms  40.664 ms mow-b4-link.telia.net (80.91.246.90)  43.905 ms  44.018 ms mow-b1-link.telia.net (62.115.141.29)  41.276 ms
+"
+discovercard.com,7," 7  s-bb3-link.telia.net (62.115.116.232)  41.440 ms  41.415 ms s-bb4-link.telia.net (62.115.141.22)  43.227 ms  43.169 ms s-bb3-link.telia.net (62.115.116.232)  41.461 ms  41.471 ms s-bb4-link.telia.net (62.115.141.22)  43.133 ms  43.206 ms s-bb3-link.telia.net (62.115.116.232)  41.715 ms  41.391 ms
+"
+discovercard.com,8," 8  s-b6-link.telia.net (62.115.139.107)  43.470 ms s-b6-link.telia.net (62.115.114.171)  42.582 ms s-b6-link.telia.net (62.115.139.107)  43.544 ms s-b6-link.telia.net (62.115.136.107)  42.422 ms s-b6-link.telia.net (62.115.114.167)  42.758 ms s-b6-link.telia.net (62.115.136.21)  42.425 ms  42.408 ms s-b6-link.telia.net (62.115.141.201)  44.935 ms s-b6-link.telia.net (62.115.142.219)  39.748 ms s-b6-link.telia.net (62.115.114.167)  42.538 ms
+"
+discovercard.com,9," 9  akamai-ic-346698-s-b6.c.telia.net (62.115.177.209)  37.316 ms  32.262 ms  32.295 ms  37.529 ms  38.092 ms  35.617 ms  32.973 ms  32.421 ms  32.296 ms  32.431 ms
+"
+discovercard.com,10,"10  a2-19-115-29.deploy.static.akamaitechnologies.com (2.19.115.29)  31.829 ms  31.774 ms  31.787 ms  31.738 ms  32.529 ms  32.508 ms  32.601 ms  32.510 ms  32.562 ms  32.533 ms
+"

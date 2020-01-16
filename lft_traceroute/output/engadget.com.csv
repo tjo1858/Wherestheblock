@@ -1,0 +1,55 @@
+URL,TTL,Response_Message
+engadget.com,0,"traceroute to engadget.com (106.10.218.150), 30 hops max, 60 byte packets
+"
+engadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.222 ms  0.347 ms  0.261 ms  9.046 ms  10.669 ms  2.106 ms  0.351 ms  0.263 ms  0.293 ms  0.323 ms
+"
+engadget.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.544 ms  0.668 ms  2.649 ms  0.557 ms  0.535 ms  0.549 ms  0.526 ms  0.680 ms  0.615 ms  0.537 ms
+"
+engadget.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.133 ms  26.141 ms  26.073 ms  26.135 ms  28.590 ms  28.662 ms  28.677 ms  26.241 ms  26.125 ms  28.612 ms
+"
+engadget.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.219 ms  26.166 ms  34.027 ms  27.135 ms  26.975 ms  28.724 ms  35.458 ms  32.152 ms  28.788 ms  26.232 ms
+"
+engadget.com,5," 5  ffm-bb2-link.telia.net (62.115.137.166)  48.159 ms ffm-bb3-link.telia.net (62.115.141.240)  44.097 ms ffm-bb2-link.telia.net (62.115.137.168)  44.944 ms ffm-bb3-link.telia.net (62.115.121.0)  44.032 ms ffm-bb2-link.telia.net (62.115.137.166)  48.127 ms ffm-bb3-link.telia.net (62.115.121.4)  44.060 ms ffm-bb3-link.telia.net (62.115.137.128)  42.748 ms ffm-bb2-link.telia.net (62.115.121.8)  45.826 ms ffm-bb2-link.telia.net (62.115.137.168)  42.618 ms ffm-bb2-link.telia.net (62.115.121.8)  81.274 ms
+"
+engadget.com,6," 6  prs-bb3-link.telia.net (62.115.123.13)  61.136 ms prs-bb4-link.telia.net (62.115.122.138)  43.431 ms  45.107 ms prs-bb3-link.telia.net (62.115.123.13)  47.413 ms  47.420 ms prs-bb4-link.telia.net (62.115.114.98)  44.981 ms prs-bb3-link.telia.net (62.115.123.13)  44.808 ms  47.434 ms  44.840 ms prs-bb4-link.telia.net (62.115.122.138)  42.378 ms
+"
+engadget.com,7," 7  ldn-bb3-link.telia.net (62.115.134.93)  45.232 ms  44.888 ms  44.105 ms ldn-bb4-link.telia.net (62.115.114.228)  43.113 ms ldn-bb3-link.telia.net (62.115.134.93)  41.576 ms  44.078 ms ldn-bb4-link.telia.net (62.115.114.228)  44.771 ms  45.905 ms  45.618 ms  43.323 ms
+"
+engadget.com,8," 8  ldn-b7-link.telia.net (62.115.138.155)  42.257 ms  42.267 ms ldn-b7-link.telia.net (62.115.138.151)  42.225 ms  44.673 ms ldn-b7-link.telia.net (62.115.138.155)  44.638 ms  44.683 ms ldn-b7-link.telia.net (62.115.138.151)  42.154 ms  42.247 ms ldn-b7-link.telia.net (62.115.138.155)  42.220 ms  42.134 ms
+"
+engadget.com,9," 9  telstra-ic-324829-ldn-b7.c.telia.net (62.115.154.237)  44.486 ms  42.422 ms  45.923 ms  42.464 ms  41.905 ms  43.872 ms  41.593 ms  45.199 ms  43.059 ms  43.135 ms
+"
+engadget.com,10,"10  i-91.ulco-core02.telstraglobal.net (202.40.148.33)  41.932 ms  45.443 ms  44.883 ms  42.054 ms  44.562 ms  41.769 ms  42.372 ms  44.135 ms  43.758 ms  44.824 ms
+"
+engadget.com,11,"11  i-15104.sgcn-core01.telstraglobal.net (202.84.140.97)  192.510 ms  190.898 ms  192.818 ms  194.455 ms  191.797 ms  190.907 ms  193.934 ms  195.347 ms  191.577 ms  191.627 ms
+"
+engadget.com,12,"12  i-91.istt04.telstraglobal.net (202.84.224.197)  189.324 ms  192.449 ms  192.675 ms  191.809 ms  192.355 ms  192.366 ms  192.478 ms  192.736 ms  189.167 ms  189.014 ms
+"
+engadget.com,13,"13  unknown.telstraglobal.net (202.126.129.127)  189.286 ms  189.259 ms tm-peer.istt04.pr.telstraglobal.net (202.126.129.145)  192.619 ms unknown.telstraglobal.net (202.126.129.127)  189.207 ms unknown.telstraglobal.net (202.126.129.141)  190.162 ms tm-peer.istt04.pr.telstraglobal.net (202.126.129.145)  191.899 ms unknown.telstraglobal.net (202.126.129.127)  191.825 ms  189.239 ms unknown.telstraglobal.net (202.126.129.125)  190.077 ms unknown.telstraglobal.net (202.126.129.141)  192.756 ms
+"
+engadget.com,14,"14  ae-4.msr1.sg3.yahoo.com (203.84.209.75)  190.450 ms ae-5.msr2.sg3.yahoo.com (203.84.209.89)  195.786 ms ae-4.msr2.sg3.yahoo.com (203.84.209.77)  190.067 ms  190.106 ms ae-4.msr1.sg3.yahoo.com (203.84.209.75)  189.839 ms ae-4.msr2.sg3.yahoo.com (203.84.209.77)  190.308 ms ae-5.msr2.sg3.yahoo.com (203.84.209.89)  200.092 ms ae-4.msr1.sg3.yahoo.com (203.84.209.75)  194.278 ms ae-5.msr1.sg3.yahoo.com (203.84.209.87)  222.980 ms ae-4.msr2.sg3.yahoo.com (203.84.209.77)  203.073 ms
+"
+engadget.com,15,"15  ae-2.clr1-a-gdc.sg3.yahoo.com (106.10.128.3)  225.426 ms ae-3.clr2-a-gdc.sg3.yahoo.com (106.10.128.9)  204.767 ms ae-2.clr1-a-gdc.sg3.yahoo.com (106.10.128.3)  192.807 ms ae-3.clr1-a-gdc.sg3.yahoo.com (106.10.128.7)  193.868 ms ae-3.clr2-a-gdc.sg3.yahoo.com (106.10.128.9)  193.144 ms ae-3.clr1-a-gdc.sg3.yahoo.com (106.10.128.7)  192.922 ms ae-3.clr2-a-gdc.sg3.yahoo.com (106.10.128.9)  192.706 ms ae-2.clr1-a-gdc.sg3.yahoo.com (106.10.128.3)  196.825 ms  189.294 ms ae-2.clr2-a-gdc.sg3.yahoo.com (106.10.128.5)  190.013 ms
+"
+engadget.com,16,"16  lo0.fab4-3-gdc.sg3.yahoo.com (106.10.131.214)  193.283 ms lo0.fab2-3-gdc.sg3.yahoo.com (106.10.131.216)  190.419 ms lo0.fab1-3-gdc.sg3.yahoo.com (106.10.131.217)  190.463 ms lo0.fab4-3-gdc.sg3.yahoo.com (106.10.131.214)  193.289 ms lo0.fab3-3-gdc.sg3.yahoo.com (106.10.131.215)  197.266 ms lo0.fab4-3-gdc.sg3.yahoo.com (106.10.131.214)  193.378 ms lo0.fab1-3-gdc.sg3.yahoo.com (106.10.131.217)  193.491 ms lo0.fab4-3-gdc.sg3.yahoo.com (106.10.131.214)  193.264 ms lo0.fab2-3-gdc.sg3.yahoo.com (106.10.131.216)  192.709 ms  190.041 ms
+"
+engadget.com,17,"17  lo0.usw1-1-lba.sg3.yahoo.com (106.10.128.238)  190.324 ms  192.870 ms  192.311 ms lo0.usw2-1-lba.sg3.yahoo.com (106.10.128.239)  193.041 ms  192.998 ms lo0.usw1-1-lba.sg3.yahoo.com (106.10.128.238)  190.755 ms lo0.usw2-1-lba.sg3.yahoo.com (106.10.128.239)  192.473 ms  192.435 ms lo0.usw1-1-lba.sg3.yahoo.com (106.10.128.238)  192.390 ms  191.972 ms
+"
+engadget.com,18,"18  * * * * * * * * * *
+"
+engadget.com,19,"19  * * * * * * * * * *
+"
+engadget.com,20,"20  * * * * * * * * * *
+"
+engadget.com,21,"21  * * * * * * * * * *
+"
+engadget.com,22,"22  * * * * * * * * * *
+"
+engadget.com,23,"23  * * * * * * * * * *
+"
+engadget.com,24,"24  * * * * * * * * * *
+"
+engadget.com,25,"25  * * * * * * * * * *
+"
+engadget.com,26,"26  w2.src4.vip.sg3.yahoo.com (106.10.218.150)  190.040 ms  193.413 ms  192.796 ms  189.240 ms  192.599 ms  193.207 ms  191.233 ms  189.500 ms  196.411 ms  192.518 ms
+"

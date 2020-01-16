@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+bloomberg.com,0,"traceroute to bloomberg.com (69.191.252.15), 50 hops max, 60 byte packets
+"
+bloomberg.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  8.920 ms  8.899 ms  8.887 ms
+"
+bloomberg.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.089 ms  1.028 ms  1.302 ms
+"
+bloomberg.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.245 ms  16.985 ms  17.233 ms
+"
+bloomberg.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.232 ms  18.249 ms  18.237 ms
+"
+bloomberg.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.202 ms  24.725 ms  24.181 ms
+"
+bloomberg.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.754 ms  29.991 ms  29.794 ms
+"
+bloomberg.com,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  29.918 ms  29.974 ms  30.129 ms
+"
+bloomberg.com,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  29.680 ms  29.631 ms  29.650 ms
+"
+bloomberg.com,9," 9  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  30.231 ms  30.009 ms  30.035 ms
+"
+bloomberg.com,10,"10  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  113.200 ms  113.262 ms  113.182 ms
+"
+bloomberg.com,11,"11  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  114.995 ms  114.571 ms  114.563 ms
+"
+bloomberg.com,12,"12  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  112.270 ms  112.361 ms  112.210 ms
+"
+bloomberg.com,13,"13  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  113.113 ms  113.143 ms  113.105 ms
+"
+bloomberg.com,14,"14  * * *
+"
+bloomberg.com,15,"15  * * *
+"
+bloomberg.com,16,"16  ae6.mpr3.phl2.us.zip.zayo.com (64.125.30.59)  114.660 ms  114.565 ms  114.588 ms
+"
+bloomberg.com,17,"17  208.184.124.82.IPYX-071383-ZYO.above.net (208.184.124.82)  114.754 ms  114.690 ms  114.736 ms
+"
+bloomberg.com,18,"18  69.191.240.33 (69.191.240.33)  116.561 ms  116.962 ms  116.948 ms
+"
+bloomberg.com,19,"19  69.191.252.15 (69.191.252.15)  115.687 ms  116.632 ms  114.354 ms
+"

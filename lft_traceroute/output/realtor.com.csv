@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+realtor.com,0,"traceroute to realtor.com (206.131.180.21), 30 hops max, 60 byte packets
+"
+realtor.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.364 ms  0.354 ms  0.285 ms  0.336 ms  3.400 ms  0.240 ms  0.313 ms  0.296 ms  0.278 ms  3.374 ms
+"
+realtor.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.878 ms  0.712 ms  1.107 ms  0.884 ms  0.831 ms  0.712 ms  0.737 ms  0.664 ms  0.731 ms  0.724 ms
+"
+realtor.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.660 ms  29.868 ms  48.814 ms  29.896 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.012 ms  31.092 ms  30.876 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.658 ms  29.742 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.031 ms
+"
+realtor.com,4," 4  * * * * * * * * * *
+"
+realtor.com,5," 5  ae-2-3212.msr1.Frankfurt1.Level3.net (4.69.163.126)  112.139 ms  112.074 ms  110.844 ms  112.044 ms ae-1-3112.msr1.Frankfurt1.Level3.net (4.69.163.122)  111.296 ms ae-2-3212.msr1.Frankfurt1.Level3.net (4.69.163.126)  110.825 ms  110.790 ms ae-1-3112.msr1.Frankfurt1.Level3.net (4.69.163.122)  112.521 ms  112.534 ms ae-2-3212.msr1.Frankfurt1.Level3.net (4.69.163.126)  110.851 ms
+"
+realtor.com,6," 6  * * * * * * * * * *
+"
+realtor.com,7," 7  * * * * * * * * * *
+"
+realtor.com,8," 8  * * * * * * * * * *
+"
+realtor.com,9," 9  * * * * * * * * * *
+"
+realtor.com,10,"10  * * * * * * * * * *
+"
+realtor.com,11,"11  206.131.184.1 (206.131.184.1)  193.510 ms  194.755 ms  175.114 ms  173.923 ms  173.838 ms  194.744 ms  193.540 ms  193.418 ms  194.722 ms  194.710 ms
+"
+realtor.com,12,"12  realtorquotes.com (206.131.180.21)  193.519 ms  175.006 ms  173.758 ms  193.401 ms  195.200 ms  193.932 ms  174.240 ms  174.242 ms  174.154 ms  194.799 ms
+"

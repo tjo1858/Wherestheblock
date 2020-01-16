@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+elmogaz.com,0,"traceroute to elmogaz.com (104.27.170.122), 30 hops max, 60 byte packets
+"
+elmogaz.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.244 ms  0.272 ms  4.727 ms  1.119 ms  0.304 ms  0.264 ms  0.287 ms  3.016 ms  1.465 ms  0.249 ms
+"
+elmogaz.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.111 ms  0.824 ms  0.844 ms  1.171 ms  1.031 ms  2.435 ms  0.845 ms  0.950 ms  1.861 ms  0.944 ms
+"
+elmogaz.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.832 ms  18.801 ms  18.866 ms  18.782 ms  18.777 ms  18.862 ms  18.933 ms  19.429 ms  18.762 ms  18.833 ms
+"
+elmogaz.com,4," 4  149.6.50.74 (149.6.50.74)  23.490 ms  22.136 ms  22.941 ms  24.972 ms  23.770 ms  21.633 ms  21.413 ms  22.041 ms  42.856 ms  22.382 ms
+"
+elmogaz.com,5," 5  104.27.170.122 (104.27.170.122)  18.657 ms  18.599 ms  18.557 ms  18.531 ms  18.455 ms  18.477 ms  18.457 ms  18.521 ms  18.569 ms  18.610 ms
+"

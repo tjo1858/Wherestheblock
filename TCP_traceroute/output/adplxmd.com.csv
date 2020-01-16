@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+adplxmd.com,0,"traceroute to adplxmd.com (103.224.182.251), 50 hops max, 60 byte packets
+"
+adplxmd.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.040 ms  2.025 ms  2.041 ms
+"
+adplxmd.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.973 ms  0.822 ms  1.015 ms
+"
+adplxmd.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.186 ms  17.184 ms  17.215 ms
+"
+adplxmd.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.524 ms  22.556 ms  22.589 ms
+"
+adplxmd.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.406 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.363 ms  30.440 ms
+"
+adplxmd.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.563 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.298 ms  39.504 ms
+"
+adplxmd.com,7," 7  be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.346 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.828 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.830 ms
+"
+adplxmd.com,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.447 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.120 ms  117.430 ms
+"
+adplxmd.com,9," 9  be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.620 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.826 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  121.403 ms
+"
+adplxmd.com,10,"10  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  132.515 ms  131.569 ms  134.158 ms
+"
+adplxmd.com,11,"11  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  133.622 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  148.239 ms  147.892 ms
+"
+adplxmd.com,12,"12  be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  164.585 ms  164.011 ms  161.718 ms
+"
+adplxmd.com,13,"13  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  171.470 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  161.540 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  169.859 ms
+"
+adplxmd.com,14,"14  be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  180.550 ms be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  182.576 ms  179.855 ms
+"
+adplxmd.com,15,"15  te0-0-2-0.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.226)  182.428 ms be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  179.708 ms te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  184.600 ms
+"
+adplxmd.com,16,"16  38.140.111.58 (38.140.111.58)  182.369 ms te0-0-2-0.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.226)  179.650 ms 38.140.111.58 (38.140.111.58)  183.886 ms
+"
+adplxmd.com,17,"17  38.140.111.58 (38.140.111.58)  181.543 ms sw03-san.trellian.com (103.224.213.253)  181.223 ms 38.140.111.58 (38.140.111.58)  181.223 ms
+"
+adplxmd.com,18,"18  lb-182-251.above.com (103.224.182.251)  181.587 ms  180.096 ms  182.475 ms
+"

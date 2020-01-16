@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+badoo.com,0,"traceroute to badoo.com (159.253.176.75), 30 hops max, 60 byte packets
+"
+badoo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.411 ms  0.261 ms  0.245 ms  0.329 ms  0.228 ms  0.296 ms  0.318 ms  0.215 ms  0.936 ms  0.263 ms
+"
+badoo.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.556 ms  0.554 ms  1.115 ms  0.879 ms  0.505 ms  0.659 ms  0.628 ms  0.534 ms  1.573 ms  0.525 ms
+"
+badoo.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.633 ms  26.109 ms  26.114 ms  26.129 ms  26.103 ms  26.171 ms  26.181 ms  26.093 ms  26.069 ms  28.658 ms
+"
+badoo.com,4," 4  de-cix.badoo.com (80.81.194.162)  36.028 ms  37.076 ms  37.097 ms  37.123 ms  37.070 ms  37.107 ms  37.095 ms  34.604 ms  34.596 ms  37.116 ms
+"
+badoo.com,5," 5  eu1.mates.ru (159.253.176.75)  37.856 ms  37.701 ms  35.264 ms  35.213 ms  37.717 ms  37.696 ms * * * *
+"
+badoo.com,6," 6  eu1.mates.ru (159.253.176.75)  34.756 ms  37.341 ms  35.234 ms  37.754 ms  35.233 ms  35.253 ms  37.795 ms  37.729 ms  35.254 ms  35.450 ms
+"

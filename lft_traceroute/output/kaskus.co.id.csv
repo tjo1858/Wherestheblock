@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+kaskus.co.id,0,"traceroute to kaskus.co.id (103.6.117.3), 30 hops max, 60 byte packets
+"
+kaskus.co.id,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.272 ms  0.998 ms  0.551 ms  0.313 ms  0.427 ms  0.985 ms  0.224 ms  4.037 ms  1.824 ms  0.502 ms
+"
+kaskus.co.id,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.588 ms  17.091 ms  31.488 ms  0.643 ms  0.666 ms  0.586 ms  0.607 ms  0.625 ms  0.646 ms  0.667 ms
+"
+kaskus.co.id,3," 3  100.64.65.25 (100.64.65.25)  8.272 ms  7.731 ms  7.773 ms  7.790 ms  7.792 ms  8.278 ms  7.757 ms  8.304 ms  7.797 ms  7.764 ms
+"
+kaskus.co.id,4," 4  100.64.64.141 (100.64.64.141)  30.418 ms  30.442 ms  30.394 ms  29.946 ms  29.957 ms  42.193 ms  30.367 ms  30.419 ms  52.700 ms  29.951 ms
+"
+kaskus.co.id,5," 5  de-cix.sg.gs (80.81.193.18)  36.431 ms  30.543 ms  30.096 ms  31.553 ms  30.530 ms  30.082 ms  30.085 ms  30.128 ms  30.857 ms  30.154 ms
+"
+kaskus.co.id,6," 6  edge-1.v35.sg3.sg.gs (103.14.244.9)  209.502 ms  210.282 ms  210.388 ms  208.517 ms  209.010 ms  209.136 ms  209.065 ms  208.987 ms  208.995 ms  208.989 ms
+"
+kaskus.co.id,7," 7  103.14.244.155 (103.14.244.155)  208.797 ms  209.130 ms  209.048 ms  208.960 ms  209.108 ms  208.844 ms  209.301 ms  209.233 ms  208.660 ms  208.877 ms
+"
+kaskus.co.id,8," 8  203.81.188.209 (203.81.188.209)  224.621 ms  225.060 ms  225.032 ms  224.960 ms  224.965 ms  224.755 ms * * * *
+"
+kaskus.co.id,9," 9  honda.isat.net.id (58.65.240.14)  202.170 ms  201.974 ms  201.383 ms  202.344 ms  201.204 ms  201.569 ms  201.753 ms  202.676 ms  202.550 ms  201.727 ms
+"
+kaskus.co.id,10,"10  HOST-58-65-242-98.isat.net.id (58.65.242.98)  209.840 ms  210.062 ms  209.965 ms  211.018 ms  210.840 ms  209.873 ms  210.231 ms  209.922 ms  210.023 ms  209.208 ms
+"
+kaskus.co.id,11,"11  * * * * * * * * * *
+"
+kaskus.co.id,12,"12  * * * * * * * * * *
+"
+kaskus.co.id,13,"13  3-id.gb.castle.kaskus.com (103.6.117.3)  210.545 ms  211.358 ms  210.580 ms  210.809 ms  209.987 ms  210.175 ms  210.446 ms  210.566 ms  210.460 ms  209.978 ms
+"

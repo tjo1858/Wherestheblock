@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+putlocker.is,0,"traceroute to putlocker.is (185.53.178.22), 30 hops max, 60 byte packets
+"
+putlocker.is,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.232 ms  0.384 ms  1.993 ms  0.220 ms  0.347 ms  0.236 ms  0.269 ms  0.275 ms  0.255 ms  0.356 ms
+"
+putlocker.is,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  3.336 ms  2.727 ms  2.707 ms  3.123 ms  2.815 ms  2.568 ms  3.126 ms  1.733 ms  4.108 ms  3.797 ms
+"
+putlocker.is,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  19.589 ms  18.654 ms  20.216 ms  20.725 ms  20.545 ms  20.042 ms  17.003 ms  20.350 ms  20.321 ms  20.753 ms
+"
+putlocker.is,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  21.302 ms *  21.413 ms  21.212 ms  21.444 ms *  21.506 ms  21.744 ms *  21.495 ms
+"
+putlocker.is,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  28.368 ms *  27.455 ms  28.424 ms  27.867 ms  27.585 ms  26.604 ms  27.412 ms  27.617 ms  27.810 ms
+"
+putlocker.is,6," 6  te0-0-1-2.agr11.muc03.atlas.cogentco.com (154.54.56.226)  27.857 ms te0-0-1-2.agr12.muc03.atlas.cogentco.com (154.54.56.230)  27.750 ms  28.052 ms  28.069 ms te0-0-1-2.agr11.muc03.atlas.cogentco.com (154.54.56.226)  27.876 ms te0-0-1-2.agr12.muc03.atlas.cogentco.com (154.54.56.230)  27.523 ms  27.836 ms  27.998 ms * te0-0-1-2.agr11.muc03.atlas.cogentco.com (154.54.56.226)  27.936 ms
+"
+putlocker.is,7," 7  te0-0-2-3.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.6.162)  28.781 ms  28.300 ms *  28.247 ms te0-0-2-1.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.8.22)  28.372 ms  27.291 ms te0-0-2-3.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.6.162)  28.169 ms te0-0-2-1.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.8.22)  28.348 ms te0-0-2-3.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.6.162)  28.303 ms  28.411 ms
+"
+putlocker.is,8," 8  149.6.156.195 (149.6.156.195)  26.337 ms 149.6.156.203 (149.6.156.203)  28.099 ms 149.6.156.202 (149.6.156.202)  27.969 ms 149.6.156.195 (149.6.156.195)  28.028 ms * 149.6.156.202 (149.6.156.202)  27.377 ms 149.6.156.195 (149.6.156.195)  28.599 ms 149.6.156.203 (149.6.156.203)  27.887 ms 149.6.156.195 (149.6.156.195)  27.926 ms 149.6.156.203 (149.6.156.203)  27.995 ms
+"
+putlocker.is,9," 9  185.53.178.22 (185.53.178.22)  27.095 ms  28.064 ms  27.877 ms * *  27.917 ms  27.824 ms  27.901 ms  27.959 ms  27.653 ms
+"

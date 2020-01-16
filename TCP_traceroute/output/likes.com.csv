@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+likes.com,0,"traceroute to likes.com (184.168.131.241), 50 hops max, 60 byte packets
+"
+likes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.296 ms  0.318 ms
+"
+likes.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.627 ms  0.663 ms  0.640 ms
+"
+likes.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  35.612 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  35.686 ms  35.791 ms
+"
+likes.com,4," 4  * * *
+"
+likes.com,5," 5  * * *
+"
+likes.com,6," 6  4.28.83.74 (4.28.83.74)  166.970 ms  166.919 ms  165.956 ms
+"
+likes.com,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  166.208 ms  166.558 ms  165.403 ms
+"
+likes.com,8," 8  * * *
+"
+likes.com,9," 9  148.72.32.9 (148.72.32.9)  221.227 ms 148.72.32.5 (148.72.32.5)  168.875 ms  167.564 ms
+"
+likes.com,10,"10  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  165.611 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  167.636 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  166.811 ms
+"
+likes.com,11,"11  ip-184-168-1-134.ip.secureserver.net (184.168.1.134)  167.146 ms  166.102 ms  167.262 ms
+"
+likes.com,12,"12  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  168.007 ms  167.874 ms  167.456 ms
+"
+likes.com,13,"13  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  165.765 ms  166.180 ms  166.348 ms
+"
+likes.com,14,"14  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  165.937 ms  167.072 ms  167.743 ms
+"

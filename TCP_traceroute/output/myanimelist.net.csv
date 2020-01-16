@@ -1,0 +1,69 @@
+URL,TTL,Response_Message
+myanimelist.net,0,"traceroute to myanimelist.net (54.201.220.202), 50 hops max, 60 byte packets
+"
+myanimelist.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.428 ms  2.418 ms  2.414 ms
+"
+myanimelist.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.023 ms  2.475 ms  2.467 ms
+"
+myanimelist.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.179 ms  17.211 ms  17.245 ms
+"
+myanimelist.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.265 ms  22.325 ms  22.377 ms
+"
+myanimelist.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.377 ms  30.669 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.452 ms
+"
+myanimelist.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.612 ms  39.755 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.344 ms
+"
+myanimelist.net,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.387 ms  135.766 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.320 ms
+"
+myanimelist.net,8," 8  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  139.407 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.308 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.363 ms
+"
+myanimelist.net,9," 9  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.141 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.214 ms  185.192 ms
+"
+myanimelist.net,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  186.097 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  139.990 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  185.725 ms
+"
+myanimelist.net,11,"11  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.475 ms  140.636 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.791 ms
+"
+myanimelist.net,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.589 ms  185.913 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  146.934 ms
+"
+myanimelist.net,13,"13  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.545 ms  163.674 ms  163.499 ms
+"
+myanimelist.net,14,"14  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  191.359 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.495 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  169.447 ms
+"
+myanimelist.net,15,"15  be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  186.115 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  189.950 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  184.409 ms
+"
+myanimelist.net,16,"16  be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.338 ms  185.727 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  185.313 ms
+"
+myanimelist.net,17,"17  38.88.224.186 (38.88.224.186)  174.739 ms  179.521 ms  174.737 ms
+"
+myanimelist.net,18,"18  38.88.224.218 (38.88.224.218)  190.923 ms 52.93.70.182 (52.93.70.182)  181.423 ms 52.93.70.180 (52.93.70.180)  180.271 ms
+"
+myanimelist.net,19,"19  54.240.242.155 (54.240.242.155)  175.062 ms 54.240.242.59 (54.240.242.59)  175.831 ms 54.240.242.115 (54.240.242.115)  176.142 ms
+"
+myanimelist.net,20,"20  54.240.242.161 (54.240.242.161)  179.623 ms * *
+"
+myanimelist.net,21,"21  52.93.130.2 (52.93.130.2)  194.762 ms 52.93.132.216 (52.93.132.216)  195.602 ms 52.93.128.36 (52.93.128.36)  197.415 ms
+"
+myanimelist.net,22,"22  54.239.43.134 (54.239.43.134)  199.739 ms 54.239.46.104 (54.239.46.104)  206.192 ms *
+"
+myanimelist.net,23,"23  52.93.12.160 (52.93.12.160)  195.534 ms 52.93.12.40 (52.93.12.40)  197.727 ms *
+"
+myanimelist.net,24,"24  52.93.12.33 (52.93.12.33)  195.126 ms 52.93.12.120 (52.93.12.120)  194.315 ms *
+"
+myanimelist.net,25,"25  52.93.12.176 (52.93.12.176)  195.476 ms 52.93.12.35 (52.93.12.35)  198.917 ms 52.93.12.78 (52.93.12.78)  200.568 ms
+"
+myanimelist.net,26,"26  52.93.12.139 (52.93.12.139)  194.468 ms 52.93.12.254 (52.93.12.254)  200.712 ms 52.93.12.133 (52.93.12.133)  199.798 ms
+"
+myanimelist.net,27,"27  52.93.12.211 (52.93.12.211)  200.002 ms 52.93.12.205 (52.93.12.205)  194.675 ms 52.93.12.97 (52.93.12.97)  195.928 ms
+"
+myanimelist.net,28,"28  52.93.12.205 (52.93.12.205)  194.270 ms 52.93.246.37 (52.93.246.37)  195.689 ms 52.93.12.146 (52.93.12.146)  195.080 ms
+"
+myanimelist.net,29,"29  * * *
+"
+myanimelist.net,30,"30  * * 52.93.12.211 (52.93.12.211)  199.616 ms
+"
+myanimelist.net,31,"31  * * *
+"
+myanimelist.net,32,"32  * * *
+"
+myanimelist.net,33,"33  * * ec2-54-201-220-202.us-west-2.compute.amazonaws.com (54.201.220.202)  194.578 ms
+"

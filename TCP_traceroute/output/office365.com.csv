@@ -1,0 +1,51 @@
+URL,TTL,Response_Message
+office365.com,0,"traceroute to office365.com (13.90.213.204), 50 hops max, 60 byte packets
+"
+office365.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.293 ms  0.342 ms
+"
+office365.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.614 ms  0.649 ms  0.599 ms
+"
+office365.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.916 ms  35.897 ms  39.505 ms
+"
+office365.com,4," 4  ams-ix-2.microsoft.com (80.249.209.21)  34.217 ms  34.196 ms  34.201 ms
+"
+office365.com,5," 5  ae29-0.icr02.ams30.ntwk.msn.net (104.44.239.81)  36.909 ms  36.904 ms  34.380 ms
+"
+office365.com,6," 6  be-122-0.ibr02.ams30.ntwk.msn.net (104.44.22.225)  113.827 ms  116.243 ms  116.245 ms
+"
+office365.com,7," 7  be-7-0.ibr02.dub07.ntwk.msn.net (104.44.17.58)  115.796 ms  113.243 ms  115.911 ms
+"
+office365.com,8," 8  be-6-0.ibr02.sxl71.ntwk.msn.net (104.44.16.114)  116.262 ms  116.271 ms  113.965 ms
+"
+office365.com,9," 9  be-4-0.ibr02.ewr30.ntwk.msn.net (104.44.17.154)  116.480 ms  113.479 ms  115.673 ms
+"
+office365.com,10,"10  be-7-0.ibr04.bl7.ntwk.msn.net (104.44.16.16)  113.150 ms  115.751 ms  115.735 ms
+"
+office365.com,11,"11  ae160-0.icr01.bl7.ntwk.msn.net (104.44.21.214)  116.107 ms  113.414 ms ae162-0.icr02.bl7.ntwk.msn.net (104.44.21.216)  112.937 ms
+"
+office365.com,12,"12  * * *
+"
+office365.com,13,"13  * * *
+"
+office365.com,14,"14  * * *
+"
+office365.com,15,"15  * * *
+"
+office365.com,16,"16  * * *
+"
+office365.com,17,"17  * * *
+"
+office365.com,18,"18  * * *
+"
+office365.com,19,"19  * * *
+"
+office365.com,20,"20  * * *
+"
+office365.com,21,"21  * * *
+"
+office365.com,22,"22  * * *
+"
+office365.com,23,"23  * * *
+"
+office365.com,24,"24  13.90.213.204 (13.90.213.204)  113.475 ms  113.209 ms  115.800 ms
+"

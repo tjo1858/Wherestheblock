@@ -41,7 +41,7 @@ with open('BlockUrls.csv', mode='r') as csv_file:
         for x in range(1, int(sys.argv[1])):
             print "TTL:" ,x
             c = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
-            c.settimeout(30)
+            c.settimeout(100)
 	    try: 
     		host_ip = socket.gethostbyname(row["URL"]) 
 	    except socket.gaierror:

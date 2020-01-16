@@ -1,0 +1,2452 @@
+URL,TTL,Message
+office365.com,1,timed out
+office365.com,2,timed out
+office365.com,3,timed out
+office365.com,4,timed out
+office365.com,5,timed out
+office365.com,6,timed out
+office365.com,7,timed out
+office365.com,8,timed out
+office365.com,9,timed out
+office365.com,10,timed out
+office365.com,11,timed out
+office365.com,12,timed out
+office365.com,13,timed out
+office365.com,14,timed out
+office365.com,15,timed out
+office365.com,16,timed out
+office365.com,17,timed out
+office365.com,18,timed out
+office365.com,19,timed out
+office365.com,20,timed out
+office365.com,21,timed out
+office365.com,22,timed out
+office365.com,23,timed out
+office365.com,24,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:05 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,25,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:04 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,26,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:05 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,27,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:05 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,28,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:05 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,29,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:06 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,30,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:06 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,31,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:06 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,32,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:06 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+   "
+office365.com,33,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:06 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,34,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:07 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,35,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:07 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,36,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,37,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,38,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+   "
+office365.com,39,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,40,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,41,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,42,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:08 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,43,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:09 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+   "
+office365.com,44,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:09 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+   "
+office365.com,45,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:10 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,46,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:10 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,47,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:10 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,48,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:10 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"
+office365.com,49,"HTTP/1.1 404 Site Not Found
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Date: Thu, 16 Jan 2020 06:48:10 GMT
+Connection: close
+Content-Length: 2778
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: ""Segoe UI Light"";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        a, a:visited, a:active, a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+    <script type=""text/javascript"">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if (e.style.display == 'block')
+                e.style.display = 'none';
+            else
+                e.style.display = 'block';
+        }
+    </script>
+</head>
+<body bgcolor=""#00abec"">
+    <div id=""feature"">
+        <div id=""content"">
+            <h1>404 Web Site not found.</h1>
+            <p>You may be seeing this error due to one of the reasons listed below :</p>
+            <ul>
+                <li>Custom domain has not been configured inside Azure. See <a href=""https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-custom-domain"">how to map an existing domain</a> to resolve this.</li>
+                <li>Client cache is still pointing the domain to old IP address. Clear the cache by running the command <i>ipconfig/flushdns.</i></li>
+            </ul>
+            <p>Checkout <a href=""https://blogs.msdn.microsoft.com/appserviceteam/2017/08/08/faq-app-service-domain-preview-and-custom-domains/"">App Service Domain FAQ</a> for more questions.</p>
+        </div>
+     </div>
+</body>
+</html>
+"

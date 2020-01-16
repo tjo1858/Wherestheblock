@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+bloomberg.com,0,"traceroute to bloomberg.com (69.187.24.15), 30 hops max, 60 byte packets
+"
+bloomberg.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.264 ms  0.263 ms  0.377 ms  0.241 ms  0.255 ms  0.280 ms  0.253 ms  0.303 ms  0.318 ms  0.316 ms
+"
+bloomberg.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.023 ms  0.722 ms  0.959 ms  0.945 ms  0.845 ms  0.964 ms  0.989 ms  0.776 ms  2.182 ms  0.854 ms
+"
+bloomberg.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.319 ms  17.273 ms  17.213 ms  17.115 ms  16.908 ms  17.232 ms  17.260 ms  17.224 ms  16.961 ms  16.928 ms
+"
+bloomberg.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.491 ms  22.185 ms  22.621 ms  22.816 ms  22.327 ms  22.353 ms  22.534 ms  22.446 ms  22.379 ms  22.282 ms
+"
+bloomberg.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.512 ms  30.467 ms  30.793 ms  30.502 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.596 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.540 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.771 ms  30.480 ms  30.705 ms  30.544 ms
+"
+bloomberg.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.401 ms  39.487 ms  39.907 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.639 ms  39.374 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.529 ms  39.811 ms  39.488 ms  39.359 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.661 ms
+"
+bloomberg.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.727 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  118.052 ms  116.911 ms  115.781 ms  115.532 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.236 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.703 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.979 ms  115.199 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.966 ms
+"
+bloomberg.com,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.304 ms  117.197 ms  115.762 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.603 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.901 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.013 ms  120.215 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.432 ms  115.441 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.340 ms
+"
+bloomberg.com,9," 9  be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.447 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  123.399 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  124.323 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.654 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  122.986 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  124.018 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.810 ms  115.613 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.986 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  122.449 ms
+"
+bloomberg.com,10,"10  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.420 ms  121.765 ms be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  124.012 ms be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  124.993 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.323 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  121.006 ms be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  122.713 ms be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  124.935 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.469 ms be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  124.618 ms
+"
+bloomberg.com,11,"11  8-1-5.BR2.IAD8.ALTER.NET (204.148.79.233)  117.600 ms  119.555 ms  117.514 ms 10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  119.513 ms be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  124.578 ms 10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  121.057 ms be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  121.609 ms be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  123.824 ms 10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  117.422 ms  117.385 ms
+"
+bloomberg.com,12,"12  0.ae12.GW14.NYC1.ALTER.NET (140.222.235.129)  126.100 ms 0.ae13.GW14.NYC1.ALTER.NET (140.222.235.127)  123.873 ms 0.ae12.GW14.NYC1.ALTER.NET (140.222.235.129)  125.359 ms 8-1-5.BR2.IAD8.ALTER.NET (204.148.79.233)  116.926 ms 10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  116.552 ms 0.ae13.GW14.NYC1.ALTER.NET (140.222.235.127)  123.172 ms  123.931 ms 0.ae12.GW14.NYC1.ALTER.NET (140.222.235.129)  125.369 ms 10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  116.655 ms 0.ae12.GW14.NYC1.ALTER.NET (140.222.235.129)  125.197 ms
+"
+bloomberg.com,13,"13  bloomberg-gw.customer.alter.net (157.130.250.210)  123.763 ms  124.726 ms 0.ae12.GW14.NYC1.ALTER.NET (140.222.235.129)  122.934 ms bloomberg-gw.customer.alter.net (157.130.250.210)  125.035 ms  126.191 ms  124.894 ms 0.ae12.GW14.NYC1.ALTER.NET (140.222.235.129)  126.476 ms  127.117 ms bloomberg-gw.customer.alter.net (157.130.250.210)  122.754 ms  126.365 ms
+"
+bloomberg.com,14,"14  bloomberg-gw.customer.alter.net (157.130.250.210)  122.601 ms * * * * *  123.857 ms * * *
+"
+bloomberg.com,15,"15  69.187.24.15 (69.187.24.15)  127.391 ms * *  123.532 ms  123.406 ms  122.480 ms  127.001 ms  126.782 ms  124.409 ms  123.401 ms
+"
