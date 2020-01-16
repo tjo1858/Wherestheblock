@@ -13,7 +13,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 2. Run command:
 	sudo python HTTP_traceroute.py TTL
 
-	Ex: sudo python HTTP_traceroute.py 20
+	Ex: sudo python HTTP_traceroute.py 30
 
 3. Results of the http response is stored in Block URL names CSV files.
 
@@ -22,7 +22,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 2. Blockurl file contains the URL to be tested CSV list
 3. Enter the TCP_traceroute directory
 4. Run command:
-	sudo python TCP_traceroute.py
+	sudo python TCP_traceroute.py 30
 
 5. Results of the http response is stored in Block URL names CSV files.
 
@@ -32,7 +32,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 0. Blockurl file contains the URL to be tested CSV list
 1. Enter the ICMP_traceroute directory
 2. Run command:
-	sudo python ICMP_traceroute.py
+	sudo python ICMP_traceroute.py 30
 
 3. Results of the http response is stored in Block URL names CSV files.
 
@@ -41,7 +41,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 0. Blockurl file contains the URL to be tested CSV list
 1. Enter the UDP_traceroute directory
 2. Run command:
-	sudo python UDP_traceroute.py
+	sudo python UDP_traceroute.py 30
 
 3. Results of the http response is stored in Block URL names CSV files.
 
@@ -50,7 +50,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 0. Blockurl file contains the URL to be tested CSV list
 1. Enter the lft_traceroute directory
 2. Run command:
-	sudo python lft_traceroute.py
+	sudo python lft_traceroute.py 30
 
 3. Results of the http response is stored in Block URL names CSV files.
 
