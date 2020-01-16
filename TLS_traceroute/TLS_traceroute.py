@@ -41,7 +41,12 @@ with open('BlockUrls.csv', mode='r') as csv_file:
         for x in range(1, int(sys.argv[1])):
             print "TTL:" ,x
             c = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
-            c.settimeout(5)
+            c.settimeout(30)
+	    try: 
+    		host_ip = socket.gethostbyname(row["URL"]) 
+	    except socket.gaierror:
+	        print "url is not correct"
+		break
             c.connect(url)
             c.setsockopt(socket.SOL_IP, socket.IP_TTL, x)
 
@@ -63,7 +68,7 @@ with open('BlockUrls.csv', mode='r') as csv_file:
             except socket.timeout as e:
                 my_list.append([row["URL"],x,e])
                 c.close()
-        filename = row["URL"] + ".csv"
+        filename = "output/"+row["URL"] + ".csv"
         with open(filename, mode='w') as results:
             results_writer = csv.writer(results, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             results_writer.writerow(['URL', 'TTL', 'Message'])
