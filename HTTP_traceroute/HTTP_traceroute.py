@@ -1,6 +1,9 @@
 import sys
 import socket
 import csv
+import os
+import errno
+
 
 # HTTP header
 req = "GET / HTTP/1.1\r\nHost: ojaloberoi.in\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.8\r\n\r\n"
@@ -32,7 +35,21 @@ with open('BlockUrls.csv', mode='r') as csv_file:
             except socket.timeout as e:
                 my_list.append([row["URL"],x,e])
                 c.close()
-        filename = "output/"+row["URL"] + ".csv"
+
+	myCmd = os.popen("curl -s https://ipvigilante.com/$(curl -s https://ipinfo.io/ip) | jq ' .data.country_name'").read()
+	myCmd=myCmd.replace('"', '')
+	myCmd=myCmd.replace('\n', '')
+	print(myCmd)
+        filename = "output/"+myCmd+'/'+row["URL"] + ".csv"
+	print(filename)
+	if not os.path.exists(os.path.dirname(filename)):
+	    try:
+	        os.makedirs(os.path.dirname(filename),0777)
+	    except OSError as exc: # Guard against race condition
+	        if exc.errno != errno.EEXIST:
+	            raise
+	os.system("sudo chmod -R 777 output/*")
+
         with open(filename, mode='w') as results:
             results_writer = csv.writer(results, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             results_writer.writerow(['URL', 'TTL', 'Message'])
