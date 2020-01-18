@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+udn.com,0,"traceroute to udn.com (23.63.118.100), 50 hops max, 60 byte packets
+"
+udn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.783 ms  0.765 ms  0.802 ms
+"
+udn.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.478 ms  0.534 ms  2.465 ms
+"
+udn.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.574 ms  26.117 ms  28.562 ms
+"
+udn.com,4," 4  ae31-437.fra10.core-backbone.com (81.95.2.165)  28.965 ms  28.952 ms  28.987 ms
+"
+udn.com,5," 5  ae1-2080.ber10.core-backbone.com (80.255.14.198)  37.240 ms  39.789 ms  39.784 ms
+"
+udn.com,6," 6  * * *
+"
+udn.com,7," 7  a23-63-118-100.deploy.static.akamaitechnologies.com (23.63.118.100)  37.183 ms  37.103 ms  39.735 ms
+"

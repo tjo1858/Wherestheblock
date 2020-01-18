@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+videomega.tv,0,"traceroute to videomega.tv (103.224.182.251), 30 hops max, 60 byte packets
+"
+videomega.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.362 ms  0.313 ms  0.349 ms  0.347 ms  0.257 ms  2.019 ms  0.852 ms  1.412 ms  0.219 ms  0.290 ms
+"
+videomega.tv,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.985 ms  0.874 ms  0.929 ms  0.907 ms  0.864 ms  1.088 ms  0.811 ms  0.851 ms  0.865 ms  0.877 ms
+"
+videomega.tv,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.930 ms  16.973 ms  18.298 ms  17.803 ms  19.286 ms  17.070 ms  17.562 ms  17.084 ms  17.098 ms  17.113 ms
+"
+videomega.tv,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.330 ms  22.366 ms  22.215 ms  22.176 ms  22.401 ms  22.246 ms  22.292 ms  22.619 ms  22.759 ms  22.323 ms
+"
+videomega.tv,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.572 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.527 ms  30.370 ms  30.433 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.622 ms  30.885 ms  30.412 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.778 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.790 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.315 ms
+"
+videomega.tv,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.548 ms  39.778 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.704 ms  40.328 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.360 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.407 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.810 ms  39.363 ms  40.041 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.611 ms
+"
+videomega.tv,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.728 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.088 ms be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  118.431 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.335 ms be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  118.637 ms  118.875 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  118.128 ms  118.325 ms  115.435 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.274 ms
+"
+videomega.tv,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  116.009 ms  115.334 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.530 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.124 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.131 ms  117.460 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.314 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.112 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.265 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.453 ms
+"
+videomega.tv,9," 9  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  124.291 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  124.225 ms  124.167 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.609 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  124.468 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.638 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  124.246 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  121.912 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.719 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  121.509 ms
+"
+videomega.tv,10,"10  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  136.633 ms  138.299 ms  134.199 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  132.506 ms  132.912 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.456 ms be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  134.220 ms  135.280 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.438 ms be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  134.816 ms
+"
+videomega.tv,11,"11  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  151.207 ms  149.140 ms  149.182 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  131.138 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  147.936 ms  151.061 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  150.169 ms  149.206 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  150.919 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  149.086 ms
+"
+videomega.tv,12,"12  be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  164.091 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  162.480 ms be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  165.700 ms  166.071 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  162.365 ms  163.878 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  147.922 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  162.489 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  147.995 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  148.042 ms
+"
+videomega.tv,13,"13  be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  161.469 ms  161.537 ms be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  174.454 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  161.182 ms be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  163.796 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  170.813 ms be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  174.951 ms  172.965 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  172.128 ms be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  172.207 ms
+"
+videomega.tv,14,"14  be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  180.855 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  169.379 ms be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  182.202 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  169.412 ms be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  182.181 ms be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  181.590 ms be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  179.761 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  169.578 ms be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  172.020 ms be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  179.892 ms
+"
+videomega.tv,15,"15  be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  179.491 ms be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  180.763 ms te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  182.209 ms  182.072 ms te0-0-2-0.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.226)  179.787 ms te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  183.180 ms be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  179.526 ms te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  184.673 ms te0-0-2-0.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.226)  182.040 ms  182.507 ms
+"
+videomega.tv,16,"16  38.140.111.58 (38.140.111.58)  183.869 ms te0-0-2-0.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.226)  179.463 ms te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  181.940 ms 38.140.111.58 (38.140.111.58)  183.930 ms  183.090 ms  182.821 ms  181.496 ms  184.308 ms  183.845 ms  182.396 ms
+"
+videomega.tv,17,"17  sw03-san.trellian.com (103.224.213.253)  182.494 ms 38.140.111.58 (38.140.111.58)  181.616 ms sw03-san.trellian.com (103.224.213.253)  182.886 ms  182.582 ms  182.493 ms  180.196 ms  182.487 ms * * 38.140.111.58 (38.140.111.58)  182.033 ms
+"
+videomega.tv,18,"18  * * lb-182-251.above.com (103.224.182.251)  182.563 ms  182.009 ms  183.069 ms  180.914 ms * * * *
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+putlocker.is,0,"traceroute to putlocker.is (185.53.178.22), 50 hops max, 60 byte packets
+"
+putlocker.is,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.293 ms  0.335 ms
+"
+putlocker.is,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.942 ms  0.977 ms  1.060 ms
+"
+putlocker.is,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.428 ms  17.442 ms  17.439 ms
+"
+putlocker.is,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.345 ms  18.452 ms  18.602 ms
+"
+putlocker.is,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.309 ms  24.360 ms  24.402 ms
+"
+putlocker.is,6," 6  te0-0-1-2.agr12.muc03.atlas.cogentco.com (154.54.56.230)  24.680 ms  24.672 ms  24.704 ms
+"
+putlocker.is,7," 7  te0-0-2-1.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.8.22)  25.158 ms  25.041 ms  25.098 ms
+"
+putlocker.is,8," 8  149.6.156.203 (149.6.156.203)  24.691 ms  24.845 ms  24.833 ms
+"
+putlocker.is,9," 9  185.53.178.22 (185.53.178.22)  24.604 ms  24.615 ms  24.612 ms
+"

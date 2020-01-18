@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+souq.com,0,"traceroute to souq.com (108.128.55.241), 50 hops max, 60 byte packets
+"
+souq.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.355 ms  0.373 ms
+"
+souq.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.536 ms  0.480 ms  0.479 ms
+"
+souq.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.120 ms  26.073 ms  26.110 ms
+"
+souq.com,4," 4  amazon-fra-peering.fiord.net (62.140.243.51)  29.055 ms  29.054 ms  29.122 ms
+"
+souq.com,5," 5  54.239.106.8 (54.239.106.8)  27.619 ms  27.746 ms  27.640 ms
+"
+souq.com,6," 6  54.239.106.17 (54.239.106.17)  28.803 ms  28.800 ms  28.782 ms
+"
+souq.com,7," 7  * * *
+"
+souq.com,8," 8  150.222.240.142 (150.222.240.142)  48.419 ms  48.302 ms  48.974 ms
+"
+souq.com,9," 9  52.93.133.234 (52.93.133.234)  48.953 ms  48.884 ms  49.139 ms
+"
+souq.com,10,"10  176.32.106.223 (176.32.106.223)  48.872 ms  49.296 ms  49.030 ms
+"
+souq.com,11,"11  * * *
+"
+souq.com,12,"12  52.93.6.172 (52.93.6.172)  48.986 ms  49.431 ms  49.395 ms
+"
+souq.com,13,"13  52.93.101.55 (52.93.101.55)  50.143 ms  50.166 ms  50.141 ms
+"
+souq.com,14,"14  52.93.101.30 (52.93.101.30)  49.273 ms  49.476 ms  49.431 ms
+"
+souq.com,15,"15  52.93.7.71 (52.93.7.71)  51.633 ms  52.426 ms  52.160 ms
+"
+souq.com,16,"16  * * *
+"
+souq.com,17,"17  * * *
+"
+souq.com,18,"18  * * *
+"
+souq.com,19,"19  * * *
+"
+souq.com,20,"20  * * *
+"
+souq.com,21,"21  * * *
+"
+souq.com,22,"22  * * *
+"
+souq.com,23,"23  * * *
+"
+souq.com,24,"24  * * *
+"
+souq.com,25,"25  * * *
+"
+souq.com,26,"26  * * *
+"
+souq.com,27,"27  * * *
+"
+souq.com,28,"28  * * *
+"
+souq.com,29,"29  * * *
+"
+souq.com,30,"30  * * *
+"
+souq.com,31,"31  * * *
+"
+souq.com,32,"32  * * *
+"
+souq.com,33,"33  * * *
+"
+souq.com,34,"34  * * *
+"
+souq.com,35,"35  * * *
+"
+souq.com,36,"36  * * *
+"
+souq.com,37,"37  * * *
+"
+souq.com,38,"38  * * *
+"
+souq.com,39,"39  * * *
+"
+souq.com,40,"40  * * *
+"
+souq.com,41,"41  * * *
+"
+souq.com,42,"42  * * *
+"
+souq.com,43,"43  * * *
+"
+souq.com,44,"44  * * *
+"
+souq.com,45,"45  * * *
+"
+souq.com,46,"46  * * *
+"
+souq.com,47,"47  * * *
+"
+souq.com,48,"48  * * *
+"
+souq.com,49,"49  * * *
+"
+souq.com,50,"50  * * *
+"

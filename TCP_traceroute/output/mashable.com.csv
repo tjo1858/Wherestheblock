@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mashable.com,0,"traceroute to mashable.com (23.219.91.96), 50 hops max, 60 byte packets
+"
+mashable.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.308 ms  0.295 ms
+"
+mashable.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.648 ms  0.645 ms  0.685 ms
+"
+mashable.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.101 ms  28.571 ms  26.091 ms
+"
+mashable.com,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  30.605 ms  30.635 ms  30.675 ms
+"
+mashable.com,5," 5  ae7.cr4-prg1.ip4.gtt.net (213.200.114.14)  35.835 ms  37.836 ms  35.825 ms
+"
+mashable.com,6," 6  akamai-gw.ip4.gtt.net (141.136.98.10)  37.814 ms  37.797 ms  35.239 ms
+"
+mashable.com,7," 7  a23-219-91-96.deploy.static.akamaitechnologies.com (23.219.91.96)  38.164 ms  35.292 ms  38.206 ms
+"

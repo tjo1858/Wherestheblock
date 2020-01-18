@@ -50,7 +50,7 @@ Blocking Method is a csv doc of my findings after running the script on a afgani
 0. Blockurl file contains the URL to be tested CSV list
 1. Enter the lft_traceroute directory
 2. Run command:
-	sudo python lft_traceroute.py 30
+	sudo python lft_traceroute.py 10
 
 3. Results of the http response is stored in Block URL names CSV files.
 

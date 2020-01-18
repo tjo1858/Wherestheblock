@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+naver.jp,0,"traceroute to naver.jp (119.235.235.13), 30 hops max, 60 byte packets
+"
+naver.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.251 ms  3.252 ms  1.077 ms  0.281 ms  0.287 ms  0.263 ms  1.671 ms  0.290 ms  0.279 ms
+"
+naver.jp,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.836 ms  0.885 ms  0.964 ms  0.939 ms  0.812 ms  0.847 ms  0.782 ms  0.795 ms  0.876 ms  0.840 ms
+"
+naver.jp,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.445 ms  16.971 ms  17.260 ms  17.355 ms  17.046 ms  17.400 ms  17.362 ms  17.344 ms  17.330 ms  17.037 ms
+"
+naver.jp,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.654 ms  25.961 ms  23.208 ms  22.532 ms  22.381 ms  22.525 ms  22.817 ms  22.544 ms  22.467 ms  23.124 ms
+"
+naver.jp,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.559 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.433 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.534 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.647 ms  30.738 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.507 ms  30.728 ms  30.744 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.793 ms  35.415 ms
+"
+naver.jp,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.344 ms  42.689 ms  39.712 ms  40.384 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.729 ms  39.524 ms  39.469 ms  39.552 ms  39.587 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  45.728 ms
+"
+naver.jp,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.495 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.786 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.487 ms be2249.ccr41.ams03.atlas.cogentco.com (154.54.36.213)  190.818 ms  190.433 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.621 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  140.059 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.489 ms be2249.ccr41.ams03.atlas.cogentco.com (154.54.36.213)  190.626 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  140.120 ms
+"
+naver.jp,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.516 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  190.410 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.554 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.304 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  190.663 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.484 ms  186.474 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  139.684 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  190.664 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.387 ms
+"
+naver.jp,9," 9  be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.679 ms  185.570 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.517 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.205 ms  140.269 ms  140.300 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  189.977 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.297 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.285 ms  135.308 ms
+"
+naver.jp,10,"10  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  190.800 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  186.137 ms  186.246 ms  186.000 ms  186.214 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.808 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  185.806 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.553 ms  135.465 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  190.489 ms
+"
+naver.jp,11,"11  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.279 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  185.907 ms  186.431 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.552 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.438 ms  135.469 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  185.293 ms  185.494 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.467 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  185.260 ms
+"
+naver.jp,12,"12  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  147.429 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.805 ms  185.525 ms  185.301 ms  185.288 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  190.337 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.283 ms  185.378 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  146.784 ms  151.501 ms
+"
+naver.jp,13,"13  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  190.711 ms be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.234 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.480 ms be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  186.270 ms  185.953 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.581 ms  166.067 ms  159.672 ms  159.275 ms  159.234 ms
+"
+naver.jp,14,"14  be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.294 ms  186.236 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  170.054 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  185.949 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  169.808 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  190.565 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.194 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  169.427 ms  169.748 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.242 ms
+"
+naver.jp,15,"15  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  183.858 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  185.575 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  183.986 ms  184.097 ms  184.594 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  186.194 ms  186.013 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  184.120 ms  183.934 ms  188.685 ms
+"
+naver.jp,16,"16  be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.219 ms  185.996 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  190.516 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.769 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  186.031 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.635 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  189.846 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  186.005 ms  189.906 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  216.289 ms
+"
+naver.jp,17,"17  38.88.224.178 (38.88.224.178)  195.765 ms  178.403 ms  183.657 ms  179.042 ms  204.075 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  189.966 ms 38.88.224.178 (38.88.224.178)  212.799 ms  178.443 ms  178.438 ms  179.094 ms
+"
+naver.jp,18,"18  111.87.3.109 (111.87.3.109)  175.449 ms 38.88.224.178 (38.88.224.178)  183.294 ms 111.87.3.229 (111.87.3.229)  175.592 ms 111.87.3.225 (111.87.3.225)  174.801 ms 111.87.3.117 (111.87.3.117)  174.989 ms 111.87.3.229 (111.87.3.229)  175.122 ms 111.87.3.109 (111.87.3.109)  175.394 ms  174.820 ms 38.88.224.178 (38.88.224.178)  183.747 ms 111.87.3.109 (111.87.3.109)  175.204 ms
+"
+naver.jp,19,"19  106.187.13.9 (106.187.13.9)  276.684 ms  276.654 ms  276.311 ms 111.87.3.109 (111.87.3.109)  180.066 ms oteACS001.int-gw.kddi.ne.jp.13.187.106.in-addr.arpa (106.187.13.13)  275.415 ms 106.187.13.25 (106.187.13.25)  275.893 ms  276.071 ms oteACS001.int-gw.kddi.ne.jp.13.187.106.in-addr.arpa (106.187.13.13)  275.541 ms 106.187.13.25 (106.187.13.25)  275.561 ms 106.187.13.29 (106.187.13.29)  286.947 ms
+"
+naver.jp,20,"20  27.85.227.238 (27.85.227.238)  277.974 ms oteACS001.int-gw.kddi.ne.jp.13.187.106.in-addr.arpa (106.187.13.13)  280.803 ms 27.85.227.234 (27.85.227.234)  274.364 ms  280.568 ms 27.85.227.242 (27.85.227.242)  285.377 ms 27.85.227.238 (27.85.227.238)  284.860 ms 27.85.227.242 (27.85.227.242)  279.979 ms 27.85.227.234 (27.85.227.234)  274.419 ms  280.555 ms  274.994 ms
+"
+naver.jp,21,"21  27.85.227.234 (27.85.227.234)  278.953 ms cm-kot210.int-gw.kddi.ne.jp (125.29.22.174)  279.783 ms  275.023 ms  277.226 ms 27.85.227.238 (27.85.227.238)  282.009 ms cm-kot210.int-gw.kddi.ne.jp (125.29.22.174)  274.782 ms cm-kot210.int-gw.kddi.ne.jp (125.29.22.170)  282.758 ms cm-kot210.int-gw.kddi.ne.jp (125.29.22.174)  282.438 ms  277.221 ms cm-kot210.int-gw.kddi.ne.jp (125.29.22.170)  277.212 ms
+"
+naver.jp,22,"22  125.29.31.142 (125.29.31.142)  299.162 ms  296.197 ms  289.443 ms  288.822 ms  289.421 ms  294.227 ms  291.712 ms  288.576 ms  294.349 ms  291.610 ms
+"
+naver.jp,23,"23  * * * * * * * * * *
+"
+naver.jp,24,"24  * * * * * * * * * *
+"
+naver.jp,25,"25  * * * * * * * * * *
+"
+naver.jp,26,"26  * * * * * * * * * *
+"
+naver.jp,27,"27  * * * * * * * * * *
+"
+naver.jp,28,"28  * * * * * * * * * *
+"
+naver.jp,29,"29  * * * * * * * * * *
+"
+naver.jp,30,"30  * * * * * * * * * *
+"

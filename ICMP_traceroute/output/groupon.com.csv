@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+groupon.com,0,"traceroute to groupon.com (92.123.15.149), 50 hops max, 60 byte packets
+"
+groupon.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.320 ms  0.311 ms  0.340 ms
+"
+groupon.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  3.332 ms  3.332 ms  0.441 ms
+"
+groupon.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.617 ms  28.594 ms  28.601 ms
+"
+groupon.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  39.691 ms  39.706 ms  39.706 ms
+"
+groupon.com,5," 5  ffm-bb2-link.telia.net (62.115.116.159)  31.965 ms  31.998 ms  31.994 ms
+"
+groupon.com,6," 6  win-bb2-link.telia.net (62.115.133.78)  42.063 ms  41.708 ms  41.685 ms
+"
+groupon.com,7," 7  win-b4-link.telia.net (62.115.112.199)  44.200 ms  44.188 ms  44.221 ms
+"
+groupon.com,8," 8  akamai-ic-317493-win-b4.c.telia.net (62.115.147.101)  31.513 ms  31.463 ms  31.445 ms
+"
+groupon.com,9," 9  a92-123-15-149.deploy.static.akamaitechnologies.com (92.123.15.149)  31.368 ms  31.381 ms  31.369 ms
+"

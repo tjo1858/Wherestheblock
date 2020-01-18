@@ -1,0 +1,57 @@
+URL,TTL,Response_Message
+pixiv.net,0,"traceroute to pixiv.net (210.140.131.225), 50 hops max, 60 byte packets
+"
+pixiv.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.309 ms  0.354 ms
+"
+pixiv.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.990 ms  1.065 ms  1.115 ms
+"
+pixiv.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.938 ms  16.943 ms  16.938 ms
+"
+pixiv.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.391 ms  22.401 ms  22.392 ms
+"
+pixiv.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.702 ms  30.651 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.368 ms
+"
+pixiv.net,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.318 ms  39.574 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.599 ms
+"
+pixiv.net,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.359 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.462 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.648 ms
+"
+pixiv.net,8," 8  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  190.364 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.317 ms  135.290 ms
+"
+pixiv.net,9," 9  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  139.875 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.651 ms  185.677 ms
+"
+pixiv.net,10,"10  be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.581 ms  135.588 ms  135.624 ms
+"
+pixiv.net,11,"11  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.817 ms  190.772 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  186.145 ms
+"
+pixiv.net,12,"12  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  190.743 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  152.220 ms  151.739 ms
+"
+pixiv.net,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  186.042 ms  185.229 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  163.577 ms
+"
+pixiv.net,14,"14  be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.493 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  173.998 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  185.760 ms
+"
+pixiv.net,15,"15  be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  185.782 ms  185.341 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  190.484 ms
+"
+pixiv.net,16,"16  be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  185.543 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  186.037 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  190.355 ms
+"
+pixiv.net,17,"17  38.88.224.178 (38.88.224.178)  178.409 ms  178.409 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  190.167 ms
+"
+pixiv.net,18,"18  38.88.224.178 (38.88.224.178)  183.084 ms 111.87.3.225 (111.87.3.225)  175.417 ms 111.87.3.117 (111.87.3.117)  179.652 ms
+"
+pixiv.net,19,"19  oteACS002.int-gw.kddi.ne.jp (106.187.13.17)  280.224 ms 106.187.13.9 (106.187.13.9)  275.787 ms 106.187.13.25 (106.187.13.25)  274.559 ms
+"
+pixiv.net,20,"20  27.86.46.97 (27.86.46.97)  281.975 ms 27.85.227.121 (27.85.227.121)  279.796 ms 27.86.46.93 (27.86.46.93)  282.605 ms
+"
+pixiv.net,21,"21  oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  278.884 ms 27.86.46.97 (27.86.46.97)  284.039 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  274.827 ms
+"
+pixiv.net,22,"22  111.108.12.170 (111.108.12.170)  240.780 ms  240.114 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.6)  285.141 ms
+"
+pixiv.net,23,"23  202.93.95.182 (202.93.95.182)  241.457 ms 111.108.12.170 (111.108.12.170)  260.792 ms  248.966 ms
+"
+pixiv.net,24,"24  202.93.95.182 (202.93.95.182)  248.925 ms 118.151.224.194 (118.151.224.194)  244.162 ms  243.378 ms
+"
+pixiv.net,25,"25  158.205.134.62 (158.205.134.62)  241.229 ms  248.524 ms  241.172 ms
+"
+pixiv.net,26,"26  * * 158.205.134.62 (158.205.134.62)  246.408 ms
+"
+pixiv.net,27,"27  * gate210-140-131-225.pixiv.net (210.140.131.225)  244.277 ms *
+"

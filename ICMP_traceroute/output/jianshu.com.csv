@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+jianshu.com,0,"traceroute to jianshu.com (107.150.101.156), 50 hops max, 60 byte packets
+"
+jianshu.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.287 ms  0.316 ms
+"
+jianshu.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.526 ms  0.526 ms  0.560 ms
+"
+jianshu.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  31.072 ms  31.088 ms  31.083 ms
+"
+jianshu.com,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  31.281 ms  31.192 ms  31.235 ms
+"
+jianshu.com,5," 5  et-0-0-59.cr3-lax2.ip4.gtt.net (89.149.130.94)  171.654 ms  171.630 ms  171.641 ms
+"
+jianshu.com,6," 6  china-cache-gw.ip4.gtt.net (216.221.157.138)  174.619 ms  174.295 ms  174.080 ms
+"
+jianshu.com,7," 7  192.254.84.195 (192.254.84.195)  177.789 ms  178.088 ms  204.289 ms
+"
+jianshu.com,8," 8  104.254.114.23 (104.254.114.23)  178.201 ms  173.278 ms  192.674 ms
+"
+jianshu.com,9," 9  * * *
+"
+jianshu.com,10,"10  * * *
+"
+jianshu.com,11,"11  107.150.101.156 (107.150.101.156)  171.591 ms  171.558 ms  171.551 ms
+"
+jianshu.com,12,"12  107.150.101.156 (107.150.101.156)  174.802 ms  175.195 ms  175.045 ms
+"
+jianshu.com,13,"13  107.150.101.156 (107.150.101.156)  173.663 ms  173.761 ms  173.748 ms
+"
+jianshu.com,14,"14  107.150.101.156 (107.150.101.156)  171.602 ms  171.621 ms  171.238 ms
+"

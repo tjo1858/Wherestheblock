@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+gizmodo.com,0,"traceroute to gizmodo.com (151.101.66.166), 50 hops max, 60 byte packets
+"
+gizmodo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.034 ms  1.010 ms  1.030 ms
+"
+gizmodo.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.534 ms  0.465 ms  0.510 ms
+"
+gizmodo.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.104 ms  16.115 ms  16.163 ms
+"
+gizmodo.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.151 ms  16.178 ms  16.119 ms
+"
+gizmodo.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.803 ms  42.837 ms  42.826 ms
+"
+gizmodo.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.812 ms  44.343 ms  44.481 ms
+"
+gizmodo.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  42.666 ms  42.204 ms  42.265 ms
+"
+gizmodo.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.241 ms  44.004 ms  43.985 ms
+"
+gizmodo.com,9," 9  fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  42.825 ms fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  42.544 ms fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  42.801 ms
+"
+gizmodo.com,10,"10  151.101.66.166 (151.101.66.166)  42.756 ms  42.636 ms  42.644 ms
+"
