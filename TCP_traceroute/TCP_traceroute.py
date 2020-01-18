@@ -17,18 +17,18 @@ with open('BlockUrls.csv', mode='r') as csv_file:
         traceroute = subprocess.Popen(["traceroute", '-T', '-m', sys.argv[1],row["URL"]], stdout=subprocess.PIPE,
                                       stderr=subprocess.STDOUT)
         myCmd = os.popen("curl -s https://ipvigilante.com/$(curl -s https://ipinfo.io/ip) | jq ' .data.country_name'").read()
-	    myCmd=myCmd.replace('"', '')
-	    myCmd=myCmd.replace('\n', '')
-	    print(myCmd)
+	myCmd=myCmd.replace('"', '')
+	myCmd=myCmd.replace('\n', '')
+	print(myCmd)
         filename = "output/"+myCmd+'/'+row["URL"] + ".csv"
-	    print(filename)
-	    if not os.path.exists(os.path.dirname(filename)):
-	        try:
-	            os.makedirs(os.path.dirname(filename),0777)
-	        except OSError as exc: # Guard against race condition
-	            if exc.errno != errno.EEXIST:
-	                raise
-	    os.system("sudo chmod -R 777 output/*")
+	print(filename)
+	if not os.path.exists(os.path.dirname(filename)):
+	   try:
+	       os.makedirs(os.path.dirname(filename),0777)
+	   except OSError as exc: # Guard against race condition
+	       if exc.errno != errno.EEXIST:
+	          raise
+	os.system("sudo chmod -R 777 output/*")
         
         filename = "output/"+row["URL"] + ".csv"
         with open(filename, mode='w') as results:
