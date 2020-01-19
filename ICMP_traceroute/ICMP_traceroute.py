@@ -6,6 +6,8 @@ import time
 import datetime, threading
 from bs4 import BeautifulSoup
 import subprocess
+import os
+import errno
 
 with open('BlockUrls.csv', mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
@@ -17,19 +19,19 @@ with open('BlockUrls.csv', mode='r') as csv_file:
         traceroute = subprocess.Popen(["traceroute", '-I', '-m', sys.argv[1],row["URL"]], stdout=subprocess.PIPE,
                                       stderr=subprocess.STDOUT)
         myCmd = os.popen("curl -s https://ipvigilante.com/$(curl -s https://ipinfo.io/ip) | jq ' .data.country_name'").read()
-	    myCmd=myCmd.replace('"', '')
-	    myCmd=myCmd.replace('\n', '')
-	    print(myCmd)
+	myCmd=myCmd.replace('"', '')
+	myCmd=myCmd.replace('\n', '')
+	print(myCmd)
         filename = "output/"+myCmd+'/'+row["URL"] + ".csv"
-	    print(filename)
-	    if not os.path.exists(os.path.dirname(filename)):
-	        try:
-	            os.makedirs(os.path.dirname(filename),0777)
-	        except OSError as exc: # Guard against race condition
-	            if exc.errno != errno.EEXIST:
-	                raise
-	    os.system("sudo chmod -R 777 output/*")
-        filename = "output/"+row["URL"] + ".csv"
+	print(filename)
+	if not os.path.exists(os.path.dirname(filename)):
+	    try:
+	        os.makedirs(os.path.dirname(filename),0777)
+	    except OSError as exc: # Guard against race condition
+	        if exc.errno != errno.EEXIST:
+	            raise
+	os.system("sudo chmod -R 777 output/*")
+
         with open(filename, mode='w') as results:
             results_writer = csv.writer(results, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             results_writer.writerow(['URL','TTL','Response_Message'])

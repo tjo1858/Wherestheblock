@@ -6,6 +6,8 @@ import time
 import datetime, threading
 from bs4 import BeautifulSoup
 import subprocess
+import os
+import errno
 
 with open('BlockUrls.csv', mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
@@ -29,8 +31,7 @@ with open('BlockUrls.csv', mode='r') as csv_file:
 	       if exc.errno != errno.EEXIST:
 	          raise
 	os.system("sudo chmod -R 777 output/*")
-        
-        filename = "output/"+row["URL"] + ".csv"
+       
         with open(filename, mode='w') as results:
             results_writer = csv.writer(results, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             results_writer.writerow(['URL','TTL','Response_Message'])

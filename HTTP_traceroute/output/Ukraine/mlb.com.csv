@@ -1,0 +1,150 @@
+URL,TTL,Message
+mlb.com,1,timed out
+mlb.com,2,timed out
+mlb.com,3,timed out
+mlb.com,4,timed out
+mlb.com,5,timed out
+mlb.com,6,timed out
+mlb.com,7,timed out
+mlb.com,8,timed out
+mlb.com,9,timed out
+mlb.com,10,timed out
+mlb.com,11,timed out
+mlb.com,12,timed out
+mlb.com,13,timed out
+mlb.com,14,timed out
+mlb.com,15,timed out
+mlb.com,16,timed out
+mlb.com,17,timed out
+mlb.com,18,timed out
+mlb.com,19,timed out
+mlb.com,20,timed out
+mlb.com,21,timed out
+mlb.com,22,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:29 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:59 GMT
+ETag: ""24-564a5c2867692""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:29 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=98
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,23,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:30 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:57 GMT
+ETag: ""24-564a5c26c5f93""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:30 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=58
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,24,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:41 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:10:05 GMT
+ETag: ""24-564a5b81fa51e""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:41 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=26
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,25,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:30 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:59 GMT
+ETag: ""24-564a5c2867692""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:30 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=107
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,26,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:28 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:48 GMT
+ETag: ""24-564a5c1e5334c""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:28 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=119
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,27,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:53:00 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:45 GMT
+ETag: ""24-564a5c1ad18b3""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:53:00 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=88
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,28,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:29 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:48 GMT
+ETag: ""24-564a5c1e5334c""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:29 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=173
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"
+mlb.com,29,"HTTP/1.1 200 OK
+Date: Sun, 19 Jan 2020 02:52:31 GMT
+Server: Apache/2.4.28 (Unix)
+Last-Modified: Wed, 07 Feb 2018 21:12:59 GMT
+ETag: ""24-564a5c2867692""
+Accept-Ranges: bytes
+Content-Length: 36
+Cache-Control: max-age=0
+Expires: Sun, 19 Jan 2020 02:52:31 GMT
+X-Served-By: 
+Access-Control-Allow-Origin: *
+Keep-Alive: timeout=20, max=95
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!-- MLB Redirect -->\n<html></html>"

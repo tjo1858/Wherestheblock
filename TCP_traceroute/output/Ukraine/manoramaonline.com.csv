@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+manoramaonline.com,0,"traceroute to manoramaonline.com (23.38.85.250), 30 hops max, 60 byte packets
+"
+manoramaonline.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.625 ms  0.625 ms  0.610 ms
+"
+manoramaonline.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.589 ms  0.621 ms  0.561 ms
+"
+manoramaonline.com,3," 3  100.64.65.25 (100.64.65.25)  7.755 ms  7.758 ms  10.972 ms
+"
+manoramaonline.com,4," 4  100.64.64.125 (100.64.64.125)  14.379 ms  14.053 ms  14.039 ms
+"
+manoramaonline.com,5," 5  100.64.65.230 (100.64.65.230)  30.115 ms  30.112 ms  30.097 ms
+"
+manoramaonline.com,6," 6  nix4.akamai.com (91.210.16.221)  32.139 ms  32.299 ms  32.812 ms
+"
+manoramaonline.com,7," 7  a23-38-85-250.deploy.static.akamaitechnologies.com (23.38.85.250)  31.769 ms  32.264 ms  31.011 ms
+"

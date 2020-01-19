@@ -1,0 +1,403 @@
+URL,TTL,Message
+infusionsoft.com,1,timed out
+infusionsoft.com,2,timed out
+infusionsoft.com,3,timed out
+infusionsoft.com,4,timed out
+infusionsoft.com,5,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d7094b2883e6a47f8fd804813d41835cd1579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845bf9878b92-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,6,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d59c084a56ce57ae184dcd88385aea5541579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845c0c2e8b62-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,7,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dfe842196ca76d86e3219d3d513d8ace71579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845c0a918253-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,8,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d751997558bfeadcf6a1fd0f5174017181579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845c1a268acc-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,9,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db49c33a48e3a74811938f53d15ac22451579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845c1f9f841c-KBP
+
+10
+error code: 1001
+"
+infusionsoft.com,10,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d84b3895d4166b461b5e70c6c19daf6191579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845c2c088229-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,11,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d3eafb199d31703b2c975329060d159451579402392; expires=Tue, 18-Feb-20 02:53:12 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:18 GMT
+Server: cloudflare
+CF-RAY: 5575845c3bea826b-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,12,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de333ac2dfdba94872d942f8271805a5c1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c3bd78440-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,13,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d632360f5e1833b667d597fd91825220d1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c4d41824d-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,14,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df68598c246ee1ffbaaa4b7f4d7efe3fe1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c58e2843a-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,15,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc796f77c91451ac3688e8cfcdfb62e161579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c5cd58b0e-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,16,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db2000baf2a5926c0fc67001194c207d71579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c6dbc8b20-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,17,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d1e7402f2cac8e8c8c41f511f84db56751579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c788a8b4a-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,18,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d4ed4f7e999b04ba6f9b9ad48564781951579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c784683f8-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,19,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d1e7402f2cac8e8c8c41f511f84db56751579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c888e8b4a-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,20,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d300a01b09d53468e5f65c17d257f67bd1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c8c2d8229-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,21,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d367e5bc32c410498bc9817c2062eb5141579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c8957840a-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,22,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d62c56832e8d70cd1f272af1dbe6ec61a1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c9c0d826b-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,23,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d38a9ac86c9b356441716e2b1e18fa1861579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845c9d418ab4-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,24,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df9cfbf426e71b4f82d881dd2cdaa7eff1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845caff08ac6-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,25,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d7ccd065e89d9373808c13aa43773ef6c1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845cbbc48ad2-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,26,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc796f77c91451ac3688e8cfcdfb62e161579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845cbcf58b0e-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,27,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d216bc379d09a1617b32bc8790a2146801579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845ccd678b7a-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,28,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d99a75d0fc697f391cb8acc8839ea7ccd1579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845cc9f18416-KBP
+
+10
+error code: 1001
+0
+
+"
+infusionsoft.com,29,"HTTP/1.1 409 Conflict
+Date: Sun, 19 Jan 2020 02:53:13 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc90b6164605d732898bf8036381486c21579402393; expires=Tue, 18-Feb-20 02:53:13 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Sun, 19 Jan 2020 02:53:19 GMT
+Server: cloudflare
+CF-RAY: 5575845cdf388265-KBP
+
+10
+error code: 1001
+0
+
+"

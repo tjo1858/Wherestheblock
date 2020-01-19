@@ -1,21 +1,17 @@
 URL,TTL,Response_Message
-okdiario.com,0,"traceroute to okdiario.com (185.104.133.10), 50 hops max, 60 byte packets
+okdiario.com,0,"traceroute to okdiario.com (185.47.12.151), 30 hops max, 60 byte packets
 "
-okdiario.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.325 ms  0.353 ms
+okdiario.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.388 ms  0.381 ms  0.412 ms
 "
-okdiario.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.722 ms  0.725 ms  0.764 ms
+okdiario.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.626 ms  0.625 ms  0.689 ms
 "
-okdiario.com,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.756 ms  32.757 ms  32.756 ms
+okdiario.com,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.455 ms  32.469 ms  32.476 ms
 "
-okdiario.com,4," 4  80.249.210.43 (80.249.210.43)  32.726 ms  32.730 ms  32.743 ms
+okdiario.com,4," 4  ams-ix-1.airenetworks.es (80.249.211.91)  33.592 ms  33.593 ms  33.618 ms
 "
-okdiario.com,5," 5  DDOS-FILTER (5.254.73.99)  32.540 ms  32.540 ms  32.539 ms
+okdiario.com,5," 5  * * *
 "
-okdiario.com,6," 6  mad-in1-02t.voxility.net (5.254.30.98)  61.498 ms  61.462 ms  61.476 ms
+okdiario.com,6," 6  * * *
 "
-okdiario.com,7," 7  mad-in1-01c.voxility.net (5.254.30.97)  61.873 ms  61.885 ms  61.972 ms
-"
-okdiario.com,8," 8  5.254.30.147 (5.254.30.147)  61.637 ms  61.593 ms  61.642 ms
-"
-okdiario.com,9," 9  185.104.133.10 (185.104.133.10)  60.861 ms  60.869 ms  60.869 ms
+okdiario.com,7," 7  185.47.12.151 (185.47.12.151)  56.387 ms  56.379 ms  56.364 ms
 "

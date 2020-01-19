@@ -1,21 +1,17 @@
 URL,TTL,Response_Message
-groupon.com,0,"traceroute to groupon.com (92.123.15.149), 50 hops max, 60 byte packets
+groupon.com,0,"traceroute to groupon.com (104.83.116.225), 30 hops max, 60 byte packets
 "
-groupon.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.540 ms  4.529 ms  4.537 ms
+groupon.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.439 ms  0.449 ms  0.444 ms
 "
-groupon.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.800 ms  0.627 ms  0.791 ms
+groupon.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.583 ms  0.575 ms  0.519 ms
 "
-groupon.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.666 ms  28.699 ms  26.159 ms
+groupon.com,3," 3  ae4-100-xcr1.kiv.cw.net (194.221.103.1)  0.723 ms  0.715 ms  0.792 ms
 "
-groupon.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  28.754 ms  26.203 ms  28.785 ms
+groupon.com,4," 4  ae15-xcr1.fix.cw.net (195.2.30.145)  26.502 ms  26.518 ms  26.607 ms
 "
-groupon.com,5," 5  ffm-bb3-link.telia.net (62.115.141.240)  31.863 ms ffm-bb3-link.telia.net (62.115.121.4)  28.959 ms ffm-bb2-link.telia.net (62.115.116.161)  29.124 ms
+groupon.com,5," 5  ae5-xcr1.mlu.cw.net (195.2.10.246)  45.299 ms  35.889 ms  35.879 ms
 "
-groupon.com,6," 6  win-bb2-link.telia.net (62.115.133.78)  38.801 ms prag-bb1-link.telia.net (62.115.121.119)  32.644 ms win-bb2-link.telia.net (62.115.133.78)  38.778 ms
+groupon.com,6," 6  as20940-gw-mlu.cw.net (195.2.19.18)  35.215 ms  35.241 ms  35.215 ms
 "
-groupon.com,7," 7  win-b4-link.telia.net (62.115.112.199)  41.620 ms win-b4-link.telia.net (62.115.113.69)  42.165 ms win-b4-link.telia.net (62.115.112.199)  41.622 ms
-"
-groupon.com,8," 8  akamai-ic-317493-win-b4.c.telia.net (62.115.147.101)  31.478 ms  29.791 ms  31.220 ms
-"
-groupon.com,9," 9  a92-123-15-149.deploy.static.akamaitechnologies.com (92.123.15.149)  29.323 ms  29.165 ms  31.680 ms
+groupon.com,7," 7  a104-83-116-225.deploy.static.akamaitechnologies.com (104.83.116.225)  34.668 ms  34.780 ms  34.557 ms
 "

@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+nba.com,0,"traceroute to nba.com (18.210.212.54), 30 hops max, 60 byte packets
+"
+nba.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.304 ms  0.332 ms
+"
+nba.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.945 ms  1.032 ms  0.973 ms
+"
+nba.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.132 ms  17.194 ms  17.135 ms
+"
+nba.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.252 ms  22.289 ms  22.465 ms
+"
+nba.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.413 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.491 ms  30.711 ms
+"
+nba.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.452 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.351 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.474 ms
+"
+nba.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.866 ms  116.658 ms  116.355 ms
+"
+nba.com,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.719 ms  117.566 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.564 ms
+"
+nba.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  116.132 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.400 ms  117.286 ms
+"
+nba.com,10,"10  38.140.106.162 (38.140.106.162)  118.007 ms  117.089 ms 38.140.107.42 (38.140.107.42)  128.391 ms
+"
+nba.com,11,"11  52.93.31.47 (52.93.31.47)  113.533 ms 52.93.31.33 (52.93.31.33)  116.335 ms 52.93.31.59 (52.93.31.59)  118.967 ms
+"
+nba.com,12,"12  52.93.4.26 (52.93.4.26)  115.413 ms 52.93.31.35 (52.93.31.35)  117.713 ms 52.93.4.26 (52.93.4.26)  113.732 ms
+"
+nba.com,13,"13  * 52.93.4.2 (52.93.4.2)  112.972 ms *
+"
+nba.com,14,"14  54.240.229.153 (54.240.229.153)  117.637 ms  118.911 ms *
+"
+nba.com,15,"15  * 54.240.229.139 (54.240.229.139)  116.251 ms *
+"
+nba.com,16,"16  * * *
+"
+nba.com,17,"17  * * *
+"
+nba.com,18,"18  * * *
+"
+nba.com,19,"19  * * *
+"
+nba.com,20,"20  * * *
+"
+nba.com,21,"21  * * *
+"
+nba.com,22,"22  * * *
+"
+nba.com,23,"23  * * *
+"
+nba.com,24,"24  * * *
+"
+nba.com,25,"25  52.93.28.230 (52.93.28.230)  116.069 ms 52.93.28.210 (52.93.28.210)  118.822 ms 52.93.28.232 (52.93.28.232)  118.528 ms
+"
+nba.com,26,"26  * * *
+"
+nba.com,27,"27  * * *
+"
+nba.com,28,"28  * * *
+"
+nba.com,29,"29  * * *
+"
+nba.com,30,"30  * * *
+"

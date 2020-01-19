@@ -1,25 +1,25 @@
 URL,TTL,Response_Message
-list-manage.com,0,"traceroute to list-manage.com (205.201.132.96), 50 hops max, 60 byte packets
+list-manage.com,0,"traceroute to list-manage.com (205.201.132.96), 30 hops max, 60 byte packets
 "
-list-manage.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.265 ms  0.292 ms  0.337 ms
+list-manage.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.313 ms  0.308 ms
 "
-list-manage.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.935 ms  0.928 ms  0.962 ms
+list-manage.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.696 ms  0.689 ms  0.681 ms
 "
-list-manage.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.224 ms  19.396 ms  19.378 ms
+list-manage.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  20.709 ms  19.384 ms  19.376 ms
 "
-list-manage.com,4," 4  193.203.0.236 (193.203.0.236)  19.510 ms  19.575 ms  19.762 ms
+list-manage.com,4," 4  193.203.0.236 (193.203.0.236)  19.291 ms  19.291 ms  19.339 ms
 "
-list-manage.com,5," 5  po110.bs-a.sech-vie.netarch.akamai.com (23.57.104.243)  19.754 ms  19.791 ms po110.bs-b.sech-vie.netarch.akamai.com (23.57.104.245)  19.722 ms
+list-manage.com,5," 5  po110.bs-b.sech-vie.netarch.akamai.com (23.57.104.245)  19.856 ms  19.727 ms po110.bs-a.sech-vie.netarch.akamai.com (23.57.104.243)  19.349 ms
 "
-list-manage.com,6," 6  a72-52-1-187.deploy.static.akamaitechnologies.com (72.52.1.187)  19.842 ms  19.691 ms  19.835 ms
+list-manage.com,6," 6  a72-52-1-187.deploy.static.akamaitechnologies.com (72.52.1.187)  19.882 ms  19.659 ms  19.568 ms
 "
-list-manage.com,7," 7  ae120.access-a.sech-vie.netarch.akamai.com (23.57.104.249)  19.523 ms ae121.access-a.sech-vie.netarch.akamai.com (23.57.104.251)  19.253 ms  19.571 ms
+list-manage.com,7," 7  ae120.access-a.sech-vie.netarch.akamai.com (23.57.104.249)  19.635 ms  19.612 ms ae121.access-a.sech-vie.netarch.akamai.com (23.57.104.251)  19.473 ms
 "
 list-manage.com,8," 8  * * *
 "
 list-manage.com,9," 9  * * *
 "
-list-manage.com,10,"10  a209-200-171-218.deploy.static.akamaitechnologies.com (209.200.171.218)  131.758 ms a72-52-27-180.deploy.static.akamaitechnologies.com (72.52.27.180)  133.309 ms a209-200-171-218.deploy.static.akamaitechnologies.com (209.200.171.218)  131.626 ms
+list-manage.com,10,"10  a72-52-27-180.deploy.static.akamaitechnologies.com (72.52.27.180)  138.629 ms a209-200-171-218.deploy.static.akamaitechnologies.com (209.200.171.218)  134.922 ms a72-52-27-180.deploy.static.akamaitechnologies.com (72.52.27.180)  133.011 ms
 "
-list-manage.com,11,"11  205.201.132.96 (205.201.132.96)  131.345 ms  129.002 ms  134.784 ms
+list-manage.com,11,"11  205.201.132.96 (205.201.132.96)  130.879 ms  130.608 ms  136.899 ms
 "

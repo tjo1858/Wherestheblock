@@ -1,15 +1,15 @@
 URL,TTL,Response_Message
-fwbntw.com,0,"traceroute to fwbntw.com (95.128.124.135), 50 hops max, 60 byte packets
+fwbntw.com,0,"traceroute to fwbntw.com (95.128.124.135), 30 hops max, 60 byte packets
 "
-fwbntw.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.340 ms  0.328 ms  0.339 ms
+fwbntw.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.297 ms  0.281 ms  0.261 ms
 "
-fwbntw.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.251 ms  0.694 ms  0.691 ms
+fwbntw.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.915 ms  0.760 ms  0.888 ms
 "
-fwbntw.com,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  32.359 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.114 ms ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  42.127 ms
+fwbntw.com,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  32.315 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.712 ms  30.666 ms
 "
-fwbntw.com,4," 4  be10-0.border1.fra.doclerholding.com (80.81.192.142)  30.460 ms  30.954 ms  30.931 ms
+fwbntw.com,4," 4  be10-0.border1.fra.doclerholding.com (80.81.192.142)  32.147 ms  32.138 ms  32.125 ms
 "
-fwbntw.com,5," 5  tengige0-0-0-9.core1.lux.dditservices.com (5.159.218.93)  34.157 ms tengige0-0-0-0.core0.lux.dditservices.com (5.159.218.81)  34.154 ms 5.159.218.84 (5.159.218.84)  34.765 ms
+fwbntw.com,5," 5  tengige0-1-0-6.border1.fra.dditservices.com (5.159.218.86)  35.742 ms tengige0-1-0-14.core0.lux.dditservices.com (5.159.218.89)  34.621 ms tengige0-1-0-6.border1.fra.dditservices.com (5.159.218.86)  34.531 ms
 "
-fwbntw.com,6," 6  95.128.124.135 (95.128.124.135)  35.231 ms  34.306 ms  34.291 ms
+fwbntw.com,6," 6  95.128.124.135 (95.128.124.135)  34.614 ms  34.579 ms  34.632 ms
 "

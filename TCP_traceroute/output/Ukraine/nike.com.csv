@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+nike.com,0,"traceroute to nike.com (146.197.184.71), 30 hops max, 60 byte packets
+"
+nike.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.352 ms  0.339 ms  0.368 ms
+"
+nike.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.707 ms  0.851 ms  0.850 ms
+"
+nike.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.798 ms  28.789 ms  28.838 ms
+"
+nike.com,4," 4  * * *
+"
+nike.com,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  31.205 ms  31.381 ms  28.728 ms
+"
+nike.com,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  127.422 ms  127.233 ms  127.232 ms
+"
+nike.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  127.198 ms  128.148 ms  128.141 ms
+"
+nike.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  127.111 ms  127.287 ms  127.271 ms
+"
+nike.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  127.372 ms  129.909 ms  127.312 ms
+"
+nike.com,10,"10  ae0.cs3.lhr11.uk.eth.zayo.com (64.125.29.118)  128.235 ms * *
+"
+nike.com,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  152.621 ms  152.688 ms  151.613 ms
+"
+nike.com,12,"12  ae4.cs1.dca2.us.eth.zayo.com (64.125.29.203)  129.585 ms  132.332 ms  134.779 ms
+"
+nike.com,13,"13  ae27.cr1.dca2.us.zip.zayo.com (64.125.30.247)  126.858 ms  129.673 ms  129.844 ms
+"
+nike.com,14,"14  ae14.er5.iad10.us.zip.zayo.com (64.125.28.61)  127.187 ms  129.707 ms  129.623 ms
+"
+nike.com,15,"15  209.66.120.102.IPYX-076520-960-ZYO.zip.zayo.com (209.66.120.102)  127.719 ms  128.793 ms  128.755 ms
+"
+nike.com,16,"16  * * *
+"
+nike.com,17,"17  69.20.1.193 (69.20.1.193)  114.354 ms  113.377 ms  113.313 ms
+"
+nike.com,18,"18  146.197.184.71 (146.197.184.71)  110.799 ms  128.711 ms  110.614 ms
+"

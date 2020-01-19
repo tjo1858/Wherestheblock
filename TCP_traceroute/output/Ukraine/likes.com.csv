@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+likes.com,0,"traceroute to likes.com (184.168.131.241), 30 hops max, 60 byte packets
+"
+likes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.168 ms  1.180 ms  1.172 ms
+"
+likes.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.694 ms  0.686 ms  0.704 ms
+"
+likes.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.714 ms  29.711 ms  29.695 ms
+"
+likes.com,4," 4  * * *
+"
+likes.com,5," 5  * * *
+"
+likes.com,6," 6  4.28.83.74 (4.28.83.74)  167.295 ms  165.983 ms  167.099 ms
+"
+likes.com,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  192.002 ms  176.824 ms  235.643 ms
+"
+likes.com,8," 8  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.880 ms * *
+"

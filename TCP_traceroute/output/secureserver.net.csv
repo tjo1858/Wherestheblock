@@ -1,21 +1,21 @@
 URL,TTL,Response_Message
-secureserver.net,0,"traceroute to secureserver.net (208.109.192.71), 50 hops max, 60 byte packets
+secureserver.net,0,"traceroute to secureserver.net (208.109.192.71), 30 hops max, 60 byte packets
 "
-secureserver.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.284 ms  0.324 ms  0.319 ms
+secureserver.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.277 ms  0.309 ms
 "
-secureserver.net,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.564 ms  0.602 ms  0.790 ms
+secureserver.net,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.839 ms  0.834 ms  0.590 ms
 "
-secureserver.net,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.559 ms  31.535 ms  31.542 ms
+secureserver.net,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  39.848 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  30.246 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.062 ms
 "
 secureserver.net,4," 4  * * *
 "
 secureserver.net,5," 5  * * *
 "
-secureserver.net,6," 6  4.28.83.74 (4.28.83.74)  165.291 ms  166.983 ms  166.923 ms
+secureserver.net,6," 6  4.28.83.74 (4.28.83.74)  167.275 ms  165.781 ms  167.041 ms
 "
-secureserver.net,7," 7  148.72.32.11 (148.72.32.11)  167.030 ms 148.72.32.7 (148.72.32.7)  203.400 ms 148.72.32.11 (148.72.32.11)  165.906 ms
+secureserver.net,7," 7  148.72.32.11 (148.72.32.11)  167.047 ms  167.141 ms  179.179 ms
 "
-secureserver.net,8," 8  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  167.183 ms  166.031 ms  165.569 ms
+secureserver.net,8," 8  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  167.054 ms  167.026 ms ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  167.798 ms
 "
 secureserver.net,9," 9  * * *
 "
@@ -29,7 +29,7 @@ secureserver.net,13,"13  * * *
 "
 secureserver.net,14,"14  * * *
 "
-secureserver.net,15,"15  ip-208-109-192-71.ip.secureserver.net (208.109.192.71)  165.949 ms  167.178 ms  166.290 ms
+secureserver.net,15,"15  ip-208-109-192-71.ip.secureserver.net (208.109.192.71)  167.358 ms  167.519 ms  166.199 ms
 "
-secureserver.net,16,"16  ip-208-109-192-71.ip.secureserver.net (208.109.192.71)  166.962 ms  167.070 ms  167.718 ms
+secureserver.net,16,"16  ip-208-109-192-71.ip.secureserver.net (208.109.192.71)  165.928 ms  167.304 ms  165.749 ms
 "

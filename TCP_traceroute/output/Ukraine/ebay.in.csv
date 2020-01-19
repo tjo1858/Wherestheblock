@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+ebay.in,0,"traceroute to ebay.in (66.135.195.175), 30 hops max, 60 byte packets
+"
+ebay.in,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.370 ms  0.360 ms  0.376 ms
+"
+ebay.in,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.575 ms  0.812 ms  0.803 ms
+"
+ebay.in,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.016 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.319 ms  30.225 ms
+"
+ebay.in,4," 4  fra1-ber1.ebay.com (80.81.194.73)  30.472 ms  30.252 ms  30.246 ms
+"
+ebay.in,5," 5  xe-2-2-1-slc1-bcr1.bb.ebay.com (216.113.190.145)  174.953 ms  174.785 ms xe-2-2-1-slc1-bcr2.bb.ebay.com (216.113.190.159)  184.965 ms
+"
+ebay.in,6," 6  8.42.120.22 (8.42.120.22)  184.864 ms 8.42.120.20 (8.42.120.20)  175.404 ms 8.42.120.18 (8.42.120.18)  184.812 ms
+"
+ebay.in,7," 7  * * *
+"
+ebay.in,8," 8  * * *
+"
+ebay.in,9," 9  * * *
+"
+ebay.in,10,"10  * * *
+"
+ebay.in,11,"11  ru.ebay.com (66.135.195.175)  184.736 ms  183.554 ms  175.652 ms
+"

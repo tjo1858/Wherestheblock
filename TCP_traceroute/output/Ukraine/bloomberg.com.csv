@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+bloomberg.com,0,"traceroute to bloomberg.com (69.191.252.15), 30 hops max, 60 byte packets
+"
+bloomberg.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.472 ms  0.468 ms  0.461 ms
+"
+bloomberg.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.235 ms  2.366 ms  2.141 ms
+"
+bloomberg.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.986 ms  18.041 ms  18.206 ms
+"
+bloomberg.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  19.138 ms  19.238 ms  19.110 ms
+"
+bloomberg.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  25.531 ms  25.515 ms  25.514 ms
+"
+bloomberg.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.731 ms  30.962 ms  31.027 ms
+"
+bloomberg.com,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  31.190 ms  31.274 ms  31.391 ms
+"
+bloomberg.com,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  30.982 ms  29.820 ms  29.807 ms
+"
+bloomberg.com,9," 9  ae27.cs1.fra9.de.eth.zayo.com (64.125.30.254)  114.177 ms  114.842 ms  114.824 ms
+"
+bloomberg.com,10,"10  ae0.cs1.fra6.de.eth.zayo.com (64.125.29.54)  117.699 ms  117.703 ms  113.136 ms
+"
+bloomberg.com,11,"11  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  114.472 ms  114.458 ms  114.417 ms
+"
+bloomberg.com,12,"12  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  112.241 ms  112.250 ms  112.239 ms
+"
+bloomberg.com,13,"13  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  115.998 ms  115.994 ms  114.288 ms
+"
+bloomberg.com,14,"14  * * *
+"
+bloomberg.com,15,"15  * ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  114.886 ms  114.841 ms
+"
+bloomberg.com,16,"16  ae6.mpr3.phl2.us.zip.zayo.com (64.125.30.59)  114.979 ms  114.770 ms  115.080 ms
+"
+bloomberg.com,17,"17  208.184.124.82.IPYX-071383-ZYO.above.net (208.184.124.82)  115.281 ms  115.256 ms  115.260 ms
+"
+bloomberg.com,18,"18  69.191.240.33 (69.191.240.33)  117.697 ms  117.693 ms  116.557 ms
+"
+bloomberg.com,19,"19  69.191.252.15 (69.191.252.15)  115.210 ms  114.840 ms  116.226 ms
+"

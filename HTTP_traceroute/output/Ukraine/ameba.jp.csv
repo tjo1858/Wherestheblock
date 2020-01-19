@@ -1,0 +1,182 @@
+URL,TTL,Message
+ameba.jp,1,timed out
+ameba.jp,2,timed out
+ameba.jp,3,timed out
+ameba.jp,4,timed out
+ameba.jp,5,timed out
+ameba.jp,6,timed out
+ameba.jp,7,timed out
+ameba.jp,8,timed out
+ameba.jp,9,timed out
+ameba.jp,10,timed out
+ameba.jp,11,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:06 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,12,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:06 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,13,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:07 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,14,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:07 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,15,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:08 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,16,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:08 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,17,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:09 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,18,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:09 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,19,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:10 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,20,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:10 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,21,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:11 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,22,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:12 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,23,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:12 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,24,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:13 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,25,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:13 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,26,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:14 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,27,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:14 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,28,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:15 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"
+ameba.jp,29,"HTTP/1.1 500 Internal Server Error
+Date: Sun, 19 Jan 2020 03:47:15 GMT
+Content-Type: text/plain
+Content-Length: 64
+Connection: keep-alive
+ETag: ""5d6761c8-40""
+
+{""status"":500,""errorCode"":""Internal Server Error"",""message"":""""}
+"

@@ -1,29 +1,29 @@
 URL,TTL,Response_Message
-kaskus.co.id,0,"traceroute to kaskus.co.id (103.6.117.2), 50 hops max, 60 byte packets
+kaskus.co.id,0,"traceroute to kaskus.co.id (103.6.117.2), 30 hops max, 60 byte packets
 "
-kaskus.co.id,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.712 ms  0.694 ms  0.729 ms
+kaskus.co.id,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.334 ms  0.480 ms
 "
-kaskus.co.id,2," 2  * * v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.602 ms
+kaskus.co.id,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.574 ms  0.735 ms  0.559 ms
 "
-kaskus.co.id,3," 3  100.64.65.25 (100.64.65.25)  15.033 ms  15.020 ms  7.789 ms
+kaskus.co.id,3," 3  100.64.65.25 (100.64.65.25)  7.987 ms  8.479 ms  8.034 ms
 "
-kaskus.co.id,4," 4  100.64.64.141 (100.64.64.141)  29.943 ms  30.318 ms  30.397 ms
+kaskus.co.id,4," 4  100.64.64.141 (100.64.64.141)  29.996 ms  30.506 ms  29.991 ms
 "
-kaskus.co.id,5," 5  de-cix.sg.gs (80.81.193.18)  30.162 ms  31.350 ms  30.128 ms
+kaskus.co.id,5," 5  de-cix.sg.gs (80.81.193.18)  31.219 ms  31.250 ms  31.204 ms
 "
-kaskus.co.id,6," 6  edge-1.v35.sg3.sg.gs (103.14.244.9)  208.492 ms  208.557 ms  208.910 ms
+kaskus.co.id,6," 6  edge-1.v35.sg3.sg.gs (103.14.244.9)  209.078 ms  210.224 ms  210.233 ms
 "
-kaskus.co.id,7," 7  103.14.244.155 (103.14.244.155)  208.943 ms  208.908 ms  226.901 ms
+kaskus.co.id,7," 7  103.14.244.155 (103.14.244.155)  209.288 ms  208.752 ms  208.721 ms
 "
-kaskus.co.id,8," 8  203.81.188.209 (203.81.188.209)  246.583 ms  225.021 ms  225.039 ms
+kaskus.co.id,8," 8  203.81.188.209 (203.81.188.209)  225.259 ms  225.232 ms  224.651 ms
 "
-kaskus.co.id,9," 9  honda.isat.net.id (58.65.240.14)  202.177 ms  201.897 ms  202.658 ms
+kaskus.co.id,9," 9  honda.isat.net.id (58.65.240.14)  202.029 ms  202.710 ms  201.620 ms
 "
-kaskus.co.id,10,"10  HOST-58-65-242-98.isat.net.id (58.65.242.98)  209.725 ms  209.942 ms  210.258 ms
+kaskus.co.id,10,"10  HOST-58-65-242-98.isat.net.id (58.65.242.98)  215.119 ms  215.213 ms  215.108 ms
 "
-kaskus.co.id,11,"11  * * *
+kaskus.co.id,11,"11  10.1.0.19 (10.1.0.19)  212.533 ms  212.387 ms  212.379 ms
 "
-kaskus.co.id,12,"12  * * *
+kaskus.co.id,12,"12  10.1.0.34 (10.1.0.34)  212.701 ms  212.950 ms  213.526 ms
 "
-kaskus.co.id,13,"13  2-id.gb.castle.kaskus.com (103.6.117.2)  210.282 ms  210.123 ms  210.912 ms
+kaskus.co.id,13,"13  2-id.gb.castle.kaskus.com (103.6.117.2)  212.944 ms  215.760 ms  212.868 ms
 "

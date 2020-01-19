@@ -1,13 +1,15 @@
 URL,TTL,Response_Message
-usaa.com,0,"traceroute to usaa.com (104.109.91.121), 50 hops max, 60 byte packets
+usaa.com,0,"traceroute to usaa.com (104.96.132.10), 30 hops max, 60 byte packets
 "
-usaa.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.352 ms  0.330 ms  0.323 ms
+usaa.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.345 ms  0.336 ms  0.350 ms
 "
-usaa.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.530 ms  0.452 ms  0.494 ms
+usaa.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.597 ms  0.593 ms *
 "
-usaa.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.156 ms  26.136 ms  28.619 ms
+usaa.com,3," 3  100.64.65.25 (100.64.65.25)  8.245 ms  8.235 ms  7.887 ms
 "
-usaa.com,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  29.061 ms  31.478 ms  31.697 ms
+usaa.com,4," 4  100.64.65.85 (100.64.65.85)  23.102 ms  23.089 ms  23.090 ms
 "
-usaa.com,5," 5  a104-109-91-121.deploy.static.akamaitechnologies.com (104.109.91.121)  28.774 ms  30.923 ms  28.339 ms
+usaa.com,5," 5  * * *
+"
+usaa.com,6," 6  a104-96-132-10.deploy.static.akamaitechnologies.com (104.96.132.10)  19.819 ms  19.996 ms  19.673 ms
 "

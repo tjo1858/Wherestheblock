@@ -1,75 +1,35 @@
 URL,TTL,Response_Message
-engadget.com,0,"traceroute to engadget.com (124.108.115.87), 50 hops max, 60 byte packets
+engadget.com,0,"traceroute to engadget.com (188.125.72.165), 30 hops max, 60 byte packets
 "
-engadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.380 ms  0.387 ms  0.377 ms
+engadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.264 ms  1.250 ms  1.295 ms
 "
-engadget.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.021 ms  0.970 ms  1.062 ms
+engadget.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.969 ms  0.682 ms  0.940 ms
 "
-engadget.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.971 ms  16.975 ms  17.005 ms
+engadget.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.318 ms  19.645 ms  19.309 ms
 "
-engadget.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.210 ms  22.267 ms  22.255 ms
+engadget.com,4," 4  193.203.0.242 (193.203.0.242)  49.955 ms 193.203.0.42 (193.203.0.42)  19.881 ms  20.469 ms
 "
-engadget.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.478 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.754 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.532 ms
+engadget.com,5," 5  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.125)  52.861 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  40.955 ms  40.952 ms
 "
-engadget.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.498 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.355 ms  39.746 ms
+engadget.com,6," 6  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  41.258 ms ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  40.445 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  40.658 ms
 "
-engadget.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.429 ms  135.664 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.818 ms
+engadget.com,7," 7  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  49.893 ms xe-4-2-0.pat1.tc2.yahoo.com (66.196.65.210)  39.857 ms  39.890 ms
 "
-engadget.com,8," 8  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  139.383 ms be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  141.051 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.303 ms
+engadget.com,8," 8  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  49.373 ms  49.601 ms et-1-1-2.msr1.ir2.yahoo.com (66.196.65.19)  49.398 ms
 "
-engadget.com,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.406 ms  139.490 ms  139.449 ms
+engadget.com,9," 9  ge-0-3-9-d104.pat1.the.yahoo.com (66.196.65.21)  49.912 ms lo0.fab4-1-gdc.ir2.yahoo.com (77.238.190.5)  49.292 ms et-1-1-2.msr1.ir2.yahoo.com (66.196.65.19)  49.268 ms
 "
-engadget.com,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.673 ms be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.142 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.483 ms
+engadget.com,10,"10  usw1-1-lbb.ir2.yahoo.com (77.238.190.104)  49.562 ms  49.345 ms  49.302 ms
 "
-engadget.com,11,"11  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.035 ms  140.341 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  149.377 ms
+engadget.com,11,"11  * usw2-1-lbb.ir2.yahoo.com (77.238.190.105)  49.567 ms *
 "
-engadget.com,12,"12  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  146.980 ms  152.126 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  151.681 ms
+engadget.com,12,"12  * * *
 "
-engadget.com,13,"13  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.231 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  170.953 ms be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  158.460 ms
+engadget.com,13,"13  * * *
 "
-engadget.com,14,"14  be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  174.453 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  174.122 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  186.568 ms
+engadget.com,14,"14  * * *
 "
-engadget.com,15,"15  be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  184.520 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  184.472 ms  189.076 ms
+engadget.com,15,"15  * * *
 "
-engadget.com,16,"16  be2016.ccr31.sjc04.atlas.cogentco.com (154.54.0.178)  190.543 ms  190.041 ms  190.553 ms
-"
-engadget.com,17,"17  38.32.64.42 (38.32.64.42)  176.047 ms 38.122.183.34 (38.122.183.34)  177.804 ms  177.797 ms
-"
-engadget.com,18,"18  r22-la.us.hinet.net (202.39.84.29)  186.529 ms r4001-s2.tp.hinet.net (211.72.108.226)  310.405 ms r22-la.us.hinet.net (202.39.84.29)  186.388 ms
-"
-engadget.com,19,"19  r4101-s2.tp.hinet.net (220.128.12.2)  309.623 ms r4101-s2.tp.hinet.net (220.128.12.6)  300.317 ms r4101-s2.tp.hinet.net (220.128.12.2)  309.038 ms
-"
-engadget.com,20,"20  r4101-s2.tp.hinet.net (220.128.12.2)  310.740 ms 220-128-14-98.HINET-IP.hinet.net (220.128.14.98)  300.933 ms 220-128-7-118.HINET-IP.hinet.net (220.128.7.118)  314.028 ms
-"
-engadget.com,21,"21  tpdt-3012.hinet.net (220.128.25.89)  311.485 ms tpdb-3021.hinet.net (220.128.3.254)  305.573 ms tpdt-3012.hinet.net (220.128.27.5)  307.879 ms
-"
-engadget.com,22,"22  TPDT-3301.hinet.net (220.128.4.149)  300.876 ms  298.291 ms tpdt-3011.hinet.net (220.128.24.181)  304.304 ms
-"
-engadget.com,23,"23  210.242.71.33 (210.242.71.33)  294.073 ms TPDT-3301.hinet.net (220.128.4.149)  305.622 ms 210.242.71.33 (210.242.71.33)  301.227 ms
-"
-engadget.com,24,"24  210.242.71.41 (210.242.71.41)  299.286 ms ae-3.clr2-a-gdc.tw1.yahoo.com (119.160.240.67)  293.467 ms  299.266 ms
-"
-engadget.com,25,"25  fab4-1-gdc.tw1.yahoo.com (119.160.240.234)  295.832 ms ae-2.clr2-a-gdc.tw1.yahoo.com (119.160.240.63)  300.495 ms fab4-1-gdc.tw1.yahoo.com (119.160.240.234)  295.288 ms
-"
-engadget.com,26,"26  lo0.egr7-131-pda.tw1.yahoo.com (124.108.116.130)  300.962 ms lo0.egr8-132-pda.tw1.yahoo.com (124.108.116.131)  301.379 ms lo0.egr5-129-pda.tw1.yahoo.com (124.108.116.128)  299.381 ms
-"
-engadget.com,27,"27  lo0.lef10-1-pda.tw1.yahoo.com (124.108.117.17)  298.264 ms  300.720 ms lo0.egr7-131-pda.tw1.yahoo.com (124.108.116.130)  293.722 ms
-"
-engadget.com,28,"28  * lo0.usw12-144-pda.tw1.yahoo.com (124.108.116.143)  296.027 ms lo0.usw11-143-pda.tw1.yahoo.com (124.108.116.142)  299.912 ms
-"
-engadget.com,29,"29  lo0.usw12-144-pda.tw1.yahoo.com (124.108.116.143)  301.293 ms * *
-"
-engadget.com,30,"30  * * *
-"
-engadget.com,31,"31  * * *
-"
-engadget.com,32,"32  * * *
-"
-engadget.com,33,"33  * * *
-"
-engadget.com,34,"34  * * *
-"
-engadget.com,35,"35  * * *
-"
-engadget.com,36,"36  w2.src4.vip.tw1.yahoo.com (124.108.115.87)  296.381 ms *  296.047 ms
+engadget.com,16,"16  w2.src4.vip.ir2.yahoo.com (188.125.72.165)  49.935 ms * *
 "

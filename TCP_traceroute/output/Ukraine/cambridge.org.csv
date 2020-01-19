@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+cambridge.org,0,"traceroute to cambridge.org (204.74.99.103), 30 hops max, 60 byte packets
+"
+cambridge.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.284 ms  0.311 ms
+"
+cambridge.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  3.550 ms  3.542 ms  0.591 ms
+"
+cambridge.org,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.939 ms  15.945 ms  15.927 ms
+"
+cambridge.org,4," 4  stk-tct-b1-ae5-vlan531.fiord.net (93.191.9.185)  33.501 ms  33.495 ms  33.480 ms
+"
+cambridge.org,5," 5  llnw-peering.fiord.net (93.191.9.15)  77.358 ms  77.597 ms  77.696 ms
+"
+cambridge.org,6," 6  ultradns.p1-13-10g.fr3.arn1.llnw.net (87.248.192.47)  49.843 ms  49.845 ms  49.833 ms
+"
+cambridge.org,7," 7  204.74.99.103 (204.74.99.103)  49.543 ms  52.790 ms  52.059 ms
+"

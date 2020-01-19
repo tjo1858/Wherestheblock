@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+tfetimes.com,0,"traceroute to tfetimes.com (192.124.249.20), 30 hops max, 60 byte packets
+"
+tfetimes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.207 ms  3.193 ms  3.183 ms
+"
+tfetimes.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.985 ms  0.931 ms  1.016 ms
+"
+tfetimes.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  20.471 ms  20.464 ms  20.425 ms
+"
+tfetimes.com,4," 4  be3331.ccr31.sof02.atlas.cogentco.com (130.117.48.181)  27.967 ms  28.012 ms  28.015 ms
+"
+tfetimes.com,5," 5  be2228.rcr51.b023063-0.sof02.atlas.cogentco.com (130.117.50.94)  28.005 ms  28.169 ms  28.159 ms
+"
+tfetimes.com,6," 6  149.6.68.106 (149.6.68.106)  27.987 ms  27.879 ms  27.850 ms
+"
+tfetimes.com,7," 7  cloudproxy10020.sucuri.net (192.124.249.20)  28.025 ms  27.991 ms  41.125 ms
+"

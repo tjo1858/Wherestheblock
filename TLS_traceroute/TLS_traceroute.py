@@ -2,6 +2,9 @@ import sys
 import socket
 import csv
 from io import BytesIO as StringIO
+import os
+import errno
+
 
 class Capturing(list):
     def __enter__(self):

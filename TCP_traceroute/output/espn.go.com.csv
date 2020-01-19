@@ -1,25 +1,25 @@
 URL,TTL,Response_Message
-espn.go.com,0,"traceroute to espn.go.com (52.222.155.203), 50 hops max, 60 byte packets
+espn.go.com,0,"traceroute to espn.go.com (143.204.214.24), 30 hops max, 60 byte packets
 "
-espn.go.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.318 ms  0.302 ms  0.337 ms
+espn.go.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.283 ms  0.327 ms
 "
-espn.go.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.927 ms  1.035 ms  1.098 ms
+espn.go.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.042 ms  0.829 ms  1.067 ms
 "
-espn.go.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.015 ms  17.386 ms  17.378 ms
+espn.go.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.103 ms  17.427 ms  17.129 ms
 "
-espn.go.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.466 ms  18.451 ms  18.402 ms
+espn.go.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.586 ms  18.294 ms  18.354 ms
 "
-espn.go.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.337 ms  24.413 ms  24.566 ms
+espn.go.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.621 ms  24.648 ms  24.371 ms
 "
-espn.go.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.052 ms  29.705 ms  29.714 ms
+espn.go.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.734 ms  29.984 ms  29.849 ms
 "
-espn.go.com,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.776 ms  30.080 ms  29.991 ms
+espn.go.com,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.774 ms  29.698 ms  29.748 ms
 "
-espn.go.com,8," 8  52.93.111.0 (52.93.111.0)  36.504 ms 52.93.111.2 (52.93.111.2)  31.191 ms 52.93.111.0 (52.93.111.0)  29.068 ms
+espn.go.com,8," 8  52.93.111.4 (52.93.111.4)  29.226 ms 52.93.111.6 (52.93.111.6)  29.224 ms 52.93.111.4 (52.93.111.4)  29.374 ms
 "
-espn.go.com,9," 9  54.239.107.19 (54.239.107.19)  29.678 ms 54.239.107.61 (54.239.107.61)  28.559 ms  28.131 ms
+espn.go.com,9," 9  54.239.4.85 (54.239.4.85)  28.525 ms 54.239.4.77 (54.239.4.77)  28.801 ms  28.761 ms
 "
-espn.go.com,10,"10  54.239.5.235 (54.239.5.235)  28.374 ms 54.239.5.231 (54.239.5.231)  33.665 ms  29.075 ms
+espn.go.com,10,"10  * * *
 "
 espn.go.com,11,"11  * * *
 "
@@ -27,5 +27,7 @@ espn.go.com,12,"12  * * *
 "
 espn.go.com,13,"13  * * *
 "
-espn.go.com,14,"14  server-52-222-155-203.fra53.r.cloudfront.net (52.222.155.203)  28.433 ms  28.493 ms  28.478 ms
+espn.go.com,14,"14  * * *
+"
+espn.go.com,15,"15  server-143-204-214-24.fra53.r.cloudfront.net (143.204.214.24)  29.057 ms  28.307 ms  28.327 ms
 "

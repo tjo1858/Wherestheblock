@@ -1,23 +1,23 @@
 URL,TTL,Response_Message
-atlassian.net,0,"traceroute to atlassian.net (18.184.99.128), 50 hops max, 60 byte packets
+atlassian.net,0,"traceroute to atlassian.net (18.184.99.129), 30 hops max, 60 byte packets
 "
-atlassian.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.305 ms  0.293 ms  0.284 ms
+atlassian.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.270 ms  0.292 ms  0.350 ms
 "
-atlassian.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.672 ms  1.687 ms  1.653 ms
+atlassian.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.607 ms  1.603 ms  0.644 ms
 "
-atlassian.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.087 ms  28.623 ms  26.078 ms
+atlassian.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  27.720 ms  27.728 ms  28.638 ms
 "
-atlassian.net,4," 4  amazon-fra-peering.fiord.net (62.140.243.53)  28.698 ms amazon-fra-peering.fiord.net (62.140.243.51)  28.690 ms  28.683 ms
+atlassian.net,4," 4  amazon-fra-peering.fiord.net (62.140.243.51)  31.327 ms  31.360 ms  31.312 ms
 "
-atlassian.net,5," 5  54.239.106.8 (54.239.106.8)  28.855 ms 54.239.106.120 (54.239.106.120)  32.069 ms *
+atlassian.net,5," 5  * 54.239.106.8 (54.239.106.8)  34.919 ms 54.239.106.74 (54.239.106.74)  31.520 ms
 "
-atlassian.net,6," 6  52.93.111.194 (52.93.111.194)  30.893 ms 52.93.111.242 (52.93.111.242)  29.898 ms 52.93.111.250 (52.93.111.250)  30.955 ms
+atlassian.net,6," 6  52.93.111.222 (52.93.111.222)  28.457 ms 52.93.111.204 (52.93.111.204)  28.314 ms 52.93.111.254 (52.93.111.254)  31.716 ms
 "
-atlassian.net,7," 7  52.93.111.251 (52.93.111.251)  32.870 ms 52.93.111.201 (52.93.111.201)  27.907 ms 52.93.111.205 (52.93.111.205)  30.238 ms
+atlassian.net,7," 7  52.93.111.237 (52.93.111.237)  31.687 ms 52.93.111.245 (52.93.111.245)  30.079 ms 52.93.111.215 (52.93.111.215)  30.086 ms
 "
-atlassian.net,8," 8  54.239.106.93 (54.239.106.93)  29.660 ms 54.239.106.115 (54.239.106.115)  30.191 ms  27.861 ms
+atlassian.net,8," 8  54.239.106.73 (54.239.106.73)  30.439 ms 54.239.106.161 (54.239.106.161)  30.195 ms 54.239.106.51 (54.239.106.51)  26.867 ms
 "
-atlassian.net,9," 9  54.239.5.168 (54.239.5.168)  29.650 ms 52.93.23.120 (52.93.23.120)  27.052 ms  29.537 ms
+atlassian.net,9," 9  150.222.104.42 (150.222.104.42)  37.848 ms 150.222.104.44 (150.222.104.44)  29.853 ms 54.239.4.216 (54.239.4.216)  27.210 ms
 "
 atlassian.net,10,"10  * * *
 "
@@ -27,9 +27,5 @@ atlassian.net,12,"12  * * *
 "
 atlassian.net,13,"13  * * *
 "
-atlassian.net,14,"14  * * *
-"
-atlassian.net,15,"15  * * *
-"
-atlassian.net,16,"16  * ec2-18-184-99-128.eu-central-1.compute.amazonaws.com (18.184.99.128)  29.633 ms *
+atlassian.net,14,"14  ec2-18-184-99-129.eu-central-1.compute.amazonaws.com (18.184.99.129)  32.140 ms  27.445 ms *
 "

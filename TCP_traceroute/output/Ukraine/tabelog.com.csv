@@ -1,0 +1,35 @@
+URL,TTL,Response_Message
+tabelog.com,0,"traceroute to tabelog.com (202.239.30.129), 30 hops max, 60 byte packets
+"
+tabelog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.124 ms  2.106 ms  2.115 ms
+"
+tabelog.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.506 ms  0.549 ms  0.532 ms
+"
+tabelog.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.347 ms  26.237 ms  29.831 ms
+"
+tabelog.com,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  28.853 ms  31.304 ms  31.293 ms
+"
+tabelog.com,5," 5  ae18.franco32.fra.seabone.net (195.22.211.207)  28.971 ms et4-0-5.franco32.fra.seabone.net (89.221.34.117)  26.417 ms ae17.franco32.fra.seabone.net (195.22.211.205)  31.546 ms
+"
+tabelog.com,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  31.532 ms  28.978 ms  31.155 ms
+"
+tabelog.com,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  28.434 ms  28.737 ms  28.707 ms
+"
+tabelog.com,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  128.910 ms  128.986 ms  131.413 ms
+"
+tabelog.com,9," 9  * ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  190.106 ms  190.155 ms
+"
+tabelog.com,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  293.447 ms  292.999 ms  296.907 ms
+"
+tabelog.com,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  290.169 ms ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  288.680 ms ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  284.358 ms
+"
+tabelog.com,12,"12  ae-0.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.183)  289.978 ms  283.391 ms ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  307.133 ms
+"
+tabelog.com,13,"13  xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  240.729 ms xe-0-0-17-1.a01.tokyjp05.jp.ce.gin.ntt.net (61.213.161.6)  244.062 ms  253.562 ms
+"
+tabelog.com,14,"14  158.205.92.242 (158.205.92.242)  241.614 ms 158.205.92.246 (158.205.92.246)  243.569 ms 158.205.92.242 (158.205.92.242)  243.499 ms
+"
+tabelog.com,15,"15  158.205.90.174 (158.205.90.174)  253.731 ms  246.362 ms  240.030 ms
+"
+tabelog.com,16,"16  202.239.30.129 (202.239.30.129)  236.105 ms  236.037 ms  254.196 ms
+"

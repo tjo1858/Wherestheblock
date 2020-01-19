@@ -1,23 +1,23 @@
 URL,TTL,Response_Message
-kat.cr,0,"traceroute to kat.cr (91.195.240.126), 50 hops max, 60 byte packets
+kat.cr,0,"traceroute to kat.cr (91.195.240.126), 30 hops max, 60 byte packets
 "
-kat.cr,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.617 ms  0.651 ms  0.679 ms
+kat.cr,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.300 ms  0.357 ms
 "
-kat.cr,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.537 ms  0.539 ms  0.520 ms
+kat.cr,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.539 ms  0.618 ms  0.510 ms
 "
-kat.cr,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.127 ms  28.568 ms  26.113 ms
+kat.cr,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.668 ms  26.172 ms  28.641 ms
 "
-kat.cr,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.167 ms  28.743 ms  28.726 ms
+kat.cr,4," 4  ffm-b1-link.telia.net (62.115.63.109)  37.841 ms  37.836 ms  37.927 ms
 "
-kat.cr,5," 5  ffm-bb3-link.telia.net (62.115.121.4)  35.953 ms  33.719 ms ffm-bb3-link.telia.net (62.115.141.236)  33.410 ms
+kat.cr,5," 5  ffm-bb3-link.telia.net (62.115.137.128)  35.985 ms ffm-bb3-link.telia.net (62.115.141.240)  36.434 ms ffm-bb3-link.telia.net (62.115.141.236)  35.959 ms
 "
-kat.cr,6," 6  mcn-b2-link.telia.net (213.155.134.13)  43.786 ms mcn-b2-link.telia.net (62.115.120.128)  35.769 ms mcn-b2-link.telia.net (62.115.136.19)  40.614 ms
+kat.cr,6," 6  mcn-b2-link.telia.net (62.115.120.130)  35.866 ms mcn-b2-link.telia.net (62.115.136.19)  35.953 ms mcn-b2-link.telia.net (213.155.134.13)  35.837 ms
 "
-kat.cr,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  118.254 ms  115.782 ms  115.694 ms
+kat.cr,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  114.945 ms  114.917 ms  117.654 ms
 "
-kat.cr,8," 8  91.195.241.102 (91.195.241.102)  115.203 ms  117.811 ms  117.735 ms
+kat.cr,8," 8  91.195.241.102 (91.195.241.102)  115.666 ms  115.359 ms  115.288 ms
 "
-kat.cr,9," 9  91.195.241.118 (91.195.241.118)  116.699 ms  119.274 ms  116.697 ms
+kat.cr,9," 9  91.195.241.118 (91.195.241.118)  214.952 ms  214.655 ms *
 "
-kat.cr,10,"10  91.195.240.126 (91.195.240.126)  117.883 ms  115.815 ms  118.332 ms
+kat.cr,10,"10  91.195.240.126 (91.195.240.126)  213.158 ms  213.632 ms  215.354 ms
 "

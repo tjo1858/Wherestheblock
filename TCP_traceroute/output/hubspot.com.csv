@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-hubspot.com,0,"traceroute to hubspot.com (104.16.251.5), 50 hops max, 60 byte packets
+hubspot.com,0,"traceroute to hubspot.com (104.16.252.5), 30 hops max, 60 byte packets
 "
-hubspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.303 ms  0.311 ms
+hubspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.602 ms  0.591 ms  0.577 ms
 "
-hubspot.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  3.107 ms  1.671 ms  3.116 ms
+hubspot.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.992 ms  1.033 ms  1.107 ms
 "
-hubspot.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.424 ms  1.539 ms  1.514 ms
+hubspot.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.788 ms  1.080 ms  0.883 ms
 "
-hubspot.com,4," 4  149.6.191.138 (149.6.191.138)  5.737 ms  5.717 ms  5.715 ms
+hubspot.com,4," 4  149.6.191.138 (149.6.191.138)  7.336 ms  7.327 ms  7.366 ms
 "
-hubspot.com,5," 5  104.16.251.5 (104.16.251.5)  1.183 ms  1.208 ms  1.127 ms
+hubspot.com,5," 5  104.16.252.5 (104.16.252.5)  3.689 ms  3.613 ms  3.671 ms
 "

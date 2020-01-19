@@ -1,33 +1,33 @@
 URL,TTL,Response_Message
-51sole.com,0,"traceroute to 51sole.com (150.109.68.232), 50 hops max, 60 byte packets
+51sole.com,0,"traceroute to 51sole.com (150.109.68.232), 30 hops max, 60 byte packets
 "
-51sole.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.297 ms  0.313 ms  0.309 ms
+51sole.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.270 ms  0.261 ms
 "
-51sole.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.698 ms  0.616 ms  0.612 ms
+51sole.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.566 ms  0.725 ms  0.552 ms
 "
-51sole.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.551 ms  26.082 ms  28.556 ms
+51sole.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.695 ms  28.688 ms  28.658 ms
 "
-51sole.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  29.257 ms  29.254 ms  29.252 ms
+51sole.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  30.319 ms  30.316 ms  30.309 ms
 "
-51sole.com,5," 5  ffm-bb3-link.telia.net (62.115.141.240)  31.481 ms ffm-bb3-link.telia.net (62.115.141.238)  28.878 ms ffm-bb3-link.telia.net (62.115.137.164)  26.441 ms
+51sole.com,5," 5  ffm-bb2-link.telia.net (62.115.137.168)  43.924 ms ffm-bb2-link.telia.net (62.115.116.161)  41.369 ms ffm-bb2-link.telia.net (62.115.121.10)  44.006 ms
 "
-51sole.com,6," 6  mei-b2-link.telia.net (62.115.133.181)  43.645 ms mei-b2-link.telia.net (62.115.133.179)  43.701 ms mei-b2-link.telia.net (62.115.133.181)  46.151 ms
+51sole.com,6," 6  mei-b3-link.telia.net (62.115.114.201)  46.372 ms mei-b3-link.telia.net (62.115.114.199)  43.898 ms  43.886 ms
 "
-51sole.com,7," 7  flagtelecom-ic-324599-mei-b2.c.telia.net (213.248.72.190)  41.485 ms  42.654 ms  44.029 ms
+51sole.com,7," 7  flagtelecom-ic-324599-mei-b2.c.telia.net (213.248.72.190)  43.996 ms  51.662 ms  41.569 ms
 "
-51sole.com,8," 8  ae2.0.pjr04.ldn001.flagtel.com (85.95.26.253)  306.538 ms  307.483 ms  303.892 ms
+51sole.com,8," 8  ae2.0.pjr04.ldn001.flagtel.com (85.95.26.253)  308.988 ms  311.647 ms  311.578 ms
 "
-51sole.com,9," 9  xe-3-0-6.0.cjr01.sin001.flagtel.com (85.95.26.25)  317.956 ms  317.991 ms  317.890 ms
+51sole.com,9," 9  xe-3-0-6.0.cjr01.sin001.flagtel.com (85.95.26.25)  315.631 ms  314.910 ms xe-2-0-6.0.cjr01.sin001.flagtel.com (85.95.27.98)  319.789 ms
 "
-51sole.com,10,"10  ge-4-1-0.0.ejr04.sin001.flagtel.com (85.95.26.58)  305.885 ms ge-3-3-0.0.pjr01.hkg005.flagtel.com (85.95.26.9)  304.479 ms ge-4-1-0.0.ejr04.sin001.flagtel.com (85.95.26.58)  303.575 ms
+51sole.com,10,"10  ge-0-3-0.0.pjr01.hkg005.flagtel.com (62.216.128.9)  311.345 ms ge-2-0-0.0.pjr01.hkg005.flagtel.com (85.95.25.41)  318.131 ms ge-5-0-0.0.ejr04.sin001.flagtel.com (62.216.137.141)  318.185 ms
 "
-51sole.com,11,"11  xe-8-0-3.0.cji02.hkg003.flagtel.com (85.95.27.6)  314.741 ms  306.068 ms xe-8-0-2.0.cji02.hkg003.flagtel.com (62.216.128.45)  302.629 ms
+51sole.com,11,"11  xe-1-1-0.0.cji02.hkg003.flagtel.com (85.95.27.169)  318.235 ms xe-8-0-2.0.cji02.hkg003.flagtel.com (62.216.128.45)  309.196 ms  320.455 ms
 "
-51sole.com,12,"12  80.81.65.138 (80.81.65.138)  251.215 ms 80.77.1.94 (80.77.1.94)  252.195 ms  241.082 ms
+51sole.com,12,"12  80.77.1.94 (80.77.1.94)  250.051 ms 80.81.65.138 (80.81.65.138)  252.326 ms  252.439 ms
 "
-51sole.com,13,"13  218.189.5.23 (218.189.5.23)  248.479 ms  251.026 ms  240.928 ms
+51sole.com,13,"13  218.189.5.23 (218.189.5.23)  242.384 ms  242.055 ms 218.189.5.55 (218.189.5.55)  243.313 ms
 "
-51sole.com,14,"14  global.hgc.com.hk (218.189.12.14)  312.367 ms  300.992 ms  303.726 ms
+51sole.com,14,"14  global.hgc.com.hk (218.189.12.14)  309.968 ms  303.281 ms  311.414 ms
 "
 51sole.com,15,"15  * * *
 "
@@ -37,5 +37,5 @@ URL,TTL,Response_Message
 "
 51sole.com,18,"18  * * *
 "
-51sole.com,19,"19  150.109.68.232 (150.109.68.232)  305.323 ms  305.377 ms  304.783 ms
+51sole.com,19,"19  150.109.68.232 (150.109.68.232)  314.852 ms  305.100 ms  300.623 ms
 "

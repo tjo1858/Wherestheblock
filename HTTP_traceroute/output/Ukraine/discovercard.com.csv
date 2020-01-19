@@ -1,0 +1,398 @@
+URL,TTL,Message
+discovercard.com,1,timed out
+discovercard.com,2,timed out
+discovercard.com,3,timed out
+discovercard.com,4,timed out
+discovercard.com,5,timed out
+discovercard.com,6,timed out
+discovercard.com,7,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;930509c4
+</BODY></HTML>
+"
+discovercard.com,8,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;930509ce
+</BODY></HTML>
+"
+discovercard.com,9,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;930509e5
+</BODY></HTML>
+"
+discovercard.com,10,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;930509fa
+</BODY></HTML>
+"
+discovercard.com,11,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;93050a05
+</BODY></HTML>
+"
+discovercard.com,12,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;93050a17
+</BODY></HTML>
+"
+discovercard.com,13,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404963&#46;50647168
+</BODY></HTML>
+"
+discovercard.com,14,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:03 GMT
+Date: Sun, 19 Jan 2020 03:36:03 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404963&#46;93050a41
+</BODY></HTML>
+"
+discovercard.com,15,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;5064716f
+</BODY></HTML>
+"
+discovercard.com,16,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;50647173
+</BODY></HTML>
+"
+discovercard.com,17,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;50647178
+</BODY></HTML>
+"
+discovercard.com,18,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;50647186
+</BODY></HTML>
+"
+discovercard.com,19,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;5064718a
+</BODY></HTML>
+"
+discovercard.com,20,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;5064718d
+</BODY></HTML>
+"
+discovercard.com,21,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;50647192
+</BODY></HTML>
+"
+discovercard.com,22,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404964&#46;93050ace
+</BODY></HTML>
+"
+discovercard.com,23,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404964&#46;93050ae3
+</BODY></HTML>
+"
+discovercard.com,24,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404964&#46;5064719c
+</BODY></HTML>
+"
+discovercard.com,25,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:04 GMT
+Date: Sun, 19 Jan 2020 03:36:04 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404964&#46;93050b0d
+</BODY></HTML>
+"
+discovercard.com,26,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:05 GMT
+Date: Sun, 19 Jan 2020 03:36:05 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404965&#46;93050b27
+</BODY></HTML>
+"
+discovercard.com,27,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:05 GMT
+Date: Sun, 19 Jan 2020 03:36:05 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404965&#46;93050b38
+</BODY></HTML>
+"
+discovercard.com,28,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:05 GMT
+Date: Sun, 19 Jan 2020 03:36:05 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;35e86768&#46;1579404965&#46;93050b47
+</BODY></HTML>
+"
+discovercard.com,29,"HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Sun, 19 Jan 2020 03:36:05 GMT
+Date: Sun, 19 Jan 2020 03:36:05 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;d6e86768&#46;1579404965&#46;506471aa
+</BODY></HTML>
+"

@@ -1,21 +1,17 @@
 URL,TTL,Response_Message
-manoramaonline.com,0,"traceroute to manoramaonline.com (104.103.95.37), 50 hops max, 60 byte packets
+manoramaonline.com,0,"traceroute to manoramaonline.com (23.38.85.250), 30 hops max, 60 byte packets
 "
-manoramaonline.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.330 ms  0.330 ms
+manoramaonline.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.350 ms  0.346 ms  0.345 ms
 "
-manoramaonline.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.566 ms  0.495 ms  0.493 ms
+manoramaonline.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.606 ms  0.607 ms  0.606 ms
 "
-manoramaonline.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.633 ms  28.638 ms  28.633 ms
+manoramaonline.com,3," 3  100.64.65.25 (100.64.65.25)  7.813 ms  7.822 ms  7.821 ms
 "
-manoramaonline.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  38.940 ms  38.939 ms  39.007 ms
+manoramaonline.com,4," 4  100.64.64.125 (100.64.64.125)  14.169 ms  14.183 ms  14.182 ms
 "
-manoramaonline.com,5," 5  ffm-bb2-link.telia.net (62.115.116.161)  30.163 ms  30.163 ms  30.163 ms
+manoramaonline.com,5," 5  100.64.65.230 (100.64.65.230)  38.218 ms  38.221 ms  38.223 ms
 "
-manoramaonline.com,6," 6  win-bb2-link.telia.net (62.115.133.78)  42.015 ms  41.479 ms  41.224 ms
+manoramaonline.com,6," 6  nix4.akamai.com (91.210.16.221)  32.157 ms  32.229 ms  32.222 ms
 "
-manoramaonline.com,7," 7  win-b4-link.telia.net (62.115.112.199)  44.230 ms  44.232 ms  44.296 ms
-"
-manoramaonline.com,8," 8  akamai-ic-317493-win-b4.c.telia.net (62.115.147.101)  31.578 ms  31.504 ms  31.494 ms
-"
-manoramaonline.com,9," 9  a104-103-95-37.deploy.static.akamaitechnologies.com (104.103.95.37)  31.401 ms  31.364 ms  31.355 ms
+manoramaonline.com,7," 7  a23-38-85-250.deploy.static.akamaitechnologies.com (23.38.85.250)  31.603 ms  31.639 ms  31.632 ms
 "

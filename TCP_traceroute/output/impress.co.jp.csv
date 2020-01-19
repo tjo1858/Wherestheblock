@@ -1,37 +1,37 @@
 URL,TTL,Response_Message
-impress.co.jp,0,"traceroute to impress.co.jp (203.183.234.2), 50 hops max, 60 byte packets
+impress.co.jp,0,"traceroute to impress.co.jp (203.183.234.2), 30 hops max, 60 byte packets
 "
-impress.co.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.273 ms  0.286 ms  0.319 ms
+impress.co.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.258 ms  0.301 ms  0.312 ms
 "
-impress.co.jp,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.556 ms  0.548 ms  0.586 ms
+impress.co.jp,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.631 ms  0.618 ms  0.646 ms
 "
-impress.co.jp,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.720 ms  26.104 ms  28.654 ms
+impress.co.jp,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.145 ms  26.139 ms  28.602 ms
 "
-impress.co.jp,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  28.648 ms  31.232 ms  31.218 ms
+impress.co.jp,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  31.304 ms  28.724 ms  31.276 ms
 "
-impress.co.jp,5," 5  ae18.franco32.fra.seabone.net (195.22.211.207)  28.831 ms ae17.franco32.fra.seabone.net (195.22.211.205)  28.927 ms  28.922 ms
+impress.co.jp,5," 5  ae18.franco32.fra.seabone.net (195.22.211.207)  29.118 ms ae17.franco32.fra.seabone.net (195.22.211.205)  29.064 ms  29.042 ms
 "
-impress.co.jp,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  28.556 ms  28.513 ms  31.030 ms
+impress.co.jp,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  31.181 ms  31.143 ms  31.136 ms
 "
-impress.co.jp,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  31.009 ms  31.167 ms  30.946 ms
+impress.co.jp,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  31.451 ms  31.245 ms  31.595 ms
 "
-impress.co.jp,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  120.182 ms *  117.187 ms
+impress.co.jp,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  117.107 ms  116.726 ms  119.310 ms
 "
-impress.co.jp,9," 9  * * ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  183.228 ms
+impress.co.jp,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  178.218 ms  182.888 ms  182.553 ms
 "
-impress.co.jp,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  293.488 ms  286.140 ms  288.237 ms
+impress.co.jp,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  293.350 ms  286.069 ms  293.296 ms
 "
-impress.co.jp,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  281.949 ms ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  279.981 ms ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  284.445 ms
+impress.co.jp,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  282.866 ms ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  300.007 ms ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  285.419 ms
 "
-impress.co.jp,12,"12  ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  286.187 ms ae-0.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.5.246)  283.558 ms  290.152 ms
+impress.co.jp,12,"12  ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  285.803 ms ae-0.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.183)  296.810 ms ae-1.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.189)  285.362 ms
 "
-impress.co.jp,13,"13  xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  241.509 ms xe-0-0-17-1.a01.tokyjp05.jp.ce.gin.ntt.net (61.213.161.6)  245.053 ms xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  241.160 ms
+impress.co.jp,13,"13  xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  251.369 ms  248.889 ms xe-0-0-17-1.a01.tokyjp05.jp.ce.gin.ntt.net (61.213.161.6)  246.523 ms
 "
-impress.co.jp,14,"14  158.205.192.233 (158.205.192.233)  246.584 ms 158.205.192.141 (158.205.192.141)  237.887 ms  240.080 ms
+impress.co.jp,14,"14  158.205.192.141 (158.205.192.141)  244.035 ms  246.092 ms  251.135 ms
 "
-impress.co.jp,15,"15  158.205.192.233 (158.205.192.233)  244.729 ms * *
+impress.co.jp,15,"15  * 158.205.192.233 (158.205.192.233)  246.223 ms  243.621 ms
 "
 impress.co.jp,16,"16  * * *
 "
-impress.co.jp,17,"17  * www.impress.co.jp (203.183.234.2)  238.598 ms  249.150 ms
+impress.co.jp,17,"17  * * www.impress.co.jp (203.183.234.2)  243.913 ms
 "

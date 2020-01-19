@@ -1,33 +1,33 @@
 URL,TTL,Response_Message
-blkget.com,0,"traceroute to blkget.com (96.45.82.193), 50 hops max, 60 byte packets
+blkget.com,0,"traceroute to blkget.com (96.45.83.233), 30 hops max, 60 byte packets
 "
-blkget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.433 ms  0.422 ms  0.443 ms
+blkget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.337 ms  0.376 ms
 "
-blkget.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.665 ms  0.658 ms  0.649 ms
+blkget.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.682 ms  0.722 ms  0.710 ms
 "
-blkget.com,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.943 ms  30.929 ms  30.886 ms
+blkget.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.668 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.860 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.657 ms
 "
-blkget.com,4," 4  ix-ae-6-0.tcore2.fr0-frankfurt.as6453.net (80.231.65.1)  32.239 ms  31.090 ms  32.224 ms
+blkget.com,4," 4  ix-ae-6-0.tcore2.fr0-frankfurt.as6453.net (80.231.65.1)  30.964 ms  30.951 ms  32.239 ms
 "
-blkget.com,5," 5  if-ae-9-2.tcore1.fnm-frankfurt.as6453.net (5.23.30.16)  115.535 ms  116.832 ms  115.598 ms
+blkget.com,5," 5  if-ae-9-2.tcore1.fnm-frankfurt.as6453.net (5.23.30.16)  118.770 ms  120.273 ms  118.758 ms
 "
-blkget.com,6," 6  if-ae-12-60.tcore2.fnm-frankfurt.as6453.net (195.219.156.133)  118.451 ms if-ae-12-2.tcore2.fnm-frankfurt.as6453.net (195.219.87.1)  126.105 ms if-ae-12-60.tcore2.fnm-frankfurt.as6453.net (195.219.156.133)  119.983 ms
+blkget.com,6," 6  if-ae-6-2.tcore1.av2-amsterdam.as6453.net (195.219.194.149)  121.242 ms  120.996 ms if-ae-12-2.tcore2.fnm-frankfurt.as6453.net (195.219.87.1)  123.604 ms
 "
-blkget.com,7," 7  if-ae-30-2.tcore1.pvu-paris.as6453.net (80.231.153.89)  126.055 ms if-ae-9-2.tcore1.pvu-paris.as6453.net (195.219.87.10)  123.291 ms  123.176 ms
+blkget.com,7," 7  if-ae-30-2.tcore1.pvu-paris.as6453.net (80.231.153.89)  122.887 ms if-ae-2-2.tcore2.av2-amsterdam.as6453.net (195.219.194.6)  116.917 ms  116.681 ms
 "
-blkget.com,8," 8  if-ae-11-2.tcore1.pye-paris.as6453.net (80.231.153.50)  118.527 ms  120.250 ms if-ae-14-2.tcore2.l78-london.as6453.net (80.231.131.160)  115.568 ms
+blkget.com,8," 8  if-ae-14-2.tcore2.l78-london.as6453.net (80.231.131.160)  115.540 ms if-ae-11-2.tcore1.pye-paris.as6453.net (80.231.153.50)  121.447 ms  122.789 ms
 "
-blkget.com,9," 9  if-ae-3-2.tcore1.l78-london.as6453.net (80.231.154.143)  124.554 ms if-ae-2-2.tcore1.l78-london.as6453.net (80.231.131.2)  118.348 ms if-ae-3-2.tcore1.l78-london.as6453.net (80.231.154.143)  124.717 ms
+blkget.com,9," 9  if-ae-3-2.tcore1.l78-london.as6453.net (80.231.154.143)  122.787 ms  121.542 ms  126.012 ms
 "
-blkget.com,10,"10  if-ae-15-2.tcore3.njy-newark.as6453.net (80.231.130.26)  123.510 ms  122.778 ms  123.779 ms
+blkget.com,10,"10  if-ae-15-2.tcore3.njy-newark.as6453.net (80.231.130.26)  120.748 ms  119.393 ms  116.550 ms
 "
-blkget.com,11,"11  if-ae-1-3.tcore4.njy-newark.as6453.net (216.6.57.6)  121.825 ms  124.985 ms  121.776 ms
+blkget.com,11,"11  if-ae-1-3.tcore4.njy-newark.as6453.net (216.6.57.6)  119.832 ms  118.429 ms  115.503 ms
 "
-blkget.com,12,"12  if-ae-12-2.tcore2.aeq-ashburn.as6453.net (216.6.87.42)  122.949 ms  121.688 ms  119.602 ms
+blkget.com,12,"12  if-ae-12-2.tcore2.aeq-ashburn.as6453.net (216.6.87.42)  120.900 ms  116.524 ms  119.441 ms
 "
-blkget.com,13,"13  if-ae-2-2.tcore1.aeq-ashburn.as6453.net (216.6.87.2)  118.159 ms  119.584 ms  119.571 ms
+blkget.com,13,"13  if-ae-2-2.tcore1.aeq-ashburn.as6453.net (216.6.87.2)  118.733 ms  118.593 ms  118.327 ms
 "
-blkget.com,14,"14  66.198.155.129 (66.198.155.129)  124.735 ms  121.773 ms  125.219 ms
+blkget.com,14,"14  66.198.155.129 (66.198.155.129)  130.143 ms  134.603 ms  130.294 ms
 "
-blkget.com,15,"15  redirection.dnsmadeeasy.com (96.45.82.193)  125.012 ms  122.001 ms  122.025 ms
+blkget.com,15,"15  redirection.dnsmadeeasy.com (96.45.83.233)  133.470 ms  133.144 ms  134.938 ms
 "

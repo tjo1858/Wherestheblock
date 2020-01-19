@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-thesportbible.com,0,"traceroute to thesportbible.com (104.17.26.64), 50 hops max, 60 byte packets
+thesportbible.com,0,"traceroute to thesportbible.com (104.17.26.64), 30 hops max, 60 byte packets
 "
-thesportbible.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.349 ms  0.388 ms
+thesportbible.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.269 ms  0.295 ms  0.328 ms
 "
-thesportbible.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.037 ms  1.085 ms  1.153 ms
+thesportbible.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.874 ms  0.923 ms  0.969 ms
 "
-thesportbible.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.006 ms  0.807 ms  0.942 ms
+thesportbible.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.788 ms  0.932 ms  1.026 ms
 "
-thesportbible.com,4," 4  149.6.191.138 (149.6.191.138)  2.073 ms  2.102 ms  2.134 ms
+thesportbible.com,4," 4  149.6.191.138 (149.6.191.138)  2.211 ms  2.154 ms  7.578 ms
 "
-thesportbible.com,5," 5  104.17.26.64 (104.17.26.64)  0.556 ms  0.560 ms  0.472 ms
+thesportbible.com,5," 5  104.17.26.64 (104.17.26.64)  0.861 ms  0.835 ms  0.837 ms
 "

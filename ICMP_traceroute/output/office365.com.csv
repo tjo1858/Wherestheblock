@@ -1,33 +1,33 @@
 URL,TTL,Response_Message
-office365.com,0,"traceroute to office365.com (52.165.129.203), 50 hops max, 60 byte packets
+office365.com,0,"traceroute to office365.com (13.90.213.204), 30 hops max, 60 byte packets
 "
-office365.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.325 ms  0.324 ms
+office365.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.308 ms  0.306 ms
 "
-office365.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.564 ms  0.616 ms  0.563 ms
+office365.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.596 ms  0.473 ms  0.584 ms
 "
-office365.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.444 ms  38.447 ms  38.446 ms
+office365.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.500 ms  38.483 ms  38.512 ms
 "
-office365.com,4," 4  ams-ix-2.microsoft.com (80.249.209.21)  36.520 ms  36.529 ms  36.526 ms
+office365.com,4," 4  ams-ix-2.microsoft.com (80.249.209.21)  37.243 ms  37.295 ms  37.232 ms
 "
-office365.com,5," 5  ae29-0.icr02.ams30.ntwk.msn.net (104.44.239.81)  37.226 ms  37.229 ms  37.226 ms
+office365.com,5," 5  ae29-0.icr02.ams30.ntwk.msn.net (104.44.239.81)  36.455 ms  36.486 ms  36.475 ms
 "
-office365.com,6," 6  be-122-0.ibr02.ams30.ntwk.msn.net (104.44.22.225)  143.904 ms  143.677 ms  143.697 ms
+office365.com,6," 6  be-102-0.ibr01.ams30.ntwk.msn.net (104.44.22.217)  116.538 ms  116.751 ms  116.741 ms
 "
-office365.com,7," 7  be-7-0.ibr02.dub07.ntwk.msn.net (104.44.17.58)  143.261 ms  143.377 ms  143.355 ms
+office365.com,7," 7  be-7-0.ibr01.dub07.ntwk.msn.net (104.44.17.56)  115.713 ms  115.709 ms  115.523 ms
 "
-office365.com,8," 8  be-6-0.ibr02.sxl71.ntwk.msn.net (104.44.16.114)  143.540 ms  143.603 ms  143.581 ms
+office365.com,8," 8  be-5-0.ibr01.sxl71.ntwk.msn.net (104.44.16.112)  115.921 ms  116.057 ms  115.987 ms
 "
-office365.com,9," 9  be-4-0.ibr02.ewr30.ntwk.msn.net (104.44.17.154)  142.960 ms  143.010 ms  143.001 ms
+office365.com,9," 9  be-4-0.ibr01.ewr30.ntwk.msn.net (104.44.17.152)  115.689 ms  115.752 ms  115.747 ms
 "
-office365.com,10,"10  be-2-0.ibr02.cle30.ntwk.msn.net (104.44.7.98)  143.491 ms  143.393 ms  143.382 ms
+office365.com,10,"10  be-7-0.ibr03.bl7.ntwk.msn.net (104.44.16.18)  116.443 ms  116.650 ms  116.637 ms
 "
-office365.com,11,"11  be-3-0.ibr02.ch4.ntwk.msn.net (104.44.7.116)  143.800 ms  144.235 ms  143.850 ms
+office365.com,11,"11  ae140-0.icr01.bl7.ntwk.msn.net (104.44.21.206)  115.485 ms  115.741 ms  115.736 ms
 "
-office365.com,12,"12  be-1-0.ibr02.ch2.ntwk.msn.net (104.44.7.222)  143.012 ms  143.093 ms  142.992 ms
+office365.com,12,"12  * * *
 "
-office365.com,13,"13  be-4-0.ibr02.dsm05.ntwk.msn.net (104.44.19.253)  143.482 ms  143.525 ms  143.207 ms
+office365.com,13,"13  * * *
 "
-office365.com,14,"14  ae160-0.icr01.dsm05.ntwk.msn.net (104.44.22.186)  142.298 ms  142.298 ms  142.287 ms
+office365.com,14,"14  * * *
 "
 office365.com,15,"15  * * *
 "
@@ -60,44 +60,4 @@ office365.com,28,"28  * * *
 office365.com,29,"29  * * *
 "
 office365.com,30,"30  * * *
-"
-office365.com,31,"31  * * *
-"
-office365.com,32,"32  * * *
-"
-office365.com,33,"33  * * *
-"
-office365.com,34,"34  * * *
-"
-office365.com,35,"35  * * *
-"
-office365.com,36,"36  * * *
-"
-office365.com,37,"37  * * *
-"
-office365.com,38,"38  * * *
-"
-office365.com,39,"39  * * *
-"
-office365.com,40,"40  * * *
-"
-office365.com,41,"41  * * *
-"
-office365.com,42,"42  * * *
-"
-office365.com,43,"43  * * *
-"
-office365.com,44,"44  * * *
-"
-office365.com,45,"45  * * *
-"
-office365.com,46,"46  * * *
-"
-office365.com,47,"47  * * *
-"
-office365.com,48,"48  * * *
-"
-office365.com,49,"49  * * *
-"
-office365.com,50,"50  * * *
 "
