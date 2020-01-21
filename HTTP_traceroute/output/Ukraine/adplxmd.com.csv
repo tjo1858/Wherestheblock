@@ -152,28 +152,30 @@ Content-Type: text/html
 Your browser didn't send a complete request in time.
 </body></html>
 "
-adplxmd.com,18,"HTTP/1.0 408 Request Time-out
-Cache-Control: no-cache
+adplxmd.com,18,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:15 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584435.2307799; expires=Fri, 18-Jan-2030 05:27:15 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
 Connection: close
-Content-Type: text/html
+Content-Type: text/html; charset=UTF-8
 
-<html><body><h1>408 Request Time-out</h1>
-Your browser didn't send a complete request in time.
-</body></html>
 "
-adplxmd.com,19,"HTTP/1.0 408 Request Time-out
-Cache-Control: no-cache
+adplxmd.com,19,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:15 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584435.2757881; expires=Fri, 18-Jan-2030 05:27:15 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
 Connection: close
-Content-Type: text/html
+Content-Type: text/html; charset=UTF-8
 
-<html><body><h1>408 Request Time-out</h1>
-Your browser didn't send a complete request in time.
-</body></html>
 "
 adplxmd.com,20,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:01 GMT
+Date: Tue, 21 Jan 2020 05:27:16 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405381.1118900; expires=Wed, 16-Jan-2030 03:43:01 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584436.2755735; expires=Fri, 18-Jan-2030 05:27:16 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -181,9 +183,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,21,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:01 GMT
+Date: Tue, 21 Jan 2020 05:27:16 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405381.4283828; expires=Wed, 16-Jan-2030 03:43:01 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584436.6069336; expires=Fri, 18-Jan-2030 05:27:16 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -191,9 +193,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,22,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:02 GMT
+Date: Tue, 21 Jan 2020 05:27:16 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405382.6811259; expires=Wed, 16-Jan-2030 03:43:02 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584436.5367768; expires=Fri, 18-Jan-2030 05:27:16 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -201,9 +203,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,23,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:02 GMT
+Date: Tue, 21 Jan 2020 05:27:17 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405382.6441295; expires=Wed, 16-Jan-2030 03:43:02 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584437.5646327; expires=Fri, 18-Jan-2030 05:27:17 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -211,9 +213,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,24,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:02 GMT
+Date: Tue, 21 Jan 2020 05:27:17 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405382.7484477; expires=Wed, 16-Jan-2030 03:43:02 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584437.7189223; expires=Fri, 18-Jan-2030 05:27:17 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -221,9 +223,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,25,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:03 GMT
+Date: Tue, 21 Jan 2020 05:27:18 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405383.5525939; expires=Wed, 16-Jan-2030 03:43:03 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584438.4273417; expires=Fri, 18-Jan-2030 05:27:18 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -231,9 +233,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,26,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:03 GMT
+Date: Tue, 21 Jan 2020 05:27:18 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405383.4342043; expires=Wed, 16-Jan-2030 03:43:03 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584438.7482783; expires=Fri, 18-Jan-2030 05:27:18 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -241,9 +243,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,27,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:04 GMT
+Date: Tue, 21 Jan 2020 05:27:18 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405384.6383390; expires=Wed, 16-Jan-2030 03:43:04 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584438.4020896; expires=Fri, 18-Jan-2030 05:27:18 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -251,9 +253,9 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,28,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:04 GMT
+Date: Tue, 21 Jan 2020 05:27:19 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405384.8472126; expires=Wed, 16-Jan-2030 03:43:04 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584439.5723908; expires=Fri, 18-Jan-2030 05:27:19 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close
@@ -261,9 +263,209 @@ Content-Type: text/html; charset=UTF-8
 
 "
 adplxmd.com,29,"HTTP/1.1 302 Found
-Date: Sun, 19 Jan 2020 03:43:04 GMT
+Date: Tue, 21 Jan 2020 05:27:19 GMT
 Server: Apache/2.4.25 (Debian)
-Set-Cookie: __tad=1579405384.6763543; expires=Wed, 16-Jan-2030 03:43:04 GMT; Max-Age=315360000
+Set-Cookie: __tad=1579584439.5459975; expires=Fri, 18-Jan-2030 05:27:19 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,30,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:19 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584439.6263836; expires=Fri, 18-Jan-2030 05:27:19 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,31,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:20 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584440.4676763; expires=Fri, 18-Jan-2030 05:27:20 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,32,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:20 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584440.8426706; expires=Fri, 18-Jan-2030 05:27:20 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,33,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:21 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584441.8228479; expires=Fri, 18-Jan-2030 05:27:21 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,34,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:21 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584441.6526039; expires=Fri, 18-Jan-2030 05:27:21 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,35,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:21 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584441.3382627; expires=Fri, 18-Jan-2030 05:27:21 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,36,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:22 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584442.1905916; expires=Fri, 18-Jan-2030 05:27:22 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,37,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:22 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584442.2871027; expires=Fri, 18-Jan-2030 05:27:22 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,38,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:23 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584443.2979766; expires=Fri, 18-Jan-2030 05:27:23 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,39,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:23 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584443.1927845; expires=Fri, 18-Jan-2030 05:27:23 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,40,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:23 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584443.7028563; expires=Fri, 18-Jan-2030 05:27:23 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,41,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:24 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584444.3925583; expires=Fri, 18-Jan-2030 05:27:24 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,42,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:24 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584444.2554692; expires=Fri, 18-Jan-2030 05:27:24 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,43,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:24 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584444.6060558; expires=Fri, 18-Jan-2030 05:27:24 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,44,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:25 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584445.6794177; expires=Fri, 18-Jan-2030 05:27:25 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,45,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:25 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584445.3991819; expires=Fri, 18-Jan-2030 05:27:25 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,46,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:26 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584446.3048141; expires=Fri, 18-Jan-2030 05:27:26 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,47,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:26 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584446.5952750; expires=Fri, 18-Jan-2030 05:27:26 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,48,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:26 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584446.1706051; expires=Fri, 18-Jan-2030 05:27:26 GMT; Max-Age=315360000
+Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+"
+adplxmd.com,49,"HTTP/1.1 302 Found
+Date: Tue, 21 Jan 2020 05:27:27 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: __tad=1579584447.4563372; expires=Fri, 18-Jan-2030 05:27:27 GMT; Max-Age=315360000
 Location: http://instantfwding.com/?dn=ojaloberoi.in&pid=7PO2UM885
 Content-Length: 0
 Connection: close

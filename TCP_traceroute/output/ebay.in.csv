@@ -1,17 +1,17 @@
 URL,TTL,Response_Message
-ebay.in,0,"traceroute to ebay.in (66.135.195.175), 30 hops max, 60 byte packets
+ebay.in,0,"traceroute to ebay.in (66.135.195.175), 50 hops max, 60 byte packets
 "
-ebay.in,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.363 ms  0.336 ms  0.317 ms
+ebay.in,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.039 ms  1.020 ms  1.044 ms
 "
-ebay.in,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.678 ms  0.675 ms  0.658 ms
+ebay.in,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.629 ms  0.625 ms  0.673 ms
 "
-ebay.in,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.296 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.962 ms ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.277 ms
+ebay.in,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.122 ms  31.189 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.461 ms
 "
-ebay.in,4," 4  fra1-ber1.ebay.com (80.81.194.73)  30.391 ms  30.104 ms  30.465 ms
+ebay.in,4," 4  fra1-ber1.ebay.com (80.81.194.73)  30.135 ms  30.167 ms  31.299 ms
 "
-ebay.in,5," 5  xe-2-2-1-slc1-bcr1.bb.ebay.com (216.113.190.145)  174.650 ms xe-0-1-1-nix1-bcr1.bb.ebay.com (216.113.190.50)  172.675 ms xe-2-2-1-slc1-bcr2.bb.ebay.com (216.113.190.159)  183.761 ms
+ebay.in,5," 5  xe-0-1-1-nix1-bcr1.bb.ebay.com (216.113.190.50)  171.874 ms xe-2-2-1-slc1-bcr2.bb.ebay.com (216.113.190.159)  183.869 ms  183.846 ms
 "
-ebay.in,6," 6  8.42.120.26 (8.42.120.26)  183.661 ms 8.42.120.18 (8.42.120.18)  184.690 ms 8.42.120.26 (8.42.120.26)  183.208 ms
+ebay.in,6," 6  8.42.120.22 (8.42.120.22)  184.886 ms 8.42.120.26 (8.42.120.26)  183.429 ms  183.416 ms
 "
 ebay.in,7," 7  * * *
 "
@@ -21,5 +21,5 @@ ebay.in,9," 9  * * *
 "
 ebay.in,10,"10  * * *
 "
-ebay.in,11,"11  ru.ebay.com (66.135.195.175)  175.431 ms  183.452 ms  172.581 ms
+ebay.in,11,"11  ru.ebay.com (66.135.195.175)  172.668 ms  183.910 ms  183.151 ms
 "

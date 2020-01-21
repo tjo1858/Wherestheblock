@@ -1,35 +1,41 @@
 URL,TTL,Response_Message
-tabelog.com,0,"traceroute to tabelog.com (202.239.30.129), 30 hops max, 60 byte packets
+tabelog.com,0,"traceroute to tabelog.com (202.239.30.129), 50 hops max, 60 byte packets
 "
-tabelog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.703 ms  1.683 ms  1.710 ms
+tabelog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.369 ms  0.358 ms  0.352 ms
 "
-tabelog.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.660 ms  0.653 ms  0.591 ms
+tabelog.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.686 ms  0.631 ms  0.625 ms
 "
-tabelog.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.171 ms  26.141 ms  28.702 ms
+tabelog.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.047 ms  28.565 ms  26.074 ms
 "
-tabelog.com,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  31.291 ms  31.420 ms  31.401 ms
+tabelog.com,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  31.163 ms  28.706 ms  28.700 ms
 "
-tabelog.com,5," 5  et4-0-5.franco32.fra.seabone.net (89.221.34.117)  26.519 ms * *
+tabelog.com,5," 5  ae18.franco32.fra.seabone.net (195.22.211.207)  29.248 ms  26.362 ms  26.348 ms
 "
-tabelog.com,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  31.166 ms  31.215 ms  28.564 ms
+tabelog.com,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  31.072 ms  28.567 ms  28.647 ms
 "
-tabelog.com,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  28.525 ms  30.841 ms  28.373 ms
+tabelog.com,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  32.056 ms  28.374 ms  31.679 ms
 "
-tabelog.com,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  131.291 ms * *
+tabelog.com,8," 8  ae-5.r24.frnkge08.de.bb.gin.ntt.net (129.250.5.81)  28.470 ms  30.995 ms  30.925 ms
 "
-tabelog.com,9," 9  * ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  193.148 ms  192.874 ms
+tabelog.com,9," 9  * * *
 "
-tabelog.com,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  297.648 ms  317.419 ms  317.261 ms
+tabelog.com,10,"10  * * *
 "
-tabelog.com,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  294.821 ms ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  297.602 ms ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  284.288 ms
+tabelog.com,11,"11  ae-5.r22.sttlwa01.us.bb.gin.ntt.net (129.250.6.177)  181.713 ms  181.745 ms  184.652 ms
 "
-tabelog.com,12,"12  ae-0.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.5.246)  283.281 ms ae-1.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.189)  291.119 ms ae-0.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.183)  295.999 ms
+tabelog.com,12,"12  ae-13.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.4.143)  279.830 ms  276.795 ms  275.193 ms
 "
-tabelog.com,13,"13  xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  235.620 ms  246.248 ms  253.124 ms
+tabelog.com,13,"13  ae-0.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.5.22)  273.292 ms  277.588 ms  278.156 ms
 "
-tabelog.com,14,"14  158.205.92.242 (158.205.92.242)  255.858 ms  240.484 ms 158.205.92.246 (158.205.92.246)  242.921 ms
+tabelog.com,14,"14  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  266.101 ms ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  277.707 ms ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  275.453 ms
 "
-tabelog.com,15,"15  158.205.90.174 (158.205.90.174)  242.883 ms  251.376 ms  253.219 ms
+tabelog.com,15,"15  ae-0.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.5.246)  284.365 ms ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  272.932 ms  276.153 ms
 "
-tabelog.com,16,"16  202.239.30.129 (202.239.30.129)  244.672 ms  243.794 ms  243.673 ms
+tabelog.com,16,"16  xe-0-0-17-1.a01.tokyjp05.jp.ce.gin.ntt.net (61.213.161.6)  227.420 ms  225.667 ms  226.669 ms
+"
+tabelog.com,17,"17  158.205.92.242 (158.205.92.242)  225.119 ms  225.830 ms  230.126 ms
+"
+tabelog.com,18,"18  158.205.90.174 (158.205.90.174)  225.954 ms  225.061 ms  229.847 ms
+"
+tabelog.com,19,"19  202.239.30.129 (202.239.30.129)  224.631 ms  232.198 ms  227.185 ms
 "

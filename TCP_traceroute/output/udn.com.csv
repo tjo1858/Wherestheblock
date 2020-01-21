@@ -1,19 +1,17 @@
 URL,TTL,Response_Message
-udn.com,0,"traceroute to udn.com (104.83.136.44), 30 hops max, 60 byte packets
+udn.com,0,"traceroute to udn.com (104.83.104.82), 50 hops max, 60 byte packets
 "
-udn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.290 ms  0.291 ms
+udn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.898 ms  0.882 ms  0.918 ms
 "
-udn.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.573 ms  0.565 ms  0.557 ms
+udn.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.576 ms  0.581 ms  0.592 ms
 "
-udn.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.609 ms  26.183 ms  26.160 ms
+udn.com,3," 3  ae4-100-xcr1.kiv.cw.net (194.221.103.1)  0.688 ms  0.728 ms  0.767 ms
 "
-udn.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  39.585 ms  39.466 ms  39.518 ms
+udn.com,4," 4  ae15-xcr1.fix.cw.net (195.2.30.145)  27.897 ms  26.757 ms xe-5-1-0-xcr2.fra.cw.net (195.2.30.217)  26.576 ms
 "
-udn.com,5," 5  ffm-bb2-link.telia.net (62.115.121.8)  35.243 ms  35.203 ms ffm-bb3-link.telia.net (62.115.141.240)  37.735 ms
+udn.com,5," 5  ae18-xcr1.mlu.cw.net (195.2.25.141)  37.818 ms ae5-xcr1.mlu.cw.net (195.2.10.246)  37.707 ms  37.747 ms
 "
-udn.com,6," 6  mno-b3-link.telia.net (62.115.116.173)  37.665 ms mno-b3-link.telia.net (62.115.116.171)  40.206 ms  40.220 ms
+udn.com,6," 6  as20940-gw-mlu.cw.net (195.2.19.18)  35.156 ms  35.111 ms  35.087 ms
 "
-udn.com,7," 7  * * *
-"
-udn.com,8," 8  a104-83-136-44.deploy.static.akamaitechnologies.com (104.83.136.44)  37.662 ms  40.063 ms  37.511 ms
+udn.com,7," 7  a104-83-104-82.deploy.static.akamaitechnologies.com (104.83.104.82)  34.676 ms  34.631 ms  34.588 ms
 "

@@ -1,19 +1,31 @@
 URL,TTL,Response_Message
-likes.com,0,"traceroute to likes.com (184.168.131.241), 30 hops max, 60 byte packets
+likes.com,0,"traceroute to likes.com (184.168.131.241), 50 hops max, 60 byte packets
 "
-likes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.168 ms  1.180 ms  1.172 ms
+likes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.299 ms  0.321 ms
 "
-likes.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.694 ms  0.686 ms  0.704 ms
+likes.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.706 ms  0.701 ms  0.686 ms
 "
-likes.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.714 ms  29.711 ms  29.695 ms
+likes.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.585 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.876 ms  30.872 ms
 "
 likes.com,4," 4  * * *
 "
 likes.com,5," 5  * * *
 "
-likes.com,6," 6  4.28.83.74 (4.28.83.74)  167.295 ms  165.983 ms  167.099 ms
+likes.com,6," 6  4.28.83.74 (4.28.83.74)  166.108 ms  167.167 ms  166.318 ms
 "
-likes.com,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  192.002 ms  176.824 ms  235.643 ms
+likes.com,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  166.722 ms  165.449 ms  165.419 ms
 "
-likes.com,8," 8  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.880 ms * *
+likes.com,8," 8  * * *
+"
+likes.com,9," 9  148.72.32.5 (148.72.32.5)  166.754 ms  169.258 ms 148.72.32.9 (148.72.32.9)  166.239 ms
+"
+likes.com,10,"10  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  166.020 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  167.401 ms  165.924 ms
+"
+likes.com,11,"11  ip-184-168-1-134.ip.secureserver.net (184.168.1.134)  175.196 ms  167.485 ms  167.683 ms
+"
+likes.com,12,"12  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.654 ms  166.454 ms  167.828 ms
+"
+likes.com,13,"13  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  167.411 ms  166.197 ms  167.478 ms
+"
+likes.com,14,"14  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  167.177 ms  165.826 ms  167.549 ms
 "

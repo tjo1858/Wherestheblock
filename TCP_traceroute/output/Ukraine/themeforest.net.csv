@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-themeforest.net,0,"traceroute to themeforest.net (104.18.30.233), 30 hops max, 60 byte packets
+themeforest.net,0,"traceroute to themeforest.net (104.18.30.233), 50 hops max, 60 byte packets
 "
-themeforest.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.339 ms  0.380 ms  0.409 ms
+themeforest.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.275 ms  0.269 ms  0.346 ms
 "
-themeforest.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.108 ms  1.355 ms  1.228 ms
+themeforest.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.826 ms  0.879 ms  0.954 ms
 "
-themeforest.net,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.893 ms  0.833 ms  0.982 ms
+themeforest.net,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.857 ms  0.938 ms  1.041 ms
 "
-themeforest.net,4," 4  149.6.191.138 (149.6.191.138)  9.040 ms  9.041 ms  9.046 ms
+themeforest.net,4," 4  149.6.191.138 (149.6.191.138)  2.693 ms  2.725 ms  2.718 ms
 "
-themeforest.net,5," 5  104.18.30.233 (104.18.30.233)  0.652 ms  0.597 ms  0.601 ms
+themeforest.net,5," 5  104.18.30.233 (104.18.30.233)  1.263 ms  1.263 ms  1.257 ms
 "

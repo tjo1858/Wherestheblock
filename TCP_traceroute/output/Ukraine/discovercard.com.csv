@@ -1,17 +1,17 @@
 URL,TTL,Response_Message
-discovercard.com,0,"traceroute to discovercard.com (104.83.117.18), 30 hops max, 60 byte packets
+discovercard.com,0,"traceroute to discovercard.com (104.83.117.18), 50 hops max, 60 byte packets
 "
-discovercard.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.295 ms  0.334 ms
+discovercard.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.585 ms  0.574 ms  0.569 ms
 "
-discovercard.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.512 ms  0.553 ms  0.592 ms
+discovercard.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.593 ms  0.552 ms  0.576 ms
 "
-discovercard.com,3," 3  ae4-100-xcr1.kiv.cw.net (194.221.103.1)  0.772 ms  0.765 ms  0.821 ms
+discovercard.com,3," 3  ae4-100-xcr1.kiv.cw.net (194.221.103.1)  0.838 ms  0.831 ms  0.823 ms
 "
-discovercard.com,4," 4  ae15-xcr1.fix.cw.net (195.2.30.145)  26.574 ms xe-5-1-0-xcr2.fra.cw.net (195.2.30.217)  27.358 ms  27.379 ms
+discovercard.com,4," 4  xe-5-1-0-xcr2.fra.cw.net (195.2.30.217)  26.911 ms  26.953 ms  27.029 ms
 "
-discovercard.com,5," 5  ae5-xcr1.mlu.cw.net (195.2.10.246)  34.398 ms ae18-xcr1.mlu.cw.net (195.2.25.141)  34.674 ms ae5-xcr1.mlu.cw.net (195.2.10.246)  35.316 ms
+discovercard.com,5," 5  ae18-xcr1.mlu.cw.net (195.2.25.141)  34.678 ms  34.677 ms  34.722 ms
 "
-discovercard.com,6," 6  as20940-gw-mlu.cw.net (195.2.19.18)  35.174 ms  35.181 ms  35.205 ms
+discovercard.com,6," 6  as20940-gw-mlu.cw.net (195.2.19.18)  35.113 ms  35.131 ms  35.114 ms
 "
-discovercard.com,7," 7  a104-83-117-18.deploy.static.akamaitechnologies.com (104.83.117.18)  34.590 ms  34.678 ms  34.542 ms
+discovercard.com,7," 7  a104-83-117-18.deploy.static.akamaitechnologies.com (104.83.117.18)  34.674 ms  34.655 ms  34.619 ms
 "

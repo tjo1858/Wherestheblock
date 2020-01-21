@@ -1,33 +1,33 @@
 URL,TTL,Response_Message
-blpmovies.com,0,"traceroute to blpmovies.com (54.174.122.172), 30 hops max, 60 byte packets
+blpmovies.com,0,"traceroute to blpmovies.com (54.174.122.172), 50 hops max, 60 byte packets
 "
-blpmovies.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.765 ms  1.856 ms  1.879 ms
+blpmovies.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.585 ms  5.574 ms  5.568 ms
 "
-blpmovies.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.409 ms  1.676 ms  1.714 ms
+blpmovies.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.799 ms  0.950 ms  0.863 ms
 "
-blpmovies.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.147 ms  16.988 ms  17.130 ms
+blpmovies.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.131 ms  17.215 ms  17.249 ms
 "
-blpmovies.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.389 ms  22.476 ms  22.366 ms
+blpmovies.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.406 ms  22.506 ms  22.583 ms
 "
-blpmovies.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.848 ms  30.600 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.373 ms
+blpmovies.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.533 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.583 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.568 ms
 "
-blpmovies.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.544 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.698 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.588 ms
+blpmovies.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.443 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.243 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.531 ms
 "
-blpmovies.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.438 ms  116.560 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.198 ms
+blpmovies.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.037 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  117.121 ms be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.327 ms
 "
-blpmovies.com,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.418 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.001 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.555 ms
+blpmovies.com,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.401 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  119.915 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  115.334 ms
 "
-blpmovies.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.915 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.101 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  117.374 ms
+blpmovies.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  117.263 ms  118.215 ms  117.690 ms
 "
-blpmovies.com,10,"10  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.203 ms 38.140.106.162 (38.140.106.162)  132.522 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  114.918 ms
+blpmovies.com,10,"10  38.140.107.42 (38.140.107.42)  121.769 ms  121.797 ms  121.785 ms
 "
-blpmovies.com,11,"11  52.93.31.49 (52.93.31.49)  114.166 ms 38.140.106.162 (38.140.106.162)  117.986 ms 38.140.107.42 (38.140.107.42)  114.874 ms
+blpmovies.com,11,"11  38.140.107.42 (38.140.107.42)  121.733 ms 52.93.31.59 (52.93.31.59)  113.105 ms 52.93.31.43 (52.93.31.43)  113.068 ms
 "
-blpmovies.com,12,"12  52.93.4.36 (52.93.4.36)  114.665 ms 52.93.4.12 (52.93.4.12)  112.240 ms 52.93.31.53 (52.93.31.53)  115.178 ms
+blpmovies.com,12,"12  52.93.4.24 (52.93.4.24)  116.213 ms 52.93.4.14 (52.93.4.14)  113.236 ms 52.93.4.12 (52.93.4.12)  113.228 ms
 "
-blpmovies.com,13,"13  52.93.4.56 (52.93.4.56)  110.857 ms * *
+blpmovies.com,13,"13  * 52.93.4.0 (52.93.4.0)  111.387 ms *
 "
-blpmovies.com,14,"14  * 54.240.229.139 (54.240.229.139)  116.430 ms *
+blpmovies.com,14,"14  54.240.229.139 (54.240.229.139)  117.564 ms * 54.240.229.149 (54.240.229.149)  116.117 ms
 "
 blpmovies.com,15,"15  * * *
 "
@@ -49,9 +49,9 @@ blpmovies.com,23,"23  * * *
 "
 blpmovies.com,24,"24  * * *
 "
-blpmovies.com,25,"25  52.93.28.232 (52.93.28.232)  129.642 ms 52.93.28.230 (52.93.28.230)  116.287 ms 52.93.28.202 (52.93.28.202)  117.309 ms
+blpmovies.com,25,"25  * 52.93.28.232 (52.93.28.232)  118.904 ms 52.93.28.234 (52.93.28.234)  118.435 ms
 "
-blpmovies.com,26,"26  * * 52.93.28.238 (52.93.28.238)  116.099 ms
+blpmovies.com,26,"26  52.93.28.232 (52.93.28.232)  116.012 ms * *
 "
 blpmovies.com,27,"27  * * *
 "
@@ -60,4 +60,6 @@ blpmovies.com,28,"28  * * *
 blpmovies.com,29,"29  * * *
 "
 blpmovies.com,30,"30  * * *
+"
+blpmovies.com,31,"31  * ec2-54-174-122-172.compute-1.amazonaws.com (54.174.122.172)  116.347 ms  117.071 ms
 "

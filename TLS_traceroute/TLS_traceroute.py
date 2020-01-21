@@ -50,7 +50,13 @@ with open('BlockUrls.csv', mode='r') as csv_file:
 	    except socket.gaierror:
 	        print "url is not correct"
 		break
-            c.connect(url)
+
+            try:
+                c.connect(url)
+            except socket.error, msg:
+                print "Couldnt connect with the socket-server: %s\n moving on" % msg
+                break
+
             c.setsockopt(socket.SOL_IP, socket.IP_TTL, x)
 
 #           create TLS Handhsake / Client Hello packet

@@ -1,15 +1,17 @@
 URL,TTL,Response_Message
-nordstrom.com,0,"traceroute to nordstrom.com (23.59.85.90), 30 hops max, 60 byte packets
+nordstrom.com,0,"traceroute to nordstrom.com (2.21.40.60), 50 hops max, 60 byte packets
 "
-nordstrom.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.333 ms  0.319 ms  0.328 ms
+nordstrom.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.911 ms  1.897 ms  1.908 ms
 "
-nordstrom.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.557 ms  0.577 ms  0.570 ms
+nordstrom.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.551 ms  0.947 ms  0.552 ms
 "
-nordstrom.com,3," 3  100.64.65.25 (100.64.65.25)  14.658 ms  8.208 ms  7.745 ms
+nordstrom.com,3," 3  100.64.65.25 (100.64.65.25)  8.255 ms  8.250 ms  7.768 ms
 "
-nordstrom.com,4," 4  100.64.64.125 (100.64.64.125)  14.292 ms  14.332 ms  14.145 ms
+nordstrom.com,4," 4  100.64.64.125 (100.64.64.125)  14.337 ms  14.818 ms  14.480 ms
 "
-nordstrom.com,5," 5  akamai.plix.pl (195.182.218.115)  14.359 ms  13.914 ms  14.644 ms
+nordstrom.com,5," 5  100.64.65.237 (100.64.65.237)  32.330 ms  32.339 ms  32.632 ms
 "
-nordstrom.com,6," 6  a23-59-85-90.deploy.static.akamaitechnologies.com (23.59.85.90)  13.905 ms  13.815 ms  14.042 ms
+nordstrom.com,6," 6  * * *
+"
+nordstrom.com,7," 7  a2-21-40-60.deploy.static.akamaitechnologies.com (2.21.40.60)  32.238 ms  32.912 ms  32.687 ms
 "

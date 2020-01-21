@@ -1,23 +1,23 @@
 URL,TTL,Response_Message
-answers.com,0,"traceroute to answers.com (151.101.192.203), 30 hops max, 60 byte packets
+answers.com,0,"traceroute to answers.com (151.101.0.203), 50 hops max, 60 byte packets
 "
-answers.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.594 ms  0.616 ms  0.658 ms
+answers.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.285 ms  0.272 ms  0.302 ms
 "
-answers.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.801 ms  0.856 ms  0.784 ms
+answers.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.590 ms  0.574 ms  0.569 ms
 "
-answers.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.502 ms  16.476 ms  16.544 ms
+answers.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.068 ms  16.141 ms  16.083 ms
 "
-answers.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.485 ms  16.480 ms  16.470 ms
+answers.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.126 ms  16.161 ms  16.105 ms
 "
-answers.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  43.109 ms  43.105 ms  43.125 ms
+answers.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.902 ms  42.853 ms  42.882 ms
 "
-answers.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.137 ms  43.915 ms  43.840 ms
+answers.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  45.793 ms  44.034 ms  45.476 ms
 "
-answers.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.126 ms  41.228 ms  41.411 ms
+answers.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.176 ms  41.063 ms  41.095 ms
 "
-answers.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.062 ms  44.245 ms  44.228 ms
+answers.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.133 ms  44.122 ms  44.103 ms
 "
-answers.com,9," 9  fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  42.491 ms fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  42.773 ms  42.818 ms
+answers.com,9," 9  fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  46.328 ms  46.348 ms  46.331 ms
 "
-answers.com,10,"10  151.101.192.203 (151.101.192.203)  46.322 ms  43.441 ms  46.878 ms
+answers.com,10,"10  151.101.0.203 (151.101.0.203)  42.971 ms  42.727 ms  42.809 ms
 "

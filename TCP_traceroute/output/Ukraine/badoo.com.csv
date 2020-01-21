@@ -1,15 +1,19 @@
 URL,TTL,Response_Message
-badoo.com,0,"traceroute to badoo.com (159.253.176.75), 30 hops max, 60 byte packets
+badoo.com,0,"traceroute to badoo.com (31.222.77.244), 50 hops max, 60 byte packets
 "
-badoo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.538 ms  0.530 ms  0.539 ms
+badoo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.297 ms  0.284 ms
 "
-badoo.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.514 ms  0.511 ms  0.503 ms
+badoo.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.603 ms  0.600 ms  0.589 ms
 "
-badoo.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.101 ms  28.600 ms  28.792 ms
+badoo.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.197 ms  26.201 ms  28.588 ms
 "
-badoo.com,4," 4  de-cix.badoo.com (80.81.194.162)  37.145 ms  37.138 ms  35.058 ms
+badoo.com,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  33.299 ms  33.289 ms  31.363 ms
 "
-badoo.com,5," 5  eu1.mates.ru (159.253.176.75)  35.342 ms  35.475 ms  38.002 ms
+badoo.com,5," 5  et-0-0-31.cr6-mia1.ip4.gtt.net (89.149.131.234)  145.465 ms  147.846 ms  145.431 ms
 "
-badoo.com,6," 6  eu1.mates.ru (159.253.176.75)  34.898 ms  35.428 ms  37.931 ms
+badoo.com,6," 6  ip4.gtt.net (173.205.45.230)  146.015 ms  148.548 ms  148.494 ms
+"
+badoo.com,7," 7  us1.mates.ru (31.222.77.244)  146.237 ms  143.716 ms  143.706 ms
+"
+badoo.com,8," 8  us1.mates.ru (31.222.77.244)  146.248 ms  146.068 ms  144.694 ms
 "

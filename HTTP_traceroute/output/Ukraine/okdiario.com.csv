@@ -1,0 +1,2679 @@
+URL,TTL,Message
+okdiario.com,1,timed out
+okdiario.com,2,timed out
+okdiario.com,3,timed out
+okdiario.com,4,timed out
+okdiario.com,5,timed out
+okdiario.com,6,timed out
+okdiario.com,7,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:44 GMT
+Age: 0
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:"
+okdiario.com,8,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:44 GMT
+Age: 0
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:"
+okdiario.com,9,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:44 GMT
+Age: 0
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,10,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 0
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,11,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 0
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,12,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,13,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,14,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,15,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,16,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,17,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,18,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:45 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">"
+okdiario.com,19,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 1
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,20,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,21,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,22,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,23,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,24,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,25,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">"
+okdiario.com,26,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:46 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,27,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,28,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 2
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,29,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,30,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,31,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,32,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,33,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">"
+okdiario.com,34,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,35,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:47 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,36,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,37,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 3
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,38,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,39,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,40,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,41,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,42,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,43,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:48 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,44,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:49 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,45,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:49 GMT
+Age: 4
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,46,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:49 GMT
+Age: 5
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,47,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:49 GMT
+Age: 5
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,48,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:49 GMT
+Age: 5
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"
+okdiario.com,49,"HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=30, s-maxage=30, public, must-revalidate, proxy-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 21 Jan 2020 19:05:49 GMT
+Age: 5
+Access-Control-Allow-Origin: *
+
+008000
+<!DOCTYPE html>
+<html lang=""es"" class=""no-js"">
+<head>
+<meta charset=""UTF-8"">
+<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, minimum-scale=1.0"">
+<title>okdiario.com - El sitio de los inconformistas</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name=""description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda.""/>
+<meta name=""robots"" content=""max-snippet:-1, max-image-preview:large, max-video-preview:-1""/>
+<link rel=""canonical"" href=""https://okdiario.com"" />
+<link rel=""next"" href=""https://okdiario.com/page/2"" />
+<meta property=""og:locale"" content=""es_ES"" />
+<meta property=""og:type"" content=""website"" />
+<meta property=""og:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta property=""og:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta property=""og:url"" content=""https://okdiario.com"" />
+<meta property=""og:site_name"" content=""okdiario.com"" />
+<meta name=""twitter:card"" content=""summary_large_image"" />
+<meta name=""twitter:description"" content=""Las noticias que nadie se atreve a contar, en el diario digital más atrevido de España. Dirigido por Eduardo Inda."" />
+<meta name=""twitter:title"" content=""okdiario.com - El sitio de los inconformistas"" />
+<meta name=""twitter:site"" content=""@okdiario"" />
+<meta name=""msvalidate.01"" content=""9060941D7D7EF131828B7E43E1D51066"" />
+<meta name=""google-site-verification"" content=""Bsm1OIjp2UNNIjGdrqIuTdjeLT-rT8a6jhbPFkSK9W4"" />
+<meta name=""yandex-verification"" content=""3bac05d90da4e2d7"" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ojaloberoi.in' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ojaloberoi.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property=""fb:pages"" content=""376573025871689"" />
+<link rel=""profile"" href=""http://gmpg.org/xfn/11"">
+<link rel=""apple-touch-icon"" sizes=""57x57"" href=""/img/i/apple-icon-57x57.png"">
+<link rel=""apple-touch-icon"" sizes=""60x60"" href=""/img/i/apple-icon-60x60.png"">
+<link rel=""apple-touch-icon"" sizes=""72x72"" href=""/img/i/apple-icon-72x72.png"">
+<link rel=""apple-touch-icon"" sizes=""76x76"" href=""/img/i/apple-icon-76x76.png"">
+<link rel=""apple-touch-icon"" sizes=""114x114"" href=""/img/i/apple-icon-114x114.png"">
+<link rel=""apple-touch-icon"" sizes=""120x120"" href=""/img/i/apple-icon-120x120.png"">
+<link rel=""apple-touch-icon"" sizes=""144x144"" href=""/img/i/apple-icon-144x144.png"">
+<link rel=""apple-touch-icon"" sizes=""152x152"" href=""/img/i/apple-icon-152x152.png"">
+<link rel=""apple-touch-icon"" sizes=""180x180"" href=""/img/i/apple-icon-180x180.png"">
+<link rel=""icon"" type=""image/png"" sizes=""192x192""  href=""/img/i/android-icon-192x192.png"">
+<link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/img/i/favicon-32x32.png"">
+<link rel=""icon"" type=""image/png"" sizes=""96x96"" href=""/img/i/favicon-96x96.png"">
+<link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/img/i/favicon-16x16.png"">
+<link rel=""manifest"" href=""/manifest.json"">
+<meta name=""msapplication-TileColor"" content=""#ffffff"">
+<meta name=""msapplication-TileImage"" content=""/img/i/ms-icon-144x144.png"">
+<meta name=""theme-color"" content=""#ffffff"">
+
+<meta http-equiv=""Refresh"" content=""1200""/>
+
+
+
+    <script src=""https://contributor.google.com/scripts/6baf8400b4b60141/loader.js""></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if(""object""==b)if(a){if(a in"

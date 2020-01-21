@@ -1,0 +1,320 @@
+URL,TTL,Message
+nba.com,1,timed out
+nba.com,2,timed out
+nba.com,3,timed out
+nba.com,4,timed out
+nba.com,5,timed out
+nba.com,6,timed out
+nba.com,7,timed out
+nba.com,8,timed out
+nba.com,9,timed out
+nba.com,10,timed out
+nba.com,11,timed out
+nba.com,12,timed out
+nba.com,13,timed out
+nba.com,14,timed out
+nba.com,15,timed out
+nba.com,16,timed out
+nba.com,17,timed out
+nba.com,18,timed out
+nba.com,19,timed out
+nba.com,20,timed out
+nba.com,21,timed out
+nba.com,22,timed out
+nba.com,23,timed out
+nba.com,24,timed out
+nba.com,25,timed out
+nba.com,26,timed out
+nba.com,27,timed out
+nba.com,28,timed out
+nba.com,29,timed out
+nba.com,30,timed out
+nba.com,31,timed out
+nba.com,32,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:35 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,33,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:36 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,34,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:36 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,35,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:36 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,36,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:36 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,37,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:37 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,38,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:37 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,39,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:37 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,40,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:37 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,41,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,42,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,43,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,44,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,45,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,46,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,47,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,48,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+nba.com,49,"HTTP/1.1 301 Moved Permanently
+Date: Tue, 21 Jan 2020 18:39:40 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: http://www.nba.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"

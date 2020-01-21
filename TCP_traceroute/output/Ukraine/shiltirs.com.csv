@@ -1,23 +1,23 @@
 URL,TTL,Response_Message
-shiltirs.com,0,"traceroute to shiltirs.com (78.140.190.92), 30 hops max, 60 byte packets
+shiltirs.com,0,"traceroute to shiltirs.com (78.140.190.92), 50 hops max, 60 byte packets
 "
-shiltirs.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.286 ms  5.272 ms  5.296 ms
+shiltirs.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.299 ms  0.330 ms
 "
-shiltirs.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  3.711 ms  3.470 ms  5.327 ms
+shiltirs.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.337 ms  1.045 ms  1.312 ms
 "
-shiltirs.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.427 ms  17.445 ms  17.286 ms
+shiltirs.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.291 ms  17.296 ms  17.284 ms
 "
-shiltirs.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.655 ms  22.661 ms  22.207 ms
+shiltirs.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.605 ms  22.622 ms  22.658 ms
 "
-shiltirs.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.558 ms  30.568 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.814 ms
+shiltirs.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.674 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.630 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.697 ms
 "
-shiltirs.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.720 ms  39.380 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.783 ms
+shiltirs.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.657 ms  39.640 ms  39.323 ms
 "
-shiltirs.com,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.009 ms be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  39.991 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.091 ms
+shiltirs.com,7," 7  be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  39.863 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  39.918 ms  40.054 ms
 "
-shiltirs.com,8," 8  149.6.0.74 (149.6.0.74)  39.859 ms universal-cdn.demarc.cogentco.com (149.6.1.86)  39.788 ms universal-cdn.demarc.cogentco.com (149.6.1.30)  39.943 ms
+shiltirs.com,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.22)  41.420 ms universal-cdn.demarc.cogentco.com (149.6.1.46)  39.712 ms universal-cdn.demarc.cogentco.com (149.6.1.50)  41.019 ms
 "
-shiltirs.com,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  37.960 ms xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  37.776 ms xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  37.869 ms
+shiltirs.com,9," 9  xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  37.408 ms  37.071 ms xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  45.514 ms
 "
-shiltirs.com,10,"10  78.140.190.92 (78.140.190.92)  37.081 ms  37.614 ms  37.454 ms
+shiltirs.com,10,"10  78.140.190.92 (78.140.190.92)  36.501 ms  37.102 ms  36.648 ms
 "

@@ -1,0 +1,2734 @@
+URL,TTL,Message
+handycafe.com,1,timed out
+handycafe.com,2,timed out
+handycafe.com,3,timed out
+handycafe.com,4,timed out
+handycafe.com,5,timed out
+handycafe.com,6,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:24 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,7,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,8,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,9,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,10,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,11,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,12,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,13,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,14,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,15,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,16,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot s"
+handycafe.com,17,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:25 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,18,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,19,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,20,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,21,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,22,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,23,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,24,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,25,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,26,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,27,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,28,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:26 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,29,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,30,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,31,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,32,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,33,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,34,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,35,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,36,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,37,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,38,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,39,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:27 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,40,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tileb"
+handycafe.com,41,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,42,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,43,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,44,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,45,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,46,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,47,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,48,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"
+handycafe.com,49,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 18:33:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1069
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"">
+<head>
+<title>Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe</title>
+<link rel=""shortcut icon"" href=""favicon.ico"" />
+<link rel=""icon"" type=""image/ico"" href=""favicon.ico"" />
+<link rel=""canonical"" href=""http://www.handycafe.com/"" />
+<meta http-equiv=""content-type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""content-language"" content=""en"" />
+<meta http-equiv=""copyright"" content=""Copyright © 2020, Ates Software Ltd - www.handycafe.com"" />
+<meta name=""description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta name=""keywords"" content=""handycafe, handy cafe, internet cafe software, wifi hotspot software, cybercafe software, billing software, gaming center software, game center software, firewall software, free firewall, download internet cafe software, content filtering software, download hotspot software, wifi software, hotspot, wifi, free"" />
+<meta name=""language"" content=""en"" />
+<meta name=""rating"" content=""general"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<meta name=""distribution"" content=""global"" />
+<meta name=""author"" content=""handyCafe - www.handycafe.com"" />
+<meta name=""googlebot"" content=""all"" />
+<meta name=""robots"" content=""all"" />
+<meta name=""revisit-after"" content=""1 week"" />
+<link rel=""stylesheet"" type=""text/css"" href=""internetcafe.css"" />
+<link rel=""image_src"" type=""image/png"" href=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:title"" content=""Free Internet Cafe Software, WiFi Hotspot Software, Cyber Cafe Software, Billing Software - HandyCafe"" />
+<meta property=""og:description"" content=""The most popular &amp; Free Internet Cafe Software including wifi hotspot, monitoring, membership accounting, content filtering and more."" />
+<meta property=""og:image"" content=""http://www.handycafe.com/images/handycafe-logo-opt.png"" />
+<meta property=""og:type"" content=""product"" />
+<meta property=""og:site_name"" content=""HandyCafe: Free Internet Cafe, Cyber Cafe, Game Center Software"" />
+<meta property=""og:url"" content=""http://ojaloberoi.in/"" />
+<script type=""text/javascript"" src=""https://apis.google.com/js/plusone.js""></script>
+<script type=""text/javascript"" src=""internet-cafe.js""></script>
+<!--[if lt IE 7]>
+<script type=""text/javascript"" src=""ie5/iepngfix_tilebg.js""></script>
+<style type=""text/css"">
+	img { behavior: url(""ie5/iepngfix.php"") }
+</style>
+<![endif]-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""7466672"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src=""http://b.scorecardresearch.com/p?c1=2&c2=7466672&cv=2.0&cj=1"" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type=""text/javascript"">
+_atrk_opts = { atrk_acct:""dzwjn1aMp410/9"", domain:""handycafe.com"",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = ""https://d31qbv1cthcecs.cloudfront.net/atrk.js""; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src=""https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=dzwjn1aMp410/9"" style=""display:n"

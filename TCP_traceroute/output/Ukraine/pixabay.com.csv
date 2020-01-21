@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-pixabay.com,0,"traceroute to pixabay.com (104.18.82.97), 30 hops max, 60 byte packets
+pixabay.com,0,"traceroute to pixabay.com (104.18.141.87), 50 hops max, 60 byte packets
 "
-pixabay.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.290 ms  0.307 ms  0.353 ms
+pixabay.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.343 ms  0.328 ms  0.314 ms
 "
-pixabay.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.038 ms  1.915 ms  2.064 ms
+pixabay.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.954 ms  0.984 ms  1.050 ms
 "
-pixabay.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.888 ms  1.994 ms  2.035 ms
+pixabay.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.863 ms  0.911 ms  0.903 ms
 "
-pixabay.com,4," 4  149.6.191.138 (149.6.191.138)  5.078 ms  11.011 ms  5.011 ms
+pixabay.com,4," 4  149.6.191.138 (149.6.191.138)  2.291 ms  2.275 ms  7.177 ms
 "
-pixabay.com,5," 5  104.18.82.97 (104.18.82.97)  1.568 ms  1.637 ms  1.677 ms
+pixabay.com,5," 5  104.18.141.87 (104.18.141.87)  1.727 ms  1.830 ms  1.804 ms
 "

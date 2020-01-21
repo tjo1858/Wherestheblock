@@ -1,11 +1,11 @@
 URL,TTL,Response_Message
-chip.de,0,"traceroute to chip.de (87.245.212.33), 30 hops max, 60 byte packets
+chip.de,0,"traceroute to chip.de (87.245.212.40), 50 hops max, 60 byte packets
 "
-chip.de,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.669 ms  0.656 ms  0.685 ms
+chip.de,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.481 ms  0.464 ms  0.456 ms
 "
-chip.de,2," 2  * * ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.620 ms
+chip.de,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.635 ms  0.619 ms  0.611 ms
 "
-chip.de,3," 3  ae2-7.RT.LDC.WAW.PL.retn.net (87.245.232.202)  14.329 ms  14.331 ms  14.323 ms
+chip.de,3," 3  ae2-7.RT.LDC.WAW.PL.retn.net (87.245.232.202)  15.375 ms  14.127 ms  14.129 ms
 "
-chip.de,4," 4  87.245.212.33 (87.245.212.33)  14.070 ms  14.067 ms  14.055 ms
+chip.de,4," 4  87.245.212.40 (87.245.212.40)  14.013 ms  14.047 ms  14.046 ms
 "

@@ -1,39 +1,33 @@
 URL,TTL,Response_Message
-olx.pl,0,"traceroute to olx.pl (13.225.78.108), 30 hops max, 60 byte packets
+olx.pl,0,"traceroute to olx.pl (13.224.96.43), 50 hops max, 60 byte packets
 "
-olx.pl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.303 ms  0.357 ms
+olx.pl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.398 ms  0.378 ms  0.373 ms
 "
-olx.pl,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.897 ms  1.062 ms  1.058 ms
+olx.pl,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.822 ms  0.552 ms  0.807 ms
 "
-olx.pl,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.356 ms  17.401 ms  17.463 ms
+olx.pl,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.722 ms  28.697 ms  28.706 ms
 "
-olx.pl,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.326 ms  18.117 ms  18.265 ms
+olx.pl,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.256 ms  28.751 ms  26.250 ms
 "
-olx.pl,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.320 ms  24.330 ms  24.368 ms
+olx.pl,5," 5  ffm-bb2-link.telia.net (62.115.116.165)  36.959 ms ffm-bb2-link.telia.net (62.115.121.6)  34.259 ms ffm-bb2-link.telia.net (62.115.137.168)  34.252 ms
 "
-olx.pl,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.118 ms  30.425 ms  33.200 ms
+olx.pl,6," 6  zch-b2-link.telia.net (62.115.142.111)  34.021 ms  36.094 ms zch-b2-link.telia.net (62.115.142.105)  38.581 ms
 "
-olx.pl,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.742 ms  29.852 ms  29.821 ms
+olx.pl,7," 7  amazon-ic-335104-zch-b2.c.telia.net (62.115.162.59)  34.940 ms amazon-ic-335105-zch-b2.c.telia.net (80.239.160.223)  33.392 ms  33.297 ms
 "
-olx.pl,8," 8  52.93.111.14 (52.93.111.14)  29.154 ms 52.93.111.8 (52.93.111.8)  29.747 ms  30.344 ms
+olx.pl,8," 8  52.93.42.74 (52.93.42.74)  51.044 ms 52.93.42.56 (52.93.42.56)  34.938 ms 52.93.42.106 (52.93.42.106)  34.981 ms
 "
-olx.pl,9," 9  54.239.107.65 (54.239.107.65)  31.031 ms 54.239.107.23 (54.239.107.23)  29.365 ms 54.239.107.133 (54.239.107.133)  31.749 ms
+olx.pl,9," 9  52.93.242.63 (52.93.242.63)  34.582 ms 52.93.242.1 (52.93.242.1)  34.409 ms 52.93.242.39 (52.93.242.39)  34.411 ms
 "
-olx.pl,10,"10  54.239.4.250 (54.239.4.250)  28.541 ms 54.239.4.219 (54.239.4.219)  36.217 ms 54.239.4.250 (54.239.4.250)  28.575 ms
+olx.pl,10,"10  * * *
 "
-olx.pl,11,"11  54.239.106.150 (54.239.106.150)  31.634 ms 54.239.106.88 (54.239.106.88)  28.974 ms 54.239.106.44 (54.239.106.44)  34.619 ms
+olx.pl,11,"11  * * *
 "
-olx.pl,12,"12  52.93.244.123 (52.93.244.123)  30.841 ms 52.93.244.125 (52.93.244.125)  28.288 ms  28.268 ms
+olx.pl,12,"12  * * *
 "
 olx.pl,13,"13  * * *
 "
 olx.pl,14,"14  * * *
 "
-olx.pl,15,"15  * * *
-"
-olx.pl,16,"16  * * *
-"
-olx.pl,17,"17  * * *
-"
-olx.pl,18,"18  server-13-225-78-108.fra2.r.cloudfront.net (13.225.78.108)  28.153 ms  28.738 ms  31.289 ms
+olx.pl,15,"15  server-13-224-96-43.zrh50.r.cloudfront.net (13.224.96.43)  33.416 ms  30.902 ms  30.923 ms
 "

@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-infusionsoft.com,0,"traceroute to infusionsoft.com (104.16.159.106), 30 hops max, 60 byte packets
+infusionsoft.com,0,"traceroute to infusionsoft.com (104.16.159.106), 50 hops max, 60 byte packets
 "
-infusionsoft.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.964 ms  1.949 ms  1.943 ms
+infusionsoft.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.862 ms  0.873 ms  0.909 ms
 "
-infusionsoft.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.154 ms  0.943 ms  1.064 ms
+infusionsoft.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.041 ms  0.841 ms  1.126 ms
 "
-infusionsoft.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.055 ms  0.855 ms  0.961 ms
+infusionsoft.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.244 ms  1.167 ms  1.154 ms
 "
-infusionsoft.com,4," 4  149.6.191.138 (149.6.191.138)  6.100 ms  6.099 ms  6.091 ms
+infusionsoft.com,4," 4  149.6.191.138 (149.6.191.138)  4.126 ms  4.132 ms  4.123 ms
 "
-infusionsoft.com,5," 5  104.16.159.106 (104.16.159.106)  0.607 ms  0.571 ms  0.601 ms
+infusionsoft.com,5," 5  104.16.159.106 (104.16.159.106)  0.512 ms  0.580 ms  0.584 ms
 "

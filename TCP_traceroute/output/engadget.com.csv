@@ -1,27 +1,27 @@
 URL,TTL,Response_Message
-engadget.com,0,"traceroute to engadget.com (188.125.72.165), 30 hops max, 60 byte packets
+engadget.com,0,"traceroute to engadget.com (188.125.72.165), 50 hops max, 60 byte packets
 "
-engadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.264 ms  1.250 ms  1.295 ms
+engadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.352 ms  0.377 ms
 "
-engadget.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.969 ms  0.682 ms  0.940 ms
+engadget.com,2," 2  * ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.578 ms *
 "
-engadget.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.318 ms  19.645 ms  19.309 ms
+engadget.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.087 ms  19.448 ms  19.442 ms
 "
-engadget.com,4," 4  193.203.0.242 (193.203.0.242)  49.955 ms 193.203.0.42 (193.203.0.42)  19.881 ms  20.469 ms
+engadget.com,4," 4  193.203.0.42 (193.203.0.42)  19.697 ms  20.122 ms 193.203.0.242 (193.203.0.242)  19.130 ms
 "
-engadget.com,5," 5  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.125)  52.861 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  40.955 ms  40.952 ms
+engadget.com,5," 5  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.125)  20.811 ms  20.246 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  37.485 ms
 "
-engadget.com,6," 6  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  41.258 ms ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  40.445 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  40.658 ms
+engadget.com,6," 6  ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  41.132 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  37.489 ms ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  41.287 ms
 "
-engadget.com,7," 7  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  49.893 ms xe-4-2-0.pat1.tc2.yahoo.com (66.196.65.210)  39.857 ms  39.890 ms
+engadget.com,7," 7  xe-4-2-0.pat1.tc2.yahoo.com (66.196.65.210)  37.668 ms UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  50.980 ms xe-4-2-0.pat1.tc2.yahoo.com (66.196.65.210)  37.988 ms
 "
-engadget.com,8," 8  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  49.373 ms  49.601 ms et-1-1-2.msr1.ir2.yahoo.com (66.196.65.19)  49.398 ms
+engadget.com,8," 8  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  50.925 ms  50.975 ms et-1-1-2.msr1.ir2.yahoo.com (66.196.65.19)  50.785 ms
 "
-engadget.com,9," 9  ge-0-3-9-d104.pat1.the.yahoo.com (66.196.65.21)  49.912 ms lo0.fab4-1-gdc.ir2.yahoo.com (77.238.190.5)  49.292 ms et-1-1-2.msr1.ir2.yahoo.com (66.196.65.19)  49.268 ms
+engadget.com,9," 9  lo0.fab4-1-gdc.ir2.yahoo.com (77.238.190.5)  51.415 ms ge-0-3-9-d104.pat1.the.yahoo.com (66.196.65.21)  51.954 ms  51.952 ms
 "
-engadget.com,10,"10  usw1-1-lbb.ir2.yahoo.com (77.238.190.104)  49.562 ms  49.345 ms  49.302 ms
+engadget.com,10,"10  lo0.fab4-1-gdc.ir2.yahoo.com (77.238.190.5)  51.397 ms usw2-1-lbb.ir2.yahoo.com (77.238.190.105)  49.590 ms usw1-1-lbb.ir2.yahoo.com (77.238.190.104)  49.591 ms
 "
-engadget.com,11,"11  * usw2-1-lbb.ir2.yahoo.com (77.238.190.105)  49.567 ms *
+engadget.com,11,"11  * * *
 "
 engadget.com,12,"12  * * *
 "
@@ -31,5 +31,5 @@ engadget.com,14,"14  * * *
 "
 engadget.com,15,"15  * * *
 "
-engadget.com,16,"16  w2.src4.vip.ir2.yahoo.com (188.125.72.165)  49.935 ms * *
+engadget.com,16,"16  * w2.src4.vip.ir2.yahoo.com (188.125.72.165)  50.028 ms  51.076 ms
 "

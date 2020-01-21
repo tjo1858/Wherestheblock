@@ -1,35 +1,35 @@
 URL,TTL,Response_Message
-mbc.net,0,"traceroute to mbc.net (50.19.210.76), 30 hops max, 60 byte packets
+mbc.net,0,"traceroute to mbc.net (50.19.210.76), 50 hops max, 60 byte packets
 "
-mbc.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.317 ms  0.307 ms  0.348 ms
+mbc.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.434 ms  1.413 ms  1.436 ms
 "
-mbc.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.068 ms  0.906 ms  0.992 ms
+mbc.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.816 ms  1.024 ms  1.175 ms
 "
-mbc.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.143 ms  17.141 ms  17.248 ms
+mbc.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.104 ms  17.107 ms  17.096 ms
 "
-mbc.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.359 ms  22.237 ms  22.346 ms
+mbc.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.253 ms  22.251 ms  22.613 ms
 "
-mbc.net,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.633 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.612 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.716 ms
+mbc.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.324 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.725 ms  30.731 ms
 "
-mbc.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.458 ms  40.045 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.846 ms
+mbc.net,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.318 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.374 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.759 ms
 "
-mbc.net,7," 7  be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.523 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.884 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.784 ms
+mbc.net,7," 7  be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.293 ms be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.555 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  117.876 ms
 "
-mbc.net,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.571 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.866 ms  118.066 ms
+mbc.net,8," 8  be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)  117.900 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.190 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  115.350 ms
 "
-mbc.net,9," 9  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  116.870 ms  115.524 ms  117.577 ms
+mbc.net,9," 9  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  116.227 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.427 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.378 ms
 "
-mbc.net,10,"10  38.140.106.162 (38.140.106.162)  122.436 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.816 ms 38.140.106.162 (38.140.106.162)  122.430 ms
+mbc.net,10,"10  38.140.107.42 (38.140.107.42)  114.985 ms  116.213 ms  117.671 ms
 "
-mbc.net,11,"11  38.140.107.42 (38.140.107.42)  116.917 ms 52.93.31.39 (52.93.31.39)  146.259 ms  146.237 ms
+mbc.net,11,"11  * * 52.93.31.47 (52.93.31.47)  120.183 ms
 "
-mbc.net,12,"12  52.93.31.37 (52.93.31.37)  146.204 ms 52.93.31.53 (52.93.31.53)  146.183 ms 52.93.4.36 (52.93.4.36)  113.447 ms
+mbc.net,12,"12  * 52.93.4.24 (52.93.4.24)  111.149 ms 52.93.4.48 (52.93.4.48)  113.463 ms
 "
 mbc.net,13,"13  * * *
 "
-mbc.net,14,"14  54.240.229.143 (54.240.229.143)  146.135 ms 54.240.229.149 (54.240.229.149)  118.809 ms *
+mbc.net,14,"14  54.240.229.139 (54.240.229.139)  117.587 ms * 54.240.229.149 (54.240.229.149)  119.441 ms
 "
-mbc.net,15,"15  * * *
+mbc.net,15,"15  * 52.93.131.180 (52.93.131.180)  116.243 ms *
 "
 mbc.net,16,"16  * * *
 "
@@ -49,7 +49,7 @@ mbc.net,23,"23  * * *
 "
 mbc.net,24,"24  * * *
 "
-mbc.net,25,"25  * 52.93.28.210 (52.93.28.210)  116.174 ms  117.611 ms
+mbc.net,25,"25  * * 52.93.28.236 (52.93.28.236)  117.027 ms
 "
 mbc.net,26,"26  * * *
 "
@@ -60,4 +60,6 @@ mbc.net,28,"28  * * *
 mbc.net,29,"29  * * *
 "
 mbc.net,30,"30  * * *
+"
+mbc.net,31,"31  ec2-50-19-210-76.compute-1.amazonaws.com (50.19.210.76)  118.706 ms  116.308 ms  118.509 ms
 "

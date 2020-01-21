@@ -24,10 +24,20 @@ engadget.com,22,timed out
 engadget.com,23,timed out
 engadget.com,24,timed out
 engadget.com,25,timed out
-engadget.com,26,"HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2020 03:24:09 GMT
+engadget.com,26,timed out
+engadget.com,27,timed out
+engadget.com,28,timed out
+engadget.com,29,timed out
+engadget.com,30,timed out
+engadget.com,31,timed out
+engadget.com,32,timed out
+engadget.com,33,timed out
+engadget.com,34,timed out
+engadget.com,35,timed out
+engadget.com,36,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:48 GMT
 P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
-Set-Cookie: BX=8kv3uu9f27iup&b=3&s=tl; expires=Mon, 18-Jan-2021 03:24:09 GMT; path=/; domain=.ojaloberoi.in; secure
+Set-Cookie: BX=4sc1rr5f2d1n8&b=3&s=74; expires=Wed, 20-Jan-2021 05:06:48 GMT; path=/; domain=.ojaloberoi.in; secure
 Cache-Control: max-age=3600, private
 Vary: Accept-Encoding
 Content-Length: 5676
@@ -144,10 +154,10 @@ Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-
       document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
       document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
       document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
-engadget.com,27,"HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2020 03:24:10 GMT
+engadget.com,37,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:49 GMT
 P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
-Set-Cookie: BX=es538b5f27iuq&b=3&s=ri; expires=Mon, 18-Jan-2021 03:24:10 GMT; path=/; domain=.ojaloberoi.in; secure
+Set-Cookie: BX=0ooj7r9f2d1n9&b=3&s=bh; expires=Wed, 20-Jan-2021 05:06:49 GMT; path=/; domain=.ojaloberoi.in; secure
 Cache-Control: max-age=3600, private
 Vary: Accept-Encoding
 Content-Length: 5676
@@ -264,10 +274,10 @@ Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-
       document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
       document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
       document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
-engadget.com,28,"HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2020 03:24:10 GMT
+engadget.com,38,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:49 GMT
 P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
-Set-Cookie: BX=ccq3fmtf27iuq&b=3&s=um; expires=Mon, 18-Jan-2021 03:24:10 GMT; path=/; domain=.ojaloberoi.in; secure
+Set-Cookie: BX=chamm99f2d1n9&b=3&s=4b; expires=Wed, 20-Jan-2021 05:06:49 GMT; path=/; domain=.ojaloberoi.in; secure
 Cache-Control: max-age=3600, private
 Vary: Accept-Encoding
 Content-Length: 5676
@@ -384,10 +394,10 @@ Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-
       document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
       document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
       document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
-engadget.com,29,"HTTP/1.1 200 OK
-Date: Sun, 19 Jan 2020 03:24:10 GMT
+engadget.com,39,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:50 GMT
 P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
-Set-Cookie: BX=crlnfu5f27iuq&b=3&s=gq; expires=Mon, 18-Jan-2021 03:24:10 GMT; path=/; domain=.ojaloberoi.in; secure
+Set-Cookie: BX=453a7nhf2d1na&b=3&s=47; expires=Wed, 20-Jan-2021 05:06:50 GMT; path=/; domain=.ojaloberoi.in; secure
 Cache-Control: max-age=3600, private
 Vary: Accept-Encoding
 Content-Length: 5676
@@ -417,4 +427,1290 @@ Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-
           background-size: cover;
           height: 100%;
           text-align: center;
-          font: 300 18px ""helvetica neue"", helvetica, verd"
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,40,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:51 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=asklt01f2d1nb&b=3&s=kg; expires=Wed, 20-Jan-2021 05:06:51 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,41,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:51 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=03tebhpf2d1nb&b=3&s=q6; expires=Wed, 20-Jan-2021 05:06:51 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,42,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:52 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=8t4usv5f2d1nc&b=3&s=38; expires=Wed, 20-Jan-2021 05:06:52 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,43,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:52 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=6j18ialf2d1nc&b=3&s=pc; expires=Wed, 20-Jan-2021 05:06:52 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,44,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:53 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=6o1ssjhf2d1nd&b=3&s=vq; expires=Wed, 20-Jan-2021 05:06:53 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,45,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:54 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=7014rhtf2d1ne&b=3&s=vp; expires=Wed, 20-Jan-2021 05:06:54 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,46,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:54 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=9evtjp5f2d1ne&b=3&s=72; expires=Wed, 20-Jan-2021 05:06:54 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,47,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:55 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=9ft3p8lf2d1nf&b=3&s=f0; expires=Wed, 20-Jan-2021 05:06:55 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,48,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:55 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=a69gc8lf2d1nf&b=3&s=6e; expires=Wed, 20-Jan-2021 05:06:55 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"
+engadget.com,49,"HTTP/1.1 200 OK
+Date: Tue, 21 Jan 2020 05:06:56 GMT
+P3P: policyref=""https://policies.yahoo.com/w3c/p3p.xml"", CP=""CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV""
+Set-Cookie: BX=3evs45tf2d1ng&b=3&s=or; expires=Wed, 20-Jan-2021 05:06:56 GMT; path=/; domain=.ojaloberoi.in; secure
+Cache-Control: max-age=3600, private
+Vary: Accept-Encoding
+Content-Length: 5676
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: keep-alive
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri http://csp.yahoo.com/beacon/csp?src=generic
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+
+      </script>
+  </head>
+  <body>
+  <!-- status code : %<pssc> -->
+  <!-- Could not process this request -->
+  <!-- host machine: %<phn> -->
+  <!-- timestamp: %<cqtq> -->
+  <!-- url: %<cquuc[:5000]>-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function addEvent( obj, type, fn ) {
+      if ( obj.attachEvent ) {
+        obj['e'+type+fn] = fn;
+        obj[type+fn] = function(){obj['e'+type+fn]( window.event );}
+        obj.attachEvent( 'on'+type, obj[type+fn] );
+      } else
+        obj.addEventListener( type, fn, false );
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/nn/img/yahoo-logo-201402200629.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p"

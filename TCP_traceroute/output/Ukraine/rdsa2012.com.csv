@@ -1,31 +1,31 @@
 URL,TTL,Response_Message
-rdsa2012.com,0,"traceroute to rdsa2012.com (173.192.101.27), 30 hops max, 60 byte packets
+rdsa2012.com,0,"traceroute to rdsa2012.com (173.192.101.27), 50 hops max, 60 byte packets
 "
-rdsa2012.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.328 ms  0.363 ms  0.420 ms
+rdsa2012.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.340 ms  0.388 ms
 "
-rdsa2012.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.671 ms  0.720 ms  0.619 ms
+rdsa2012.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.718 ms  0.556 ms  0.739 ms
 "
-rdsa2012.com,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  33.260 ms  30.154 ms  33.252 ms
+rdsa2012.com,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.649 ms ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  38.299 ms  38.174 ms
 "
-rdsa2012.com,4," 4  bbr01.xn01.fra01.networklayer.com (80.81.194.167)  31.438 ms  31.427 ms  30.204 ms
+rdsa2012.com,4," 4  bbr01.xn01.fra01.networklayer.com (80.81.194.167)  30.234 ms  30.282 ms  30.198 ms
 "
-rdsa2012.com,5," 5  * * *
+rdsa2012.com,5," 5  ae5.cbs01.xn01.fra01.networklayer.com (169.45.18.166)  31.522 ms  32.062 ms  31.167 ms
 "
-rdsa2012.com,6," 6  * * *
+rdsa2012.com,6," 6  ae0.cbs01.tg01.lon01.networklayer.com (50.97.19.191)  41.603 ms * *
 "
-rdsa2012.com,7," 7  * * *
+rdsa2012.com,7," 7  ae1.cbs02.tl01.nyc01.networklayer.com (169.45.19.46)  109.333 ms * *
 "
-rdsa2012.com,8," 8  * * *
+rdsa2012.com,8," 8  ae0.cbs01.eq01.chi01.networklayer.com (50.97.17.48)  129.704 ms *  129.611 ms
 "
-rdsa2012.com,9," 9  * ae2.cbs02.dr01.dal04.networklayer.com (169.45.18.4)  152.809 ms  155.804 ms
+rdsa2012.com,9," 9  ae2.cbs02.dr01.dal04.networklayer.com (169.45.18.4)  153.897 ms  151.450 ms *
 "
 rdsa2012.com,10,"10  * * *
 "
-rdsa2012.com,11,"11  ae34.bbr02.eq01.dal03.networklayer.com (50.97.17.59)  153.584 ms  166.961 ms ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  149.891 ms
+rdsa2012.com,11,"11  ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  150.035 ms ae34.bbr02.eq01.dal03.networklayer.com (50.97.17.59)  151.570 ms ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  147.710 ms
 "
-rdsa2012.com,12,"12  ae6.dar01.dal05.networklayer.com (50.97.18.195)  154.199 ms ae6.dar02.dal05.networklayer.com (50.97.18.193)  151.284 ms ae6.dar01.dal05.networklayer.com (50.97.18.195)  153.936 ms
+rdsa2012.com,12,"12  ae6.dar02.dal05.networklayer.com (50.97.18.193)  152.590 ms ae6.dar01.dal05.networklayer.com (50.97.18.195)  152.063 ms  153.745 ms
 "
-rdsa2012.com,13,"13  po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  150.971 ms po2.fcr01.sr01.dal05.networklayer.com (173.192.118.133)  151.558 ms po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  151.229 ms
+rdsa2012.com,13,"13  po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  152.771 ms po2.fcr01.sr01.dal05.networklayer.com (173.192.118.133)  148.799 ms po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  153.051 ms
 "
-rdsa2012.com,14,"14  1b.65.c0ad.ip4.static.sl-reverse.com (173.192.101.27)  149.293 ms  152.667 ms  153.451 ms
+rdsa2012.com,14,"14  1b.65.c0ad.ip4.static.sl-reverse.com (173.192.101.27)  150.965 ms  153.059 ms  150.216 ms
 "

@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-kinogo.co,0,"traceroute to kinogo.co (104.31.82.13), 30 hops max, 60 byte packets
+kinogo.co,0,"traceroute to kinogo.co (104.31.83.13), 50 hops max, 60 byte packets
 "
-kinogo.co,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.299 ms  0.321 ms
+kinogo.co,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.991 ms  0.972 ms  0.998 ms
 "
-kinogo.co,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.149 ms  1.143 ms  1.217 ms
+kinogo.co,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.950 ms  1.036 ms  1.092 ms
 "
-kinogo.co,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.136 ms  0.950 ms  1.189 ms
+kinogo.co,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.135 ms  1.017 ms  1.011 ms
 "
-kinogo.co,4," 4  149.6.191.138 (149.6.191.138)  1.844 ms  1.833 ms  1.821 ms
+kinogo.co,4," 4  149.6.191.138 (149.6.191.138)  4.053 ms  4.060 ms  4.048 ms
 "
-kinogo.co,5," 5  104.31.82.13 (104.31.82.13)  0.609 ms  0.650 ms  0.598 ms
+kinogo.co,5," 5  104.31.83.13 (104.31.83.13)  0.642 ms  0.699 ms  0.642 ms
 "

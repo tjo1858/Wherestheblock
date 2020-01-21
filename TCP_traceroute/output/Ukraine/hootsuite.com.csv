@@ -1,35 +1,35 @@
 URL,TTL,Response_Message
-hootsuite.com,0,"traceroute to hootsuite.com (34.231.155.24), 30 hops max, 60 byte packets
+hootsuite.com,0,"traceroute to hootsuite.com (3.209.200.243), 50 hops max, 60 byte packets
 "
-hootsuite.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.279 ms  0.266 ms  0.315 ms
+hootsuite.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.293 ms  0.286 ms  0.270 ms
 "
-hootsuite.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.988 ms  2.118 ms  2.280 ms
+hootsuite.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.901 ms  0.949 ms  1.004 ms
 "
-hootsuite.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.501 ms  17.388 ms  17.387 ms
+hootsuite.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.060 ms  17.034 ms  17.074 ms
 "
-hootsuite.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.308 ms  22.266 ms  22.264 ms
+hootsuite.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.466 ms  22.455 ms  22.430 ms
 "
-hootsuite.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.640 ms  30.643 ms  30.604 ms
+hootsuite.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.808 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.387 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.334 ms
 "
-hootsuite.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.710 ms  39.588 ms  39.640 ms
+hootsuite.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.357 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.489 ms  39.467 ms
 "
-hootsuite.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.612 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.990 ms  115.141 ms
+hootsuite.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.496 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.642 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.665 ms
 "
-hootsuite.com,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.858 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.820 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  118.695 ms
+hootsuite.com,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  114.932 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.913 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.641 ms
 "
-hootsuite.com,9," 9  be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.530 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  117.002 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.740 ms
+hootsuite.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  117.425 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  116.331 ms  115.290 ms
 "
-hootsuite.com,10,"10  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  116.064 ms 38.140.107.42 (38.140.107.42)  114.987 ms 38.140.106.162 (38.140.106.162)  130.315 ms
+hootsuite.com,10,"10  38.140.106.162 (38.140.106.162)  119.595 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.836 ms  115.728 ms
 "
-hootsuite.com,11,"11  52.93.31.35 (52.93.31.35)  114.947 ms 52.93.31.49 (52.93.31.49)  121.147 ms 52.93.31.39 (52.93.31.39)  120.035 ms
+hootsuite.com,11,"11  52.93.31.45 (52.93.31.45)  132.738 ms * 52.93.31.61 (52.93.31.61)  117.974 ms
 "
-hootsuite.com,12,"12  52.93.4.44 (52.93.4.44)  111.157 ms 52.93.4.2 (52.93.4.2)  112.121 ms 52.93.4.54 (52.93.4.54)  111.927 ms
+hootsuite.com,12,"12  52.93.31.47 (52.93.31.47)  113.726 ms 52.93.31.55 (52.93.31.55)  121.398 ms 52.93.4.18 (52.93.4.18)  111.267 ms
 "
-hootsuite.com,13,"13  * 52.93.4.10 (52.93.4.10)  111.415 ms *
+hootsuite.com,13,"13  * * 52.93.4.14 (52.93.4.14)  110.724 ms
 "
-hootsuite.com,14,"14  * 54.240.229.139 (54.240.229.139)  118.077 ms 54.240.229.143 (54.240.229.143)  118.954 ms
+hootsuite.com,14,"14  54.240.229.149 (54.240.229.149)  115.963 ms 54.240.229.139 (54.240.229.139)  118.387 ms 54.240.229.149 (54.240.229.149)  115.978 ms
 "
-hootsuite.com,15,"15  * 54.240.229.139 (54.240.229.139)  116.151 ms *
+hootsuite.com,15,"15  * 150.222.240.56 (150.222.240.56)  116.095 ms *
 "
 hootsuite.com,16,"16  * * *
 "
@@ -49,9 +49,9 @@ hootsuite.com,23,"23  * * *
 "
 hootsuite.com,24,"24  * * *
 "
-hootsuite.com,25,"25  52.93.28.212 (52.93.28.212)  116.295 ms * 52.93.28.198 (52.93.28.198)  117.017 ms
+hootsuite.com,25,"25  * * *
 "
-hootsuite.com,26,"26  * * 52.93.28.204 (52.93.28.204)  115.988 ms
+hootsuite.com,26,"26  * * *
 "
 hootsuite.com,27,"27  * * *
 "
@@ -60,4 +60,8 @@ hootsuite.com,28,"28  * * *
 hootsuite.com,29,"29  * * *
 "
 hootsuite.com,30,"30  * * *
+"
+hootsuite.com,31,"31  ec2-3-209-200-243.compute-1.amazonaws.com (3.209.200.243)  118.579 ms * *
+"
+hootsuite.com,32,"32  ec2-3-209-200-243.compute-1.amazonaws.com (3.209.200.243)  118.735 ms  116.299 ms  116.693 ms
 "

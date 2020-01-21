@@ -1,13 +1,13 @@
 URL,TTL,Response_Message
-urdupoint.com,0,"traceroute to urdupoint.com (104.17.14.38), 30 hops max, 60 byte packets
+urdupoint.com,0,"traceroute to urdupoint.com (104.17.14.38), 50 hops max, 60 byte packets
 "
-urdupoint.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.279 ms  0.311 ms
+urdupoint.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.953 ms  1.962 ms  1.947 ms
 "
-urdupoint.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.651 ms  1.702 ms  1.750 ms
+urdupoint.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.980 ms  0.902 ms  1.000 ms
 "
-urdupoint.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  3.948 ms  1.732 ms  3.936 ms
+urdupoint.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.978 ms  1.119 ms  1.049 ms
 "
-urdupoint.com,4," 4  149.6.191.138 (149.6.191.138)  5.744 ms  5.740 ms  5.733 ms
+urdupoint.com,4," 4  149.6.191.138 (149.6.191.138)  2.353 ms  2.341 ms  7.355 ms
 "
-urdupoint.com,5," 5  104.17.14.38 (104.17.14.38)  1.553 ms  1.525 ms  1.595 ms
+urdupoint.com,5," 5  104.17.14.38 (104.17.14.38)  0.618 ms  0.577 ms  0.594 ms
 "

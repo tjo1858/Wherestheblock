@@ -1,39 +1,33 @@
 URL,TTL,Response_Message
-abcnews.go.com,0,"traceroute to abcnews.go.com (13.224.196.3), 30 hops max, 60 byte packets
+abcnews.go.com,0,"traceroute to abcnews.go.com (13.224.96.48), 50 hops max, 60 byte packets
 "
-abcnews.go.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.344 ms  0.332 ms  0.381 ms
+abcnews.go.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.266 ms  0.257 ms  0.286 ms
 "
-abcnews.go.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.190 ms  1.248 ms  1.395 ms
+abcnews.go.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.578 ms  0.869 ms  0.552 ms
 "
-abcnews.go.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.372 ms  17.333 ms  17.338 ms
+abcnews.go.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.672 ms  28.679 ms  28.672 ms
 "
-abcnews.go.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.255 ms  18.246 ms  18.276 ms
+abcnews.go.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.206 ms  28.833 ms  28.751 ms
 "
-abcnews.go.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.284 ms  24.405 ms  24.263 ms
+abcnews.go.com,5," 5  ffm-bb3-link.telia.net (62.115.141.238)  34.217 ms  36.648 ms ffm-bb2-link.telia.net (62.115.116.159)  34.183 ms
 "
-abcnews.go.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.697 ms  29.890 ms  30.189 ms
+abcnews.go.com,6," 6  zch-b2-link.telia.net (62.115.142.105)  34.040 ms zch-b2-link.telia.net (62.115.142.111)  31.461 ms zch-b2-link.telia.net (62.115.142.105)  36.565 ms
 "
-abcnews.go.com,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.836 ms  29.784 ms  29.754 ms
+abcnews.go.com,7," 7  amazon-ic-335104-zch-b2.c.telia.net (62.115.162.59)  31.299 ms  30.875 ms  30.863 ms
 "
-abcnews.go.com,8," 8  52.93.111.0 (52.93.111.0)  31.474 ms 52.93.111.12 (52.93.111.12)  29.519 ms  29.403 ms
+abcnews.go.com,8," 8  52.93.42.120 (52.93.42.120)  35.066 ms 52.93.42.138 (52.93.42.138)  31.701 ms 52.93.42.56 (52.93.42.56)  32.137 ms
 "
-abcnews.go.com,9," 9  54.239.107.133 (54.239.107.133)  31.018 ms 54.239.107.67 (54.239.107.67)  29.499 ms 54.239.107.85 (54.239.107.85)  28.561 ms
+abcnews.go.com,9," 9  52.93.242.37 (52.93.242.37)  30.754 ms 52.93.242.59 (52.93.242.59)  30.885 ms  30.899 ms
 "
-abcnews.go.com,10,"10  54.239.4.250 (54.239.4.250)  28.552 ms 54.239.5.25 (54.239.5.25)  28.688 ms 54.239.4.250 (54.239.4.250)  28.464 ms
+abcnews.go.com,10,"10  * * *
 "
-abcnews.go.com,11,"11  54.239.106.22 (54.239.106.22)  32.492 ms 54.239.106.128 (54.239.106.128)  29.486 ms 54.239.106.64 (54.239.106.64)  37.042 ms
+abcnews.go.com,11,"11  * * *
 "
-abcnews.go.com,12,"12  52.93.244.109 (52.93.244.109)  30.801 ms 52.93.244.119 (52.93.244.119)  30.794 ms 52.93.244.109 (52.93.244.109)  30.769 ms
+abcnews.go.com,12,"12  * * *
 "
 abcnews.go.com,13,"13  * * *
 "
 abcnews.go.com,14,"14  * * *
 "
-abcnews.go.com,15,"15  * * *
-"
-abcnews.go.com,16,"16  * * *
-"
-abcnews.go.com,17,"17  * * *
-"
-abcnews.go.com,18,"18  server-13-224-196-3.fra2.r.cloudfront.net (13.224.196.3)  30.793 ms  30.645 ms  28.256 ms
+abcnews.go.com,15,"15  server-13-224-96-48.zrh50.r.cloudfront.net (13.224.96.48)  30.839 ms  30.876 ms  33.356 ms
 "

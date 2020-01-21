@@ -16,7 +16,7 @@ with open('BlockUrls.csv', mode='r') as csv_file:
         print row["URL"]
         print "line_count:", line_count
         line_count += 1
-        traceroute = subprocess.Popen(["traceroute", '-T', '-m', sys.argv[1],row["URL"]], stdout=subprocess.PIPE,
+        traceroute = subprocess.Popen(["traceroute", '-T', '-m', sys.argv[1], row["URL"]], stdout=subprocess.PIPE,
                                       stderr=subprocess.STDOUT)
         myCmd = os.popen("curl -s https://ipvigilante.com/$(curl -s https://ipinfo.io/ip) | jq ' .data.country_name'").read()
 	myCmd=myCmd.replace('"', '')
