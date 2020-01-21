@@ -10,6 +10,9 @@
     return getattr(self._sock,name)(*args)
 socket.error: [Errno 111] Connection refused
 root@ubuntu:~/Wherestheblock/HTTP_traceroute# 
-7. 
+7.   File "HTTP_traceroute.py", line 38, in <module>
+    my_list.append([row["URL"],x,str(c.recv(4096))])
+socket.error: [Errno 104] Connection reset by peer
+
 
 
