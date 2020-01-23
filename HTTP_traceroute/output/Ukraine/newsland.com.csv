@@ -1,0 +1,399 @@
+URL,TTL,Message
+newsland.com,1,timed out
+newsland.com,2,timed out
+newsland.com,3,timed out
+newsland.com,4,timed out
+newsland.com,5,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d8565d4d438aa93cde200fef6c7d738c01579714840; expires=Fri, 21-Feb-20 17:40:40 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:46 GMT
+Server: cloudflare
+CF-RAY: 5593507aaecffd01-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,6,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dbd80b4f7a167c9cbe8d0559eb87ae7ea1579714840; expires=Fri, 21-Feb-20 17:40:40 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:46 GMT
+Server: cloudflare
+CF-RAY: 5593507aea12acee-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,7,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d8565d4d438aa93cde200fef6c7d738c01579714840; expires=Fri, 21-Feb-20 17:40:40 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:46 GMT
+Server: cloudflare
+CF-RAY: 5593507b3923fd01-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,8,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9124ba3aba0cdb72126d2ab2667c743a1579714840; expires=Fri, 21-Feb-20 17:40:40 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:46 GMT
+Server: cloudflare
+CF-RAY: 5593507b7f09ac9a-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,9,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d8565d4d438aa93cde200fef6c7d738c01579714840; expires=Fri, 21-Feb-20 17:40:40 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:46 GMT
+Server: cloudflare
+CF-RAY: 5593507bbad3fd01-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,10,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dfeb69593991a4cf45d5ce909bbf9a0671579714840; expires=Fri, 21-Feb-20 17:40:40 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:46 GMT
+Server: cloudflare
+CF-RAY: 5593507bf9282936-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,11,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d75c3e55101efaaa066a510b15c45681c1579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507c4d13acd0-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,12,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d42b08c412054719141825ed6283fb2231579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507c9daefd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,13,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da73d139f30ffd219f612aa083d0ef1671579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507cfde4ad36-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,14,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d42b08c412054719141825ed6283fb2231579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507d3ff5fd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,15,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dbd83323da7830c2a58f8719068609a671579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507d7c712930-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,16,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d89585b1e2d0deab27980575112de8a6a1579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507dbc9eaca6-OTP
+
+10
+error code: 1001
+"
+newsland.com,17,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db037ce9a25c92c0c1587bb91c290bb6f1579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507e0dbdad54-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,18,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d42b08c412054719141825ed6283fb2231579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507e4be9fd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,19,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dfbf759410859ba3700bad4573c9e6ac71579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507e8925fcfd-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,20,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da16fedb4e5a3458e51d799a8d339efdc1579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507ec958fd05-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,21,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df2d1be2e254dda8e689f134b119afa001579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507f1837ad1e-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,22,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6376639e53571bff04e9f3a01960a7801579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507f5cccad2a-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,23,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da7d3512e697183744557ddefa85577921579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507f9f7eacca-OTP
+
+10
+error code: 1001
+"
+newsland.com,24,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0bc0f877068e5ffb806b966012aa25501579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 5593507fec94ad30-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,25,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da73d139f30ffd219f612aa083d0ef1671579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 559350802ac8ad36-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,26,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dfa88a83b0de43fdf24dcb0cd9d3dfaf11579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 559350806b9c290c-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,27,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6a75bfb6d54dce9d71ac22c95ff4297e1579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 55935080bc13ad42-OTP
+
+10
+error code: 1001
+"
+newsland.com,28,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dd9f3f40d796aa31838c39141847e33701579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 55935080fdd8fd01-OTP
+
+10
+error code: 1001
+0
+
+"
+newsland.com,29,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 17:40:41 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9d0e90a34e70bb984fa0036b5682b3a31579714841; expires=Fri, 21-Feb-20 17:40:41 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 17:40:47 GMT
+Server: cloudflare
+CF-RAY: 559350813abaacc4-OTP
+
+10
+error code: 1001
+0
+
+"

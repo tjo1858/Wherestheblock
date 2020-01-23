@@ -1,0 +1,1309 @@
+URL,TTL,Message
+ura.dn.ua,1,timed out
+ura.dn.ua,2,timed out
+ura.dn.ua,3,timed out
+ura.dn.ua,4,timed out
+ura.dn.ua,5,timed out
+ura.dn.ua,6,timed out
+ura.dn.ua,7,timed out
+ura.dn.ua,8,timed out
+ura.dn.ua,9,timed out
+ura.dn.ua,10,timed out
+ura.dn.ua,11,timed out
+ura.dn.ua,12,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,13,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,14,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,15,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,16,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,17,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,18,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,19,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:40 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,20,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,21,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                          "
+ura.dn.ua,22,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,23,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,24,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,25,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,26,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,27,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,28,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"
+ura.dn.ua,29,"HTTP/1.1 503 Service Temporarily Unavailable
+Server: nginx/1.16.1
+Date: Thu, 23 Jan 2020 05:23:41 GMT
+Content-Type: text/html
+Content-Length: 3419
+Connection: keep-alive
+X-Powered-By: PHP/7.3.11
+
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+        <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+        <meta charset=""UTF-8""> 
+        <meta name=""viewport"" content=""initial-scale=1, width=device-width"">
+        <title>Hosting.Energy - Секретная страница</title>
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/normalize.css"">
+        <link rel=""stylesheet"" href=""//hosting.energy/templates/energy/style.css"">
+        <style type=""text/css"">
+        h1 {
+            font-size: 1.8em;
+        }
+        </style>
+</head>
+<body class=""coming_soon"">
+        <div class=""page"">
+                <header class=""header header_shadow"">
+                        <div class=""container header_indent"">
+                                <div class=""grid_8"">
+                                        <div class=""logo"">
+                                                <a href=""https://hosting.energy/""><img src=""//hosting.energy/templates/energy/images/logo.png"" alt=""Energy"" title=""Energy""></a>
+                                        </div>
+                                </div>
+                                <div class=""grid_4"">
+                                        <!--
+                                        
+                                                            &nbsp;
+                                                            -->
+                                </div>
+                        </div>
+                </header>
+                <div class=""content content_h"">
+                                <div class=""coming_soon_container"">
+                        <div class=""container"">
+                                        <div class=""grid_12"">
+                                                <div class=""coming_soon_content"">
+<h1>Секретная страница Hosting.Energy</h1>
+<span class=""red""><p>Cайт <b>ojaloberoi.in</b> не закреплен за IP <b>87.98.152.76</b>.<br />
+Если Вы недавно изменяли IP сайта - просто дождитесь обновления ДНС, обычно это занимает несколько часов.
+Если Вы не производили изменений на Вашем сайте, но видите это сообщение - удостоверьтесь, что www-домен Вашего сайта использует тот же IP, что прописан в ""Доменном имени"".
+Если оба варианта не соответствуют Вашей ситуации - обратитесь в поддержку.<br /></p></span>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <footer class=""footer"">
+                        <div class=""container"">
+                                <div class=""grid_6"">
+                                        &copy; Хостинг «Энергия», бывший TCPHost.net.
+                                </div>
+                                <div class=""grid_6"">
+                                        Адрес для корреспонденции: 54056, Украина, г. Николаев, а/я 125
+                                </div>
+                        </div>
+                </footer>
+        </div>
+</body>
+</html>
+"

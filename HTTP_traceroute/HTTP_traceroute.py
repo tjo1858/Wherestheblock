@@ -18,7 +18,7 @@ with open('ru.csv', mode='r') as csv_file:
         url = (row["URL"], 80)
         my_list = []
         for x in range(1, int(sys.argv[1])):
-            print "TTL:" ,x
+
             c = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
             c.settimeout(10)
 	    try: 
@@ -37,7 +37,7 @@ with open('ru.csv', mode='r') as csv_file:
                 c.send(req)
                 my_list.append([row["URL"],x,str(c.recv(4096))])
                 c.close()
-            except socket.timeout as e:
+            except socket.error, e:
                 my_list.append([row["URL"],x,e])
                 c.close()
 
@@ -45,7 +45,7 @@ with open('ru.csv', mode='r') as csv_file:
 	myCmd=myCmd.replace('"', '')
 	myCmd=myCmd.replace('\n', '')
 	print(myCmd)
-        filename = "output/"+myCmd+'/'+row["URL"] + ".csv"
+        filename = "output/"+myCmd+'/russia/'+row["URL"] + ".csv"
 	print(filename)
 	if not os.path.exists(os.path.dirname(filename)):
 	    try:

@@ -1,0 +1,318 @@
+URL,TTL,Message
+translate.yandex.ru,1,timed out
+translate.yandex.ru,2,timed out
+translate.yandex.ru,3,timed out
+translate.yandex.ru,4,timed out
+translate.yandex.ru,5,timed out
+translate.yandex.ru,6,timed out
+translate.yandex.ru,7,timed out
+translate.yandex.ru,8,timed out
+translate.yandex.ru,9,timed out
+translate.yandex.ru,10,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:00 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,11,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:00 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,12,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:01 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,13,timed out
+translate.yandex.ru,14,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:11 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,15,timed out
+translate.yandex.ru,16,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:21 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,17,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:21 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,18,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:21 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,19,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:21 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,20,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:21 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,21,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:21 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,22,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,23,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,24,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,25,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,26,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,27,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,28,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"
+translate.yandex.ru,29,"HTTP/1.1 307 Temporary Redirect
+Server: nginx/1.6.2
+Date: Thu, 23 Jan 2020 05:02:22 GMT
+Content-Type: text/html
+Content-Length: 186
+Connection: keep-alive
+Keep-Alive: timeout=120
+Location: https://translate.yandex.ru/
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor=""white"">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+"

@@ -1,0 +1,387 @@
+URL,TTL,Message
+rg.ru,1,timed out
+rg.ru,2,timed out
+rg.ru,3,timed out
+rg.ru,4,timed out
+rg.ru,5,timed out
+rg.ru,6,timed out
+rg.ru,7,timed out
+rg.ru,8,timed out
+rg.ru,9,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oJ+k6gQD49Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,10,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oKk06j6r4qAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,11,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oK9k6nDi4dAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,12,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oJ+k6gQD4/Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,13,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oJ+k6gQD5CAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,14,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oKSU6idkGkAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,15,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oKEU6fsLYeAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,16,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oKxk6lQdrcAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,17,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oKOE6hFItFAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,18,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:18 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL2oKSU6idkGmAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,19,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:21 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL20KEU6fsLZEAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,20,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:22 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL24J+k6gQD6QAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,21,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:25 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL3EJ+k6gQD7AAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,22,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:27 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL3MKOE6hFIuvAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,23,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:30 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL3YKSU6idkInAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,24,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:31 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL3cKnE6kg/6wAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,25,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:34 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL3oJ+k6gQD8mAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,26,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:35 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL3sKEU6fsLb7Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,27,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL34KEU6fsLciAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,28,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL38KSU6idkJ5Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"
+rg.ru,29,"HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 23 Jan 2020 05:30:40 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://rg.ru/
+Set-Cookie: uidtrack=wxB1+14pL4AKEU6fsLc7Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rg.ru; path=/
+P3P: policyref=""/w3c/p3p.xml"", CP=""CUR ADM OUR NOR STA NID""
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+"

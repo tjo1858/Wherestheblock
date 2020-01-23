@@ -1,0 +1,68 @@
+URL,TTL,Message
+surfshield.net,1,
+surfshield.net,2,
+surfshield.net,3,
+surfshield.net,4,
+surfshield.net,5,
+surfshield.net,6,
+surfshield.net,7,
+surfshield.net,8,"HTTP/1.1 302 Found
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 11
+date: Thu, 23 Jan 2020 04:45:11 GMT
+location: http://survey-smiles.com
+server: nginx
+set-cookie: sid=2420d936-3d9b-11ea-a6dc-fb17e6291322; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 07:59:19 GMT; max-age=2147483647; HttpOnly
+
+Redirecting"
+surfshield.net,9,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 04:45:11 GMT
+server: nginx
+set-cookie: sid=244ee2a4-3d9b-11ea-acc2-fb17220b1cfd; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 07:59:19 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc2MTkxMiwiaWF0IjoxNTc5NzU0NzEyLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02bDJrZ25iaG1paXM4bjgwbWI5bzciLCJuYmYiOjE1Nzk3NTQ3MTIsInRzIjoxNTc5NzU0NzEyNjY2MzM0fQ.PkENT6-MqJCidhkfLVtQNWX-Wv11I-ofNqkEX-9tj-o&sid=244ee2a4-3d9b-11ea-acc2-fb17220b1cfd');</script></body></html>"
+surfshield.net,10,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 04:45:11 GMT
+server: nginx
+set-cookie: sid=247d265a-3d9b-11ea-b153-fb1736a68130; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 07:59:19 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc2MTkxMiwiaWF0IjoxNTc5NzU0NzEyLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02bDJsMnBubzc0bDdjOTgwamVpdWYiLCJuYmYiOjE1Nzk3NTQ3MTIsInRzIjoxNTc5NzU0NzEyOTY5NTc1fQ.6En0Si8fniajrmBTu7jhF-eMC8I8_wM0BRBcD8epmy0&sid=247d265a-3d9b-11ea-b153-fb1736a68130');</script></body></html>"
+surfshield.net,11,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 04:45:12 GMT
+server: nginx
+set-cookie: sid=24aaa6ca-3d9b-11ea-935a-fb17bf236f01; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 07:59:20 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc2MTkxMywiaWF0IjoxNTc5NzU0NzEzLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02bDJsa2o1dDhuOGZjbTQwbWhzOGMiLCJuYmYiOjE1Nzk3NTQ3MTMsInRzIjoxNTc5NzU0NzEzMjY4MTIwfQ.M6xPX2NMdu6d9AOO0lHR0Nks1FzgHnm4iQoZnqFQdfY&sid=24aaa6ca-3d9b-11ea-935a-fb17bf236f01');</script></body></html>"
+surfshield.net,12,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 04:45:12 GMT
+server: nginx
+set-cookie: sid=24d8ea30-3d9b-11ea-a9ae-fb176e9dc33c; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 07:59:20 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc2MTkxMywiaWF0IjoxNTc5NzU0NzEzLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02bDJtNm5tMHBwZjI0MTQwbWplYWIiLCJuYmYiOjE1Nzk3NTQ3MTMsInRzIjoxNTc5NzU0NzEzNTcyNDc2fQ.Aa4rbM-WlEpsPu7ZxIFmZU0Ks-5EEi5qlM_32I4KQx0&sid=24d8ea30-3d9b-11ea-a9ae-fb176e9dc33c');</script></body></html>"
+surfshield.net,13,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 04:45:12 GMT
+server: nginx
+set-cookie: sid=25076ac2-3d9b-11ea-8e43-fb171d2168e7; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 07:59:20 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc2MTkxMywiaWF0IjoxNTc5NzU0NzEzLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02bDJtb3FhaDhidjdzbWMwbTc5aTgiLCJuYmYiOjE1Nzk3NTQ3MTMsInRzIjoxNTc5NzU0NzEzODc1ODU2fQ.o01Xsh8IrHX5hzNtVWXQqYbbKiJZq7rwfqUsYKM8H-w&sid=25076ac2-3d9b-11ea-8e43-fb171d2168e7');</script></body></html>"

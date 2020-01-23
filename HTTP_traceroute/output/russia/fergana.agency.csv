@@ -1,0 +1,19 @@
+URL,TTL,Message
+fergana.agency,1,timed out
+fergana.agency,2,timed out
+fergana.agency,3,timed out
+fergana.agency,4,timed out
+fergana.agency,5,timed out
+fergana.agency,6,timed out
+fergana.agency,7,"HTTP/1.1 403 Forbidden
+Date: Thu, 23 Jan 2020 05:00:50 GMT
+Connection: close
+Via: http/1.1 veeble22.prod.deflect.ca (ApacheTrafficServer/7.1.8 [u c s f p eN:t c  i p s ])
+Server: ATS/7.1.8
+Expires: Mon, 23 Aug 1982 12:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 62
+Content-Type: text/html
+
+<html><header></header><body>504 Gateway Timeout</body></html>"
