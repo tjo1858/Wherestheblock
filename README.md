@@ -71,3 +71,11 @@ SSL_TLS sample packets to be craft:
 https://github.com/tintinweb/scapy-ssl_tls
 
 Examples are present in TLS traceroute folder as well.
+
+# How to enter into VPS
+1. Install expect linux package (sudo apt-get install expect)
+2. cd VPS
+3. ./countryname.sh 
+ Like ./Ukraine.sh to enter Ukraine VPS
+
+ 
