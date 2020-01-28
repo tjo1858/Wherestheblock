@@ -3,16 +3,53 @@
 import argparse
 import csv
 import logging
+import multiprocessing
 import os
 import socket
 import sys
+from itertools import repeat
 
 import coloredlogs
 import geoip2.database
-from scapy.all import ICMP, IP, TCP, UDP, sr
+from scapy.all import ICMP, IP, TCP, UDP, sr, sr1
 
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO")
+
+
+def send_packet(target, ttl):
+    log.debug(f"{target}, {ttl}")
+    packet_sent = IP(dst=target, ttl=ttl) / UDP(dport=33434 + ttl)
+    packet_received = sr1(packet_sent, verbose=0, timeout=5)
+
+    if not packet_received:
+        result = "*"
+
+    elif packet_received.type == 3:
+        result = f"✓ {packet_received.src}"
+
+    else:
+        dns_host = dns_lookup(packet_received.src, truncate_length=37) or ""
+        geolocation = get_location(packet_received.src) or ""
+        rtt = get_rtt(packet_sent.sent_time, packet_received.time)
+        result = f"{dns_host:<40} {packet_received.src:<20} {geolocation:<30} {rtt}ms"
+
+    return {"ttl": ttl, "result": result}
+
+
+def run_traceroute(target, packet_type, timeout=5, max_hops=30, max_processes=4):
+    """
+    Perform a traceroute against a given target.
+    :param target: target hostname
+    :param timeout: timeout for each packet sent
+    :param max_hops: maximum desired number of hops
+    :param max_processes: max number of concurrent threads
+    :return: none
+    """
+    with multiprocessing.Pool(processes=max_processes) as pool:
+        results = pool.starmap(send_packet, zip(repeat(target), range(1, max_hops + 1)))
+        for hop in sorted(results, key=lambda hop: hop["ttl"]):
+            print(f"{hop['ttl']:<5} {hop['result']}")
 
 
 def read_csv_input_file(filepath: str) -> list:
@@ -103,38 +140,6 @@ def get_location(target: str) -> str:
     return geolookup.country.name
 
 
-def traceroute(target: str, packet_type, max_ttl: int = 30, timeout: int = 5) -> list:
-    """
-    Perform a traceroute against a given target.
-    :param target: target hostname
-    :param packet_type: type (TCP, UDP, ICMP, etc.)
-    :param max_ttl: maximum desired TTL
-    :param timeout: timeout for each packet sent
-    :return: list containing a tuple for every packet sent and its response
-    """
-
-    results = []
-    log.info(f"Performing traceroute against {target}")
-    log.debug(f"Max TTL is {max_ttl}, timeout is {timeout}.")
-
-    ans, unans = sr(
-        IP(dst=target, ttl=(1, max_ttl)) / packet_type, timeout=timeout, verbose=0
-    )
-    for packet in ans:
-        packet_sent = packet[0]
-        packet_received = packet[1]
-
-        dns_host = dns_lookup(packet_received.src, truncate_length=37) or ""
-        geolocation = get_location(packet_received.src) or ""
-        rtt = get_rtt(packet_sent.sent_time, packet_received.time)
-
-        print(
-            f"{packet_sent.ttl:<5} {dns_host:<40} {packet_received.src:<20} {geolocation:<30} {rtt}ms"
-        )
-
-    return results
-
-
 if __name__ == "__main__":
 
     # parse all program arguments
@@ -159,7 +164,7 @@ if __name__ == "__main__":
         "--icmp", action="store_true", default=False, help="Perform an ICMP traceroute."
     )
 
-    parser.add_argument("--ttl", type=int, default=30, help="Max TTL.")
+    parser.add_argument("--hops", type=int, default=30, help="Max hops.")
     parser.add_argument(
         "--timeout", type=int, default=5, help="Default timeout per packet."
     )
@@ -169,6 +174,9 @@ if __name__ == "__main__":
         action="store_true",
         default=False,
         help="Enable verbose logging.",
+    )
+    parser.add_argument(
+        "--threads", type=int, default=4, help="Maximum number of concurrent threads."
     )
     args = parser.parse_args()
 
@@ -203,5 +211,4 @@ if __name__ == "__main__":
         packet_type = TCP(dport=53, flags="S")
 
     for target in targets:
-        traceroute(target, packet_type, args.ttl, args.timeout)
-    # filter = "(icmp and (icmp[0]=3 or icmp[0]=4 or icmp[0]=5 or icmp[0]=11 or icmp[0]=12)) or (tcp and (tcp[13] & 0x16 > 0x10))"
+        run_traceroute(target, packet_type, max_hops=args.hops, timeout=args.timeout)
