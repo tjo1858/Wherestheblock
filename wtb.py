@@ -3,18 +3,19 @@
 import argparse
 import csv
 import logging
-import multiprocessing
 import os
+import ssl
 import pathlib
 import socket
 import subprocess
-from fake_useragent import UserAgent
 import sys
-from itertools import repeat
 
 import coloredlogs
 import geoip2.database
-from scapy.all import *
+import geoip2.errors
+from fake_useragent import UserAgent
+from scapy.all import DNS, DNSQR, UDP, RandShort, traceroute
+
 
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
@@ -30,8 +31,8 @@ def dns_lookup(target: str, truncate_length: int = None) -> str:
 
     try:
         dns_host = socket.gethostbyaddr(target)[0]
-    except:
-        log.debug(f"Unable to perform reverse DNS lookup for {target}.")
+    except socket.error as e:
+        log.debug(f"Unable to perform reverse DNS lookup for {target}: {e}")
         return ""
 
     if truncate_length:
@@ -47,10 +48,10 @@ def dns_lookup(target: str, truncate_length: int = None) -> str:
 def ip_lookup(hostname):
     try:
         host_ip = socket.gethostbyname(hostname)
-    except socket.gaierror:
+    except socket.error:
         log.error(f"Unable to obtain IP address for {hostname}.")
         return
-    return socket.gethostbyname(hostname)
+    return host_ip
 
 
 def geolocate(target: str) -> str:
@@ -65,7 +66,7 @@ def geolocate(target: str) -> str:
     location = {}
     try:
         geolookup = reader.city(target)
-    except:
+    except geoip2.errors.AddressNotFoundError:
         log.debug(f"Unable to get geolocation data for {target}.")
         return
 
@@ -80,7 +81,7 @@ def geolocate(target: str) -> str:
 
 def dns_traceroute(url, hops):
     ans, unans = traceroute(
-        "4.2.2.1", l4=UDP(sport=RandShort()) / DNS(qd=DNSQR(qname=row["URL"]))
+        "4.2.2.1", l4=UDP(sport=RandShort()) / DNS(qd=DNSQR(qname=url))
     )
     print(ans.summary())
     print(unans.summary())
@@ -100,7 +101,7 @@ def http_traceroute(url, hops):
     req += b"\r\n"
 
     results = []
-    for ttl in range(1, hops):
+    for ttl in range(1, hops + 1):
         c = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
         c.settimeout(10)
         host_ip = ip_lookup(url)
@@ -109,8 +110,8 @@ def http_traceroute(url, hops):
 
         try:
             c.connect((url, 80))
-        except socket.error as msg:
-            log.error(f"Couldnt connect with the socket-server: {msg}")
+        except socket.error as e:
+            log.error(f"Couldnt connect with the socket-server: {e}")
             return
 
         c.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
@@ -124,12 +125,52 @@ def http_traceroute(url, hops):
         finally:
             c.close()
 
-        country = geolocate(host_ip)["country"]
+    country = geolocate(host_ip)["country"]
 
-        filename = os.path.join(
-            pathlib.Path().absolute(), "output", "http", country, f"{url}.csv"
+    filename = os.path.join(
+        pathlib.Path().absolute(), "output", "http", country, f"{url}.csv"
+    )
+    write_results(filename, results)
+
+
+def tls_traceroute(url, hops):
+
+    results = []
+    for ttl in range(1, hops + 1):
+        host_ip = ip_lookup(url)
+        if not host_ip:
+            return
+
+        sock = socket.socket(
+            socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP
         )
-        write_results(filename, results)
+        sock.settimeout(5)
+        # create tls context and wrap the socket
+        context = ssl.create_default_context()
+        ssock = context.wrap_socket(
+            sock, server_hostname=url, do_handshake_on_connect=True
+        )
+        ssock.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
+
+        try:
+            ssock.connect((host_ip, 443))
+            # if we can connect, write the cert (?)
+            cert = ssock.getpeercert()
+            results.append([url, ttl, cert])
+
+        except socket.error as e:
+            log.error(f"Couldnt connect with the socket-server: {e}")
+            ssock.close()
+
+        finally:
+            ssock.close()
+
+    country = geolocate(host_ip)["country"]
+
+    filename = os.path.join(
+        pathlib.Path().absolute(), "output", "http", country, f"{url}.csv"
+    )
+    write_results(filename, results)
 
 
 def icmp_traceroute(url, hops):
@@ -165,7 +206,16 @@ def lft_traceroute(url, hops):
     traceroute = subprocess.Popen(
         ["lft", "-m", hops, url], stdout=subprocess.PIPE, stderr=subprocess.STDOUT
     )
-    results = iter(traceroute.stdout.readline, "")
+    results = []
+    for hop, line in enumerate(traceroute.stdout.decode().split("\n")):
+        results.append([url, hop, line])
+
+    ip = ip_lookup(url)
+    country = geolocate(ip)["country"]
+    filename = os.path.join(
+        pathlib.Path().absolute(), "output", "lft", country, f"{url}.csv"
+    )
+    write_results(filename, results)
 
 
 def write_results(filename, results):
@@ -195,7 +245,7 @@ def read_csv_input_file(filepath: str) -> list:
     with open(filepath, "r") as csv_file:
         try:
             csv_reader = csv.DictReader(csv_file)
-        except:
+        except OSError:
             log.error(f"'{filepath}' is not a valid CSV file.")
             return
 
@@ -224,7 +274,7 @@ if __name__ == "__main__":
         "--protocol",
         default="udp",
         type=str,
-        choices=["udp", "tcp", "icmp", "lft", "http", "dns"],
+        choices=["udp", "tcp", "icmp", "lft", "http", "dns", "tls"],
         help="protocol choice (default: %(default)s)",
     )
     parser.add_argument(
@@ -270,8 +320,9 @@ if __name__ == "__main__":
         "udp": udp_traceroute,
         "tcp": tcp_traceroute,
         "http": http_traceroute,
-        "lft": lft_traceroute,
         "dns": dns_traceroute,
+        "lft": lft_traceroute,
+        "tls": tls_traceroute,
     }
     traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol.")
 
