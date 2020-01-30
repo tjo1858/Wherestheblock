@@ -8,6 +8,7 @@ import os
 import pathlib
 import socket
 import subprocess
+from fake_useragent import UserAgent
 import sys
 from itertools import repeat
 
@@ -44,6 +45,11 @@ def dns_lookup(target: str, truncate_length: int = None) -> str:
 
 
 def ip_lookup(hostname):
+    try:
+        host_ip = socket.gethostbyname(hostname)
+    except socket.gaierror:
+        log.error(f"Unable to obtain IP address for {hostname}.")
+        return
     return socket.gethostbyname(hostname)
 
 
@@ -72,7 +78,7 @@ def geolocate(target: str) -> str:
     return location
 
 
-def dns_traceroute(url):
+def dns_traceroute(url, hops):
     ans, unans = traceroute(
         "4.2.2.1", l4=UDP(sport=RandShort()) / DNS(qd=DNSQR(qname=row["URL"]))
     )
@@ -80,40 +86,50 @@ def dns_traceroute(url):
     print(unans.summary())
 
 
-def http_traceroute(url):
+def http_traceroute(url, hops):
     # HTTP header
-    req = "GET / HTTP/1.1\r\nHost: ojaloberoi.in\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.8\r\n\r\n"
-    my_list = []
-    for x in range(1, int(sys.argv[1])):
+    user_agent = UserAgent().random
+    req = b"GET / HTTP/1.1\r\n"
+    req += b"Host: ojaloberoi.in\r\n"
+    req += b"Connection: keep-alive\r\n"
+    req += b"Cache-Control: max-age=0\r\n"
+    req += b"Upgrade-Insecure-Requests: 1\r\n"
+    req += user_agent.encode() + b"\r\n"
+    req += b"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\n"
+    req += b"Accept-Language: en-US,en;q=0.8\r\n"
+    req += b"\r\n"
+
+    results = []
+    for ttl in range(1, hops):
         c = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
         c.settimeout(10)
-        try:
-            host_ip = socket.gethostbyname(url)
-        except socket.gaierror:
-            print("url is not correct")
-            break
+        host_ip = ip_lookup(url)
+        if not host_ip:
+            return
 
         try:
-            c.connect(url)
+            c.connect((url, 80))
         except socket.error as msg:
-            print(f"Couldnt connect with the socket-server: {msg}")
-            break
+            log.error(f"Couldnt connect with the socket-server: {msg}")
+            return
 
-        c.setsockopt(socket.SOL_IP, socket.IP_TTL, x)
+        c.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
         try:
             c.send(req)
-            my_list.append([url, x, str(c.recv(4096))])
+            results.append([url, ttl, str(c.recv(4096)).decode()])
 
         except socket.error as e:
-            my_list.append([url, x, e])
+            results.append([url, ttl, e])
 
         finally:
             c.close()
 
         country = geolocate(host_ip)["country"]
 
-        filename = "output/" + country + "/russia/" + url + ".csv"
-        write_results(filename, my_list)
+        filename = os.path.join(
+            pathlib.Path().absolute(), "output", "http", country, f"{url}.csv"
+        )
+        write_results(filename, results)
 
 
 def icmp_traceroute(url, hops):
@@ -139,7 +155,9 @@ def call_native_traceroute(protocol, url, hops):
 
     ip = ip_lookup(url)
     country = geolocate(ip)["country"]
-    filename = os.path.join(pathlib.Path().absolute(), "output", country, f"{url}.csv")
+    filename = os.path.join(
+        pathlib.Path().absolute(), "output", protocol, country, f"{url}.csv"
+    )
     write_results(filename, results)
 
 
@@ -206,7 +224,7 @@ if __name__ == "__main__":
         "--protocol",
         default="udp",
         type=str,
-        choices=["udp", "tcp", "icmp"],
+        choices=["udp", "tcp", "icmp", "lft", "http", "dns"],
         help="protocol choice (default: %(default)s)",
     )
     parser.add_argument(
@@ -252,6 +270,8 @@ if __name__ == "__main__":
         "udp": udp_traceroute,
         "tcp": tcp_traceroute,
         "http": http_traceroute,
+        "lft": lft_traceroute,
+        "dns": dns_traceroute,
     }
     traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol.")
 
