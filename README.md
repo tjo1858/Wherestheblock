@@ -17,7 +17,7 @@ Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ss
 
 	Ex: sudo python HTTP_traceroute.py 30
 
-4. Results of the http response is stored in Block URL names CSV files.
+4. Results of the HTTP response is stored in Block URL names CSV files.
 
 # TCP traceroute instructions
 1. Blockurl file contains the URL to be tested CSV list
@@ -25,7 +25,7 @@ Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ss
 3. Run command:
 	sudo python TCP_traceroute.py 30
 
-4. Results of the http response is stored in Block URL names CSV files.
+4. Results of the TCP response is stored in Block URL names CSV files.
 
 
 # ICMP traceroute instructions
@@ -35,7 +35,7 @@ Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ss
 3. Run command:
 	sudo python ICMP_traceroute.py 30
 
-4. Results of the http response is stored in Block URL names CSV files.
+4. Results of the ICMP response is stored in Block URL names CSV files.
 
 # UDP traceroute instructions
 
@@ -44,7 +44,7 @@ Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ss
 3. Run command:
 	sudo python UDP_traceroute.py 30
 
-4. Results of the http response is stored in Block URL names CSV files.
+4. Results of the UDP response is stored in Block URL names CSV files.
 
 # lft traceroute instructions
 
@@ -53,7 +53,7 @@ Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ss
 3. Run command:
 	sudo python lft_traceroute.py 10
 
-4. Results of the http response is stored in Block URL names CSV files.
+4. Results of the lft response is stored in Block URL names CSV files.
 
 
 
@@ -64,10 +64,27 @@ Install apt install traceroute, pip install BeautifulSoup4, pip install scapy-ss
 	sudo python TLS_traceroute.py TTL
 Like:   sudo python TLS_traceroute.py 30
 
-4. Results of the http response is stored in Block URL names CSV files.
+4. Results of the TLS response is stored in Block URL names CSV files.
+
+# DNS traceroute instructions
+1. Blockurl file contains the URL to be tested CSV list
+2. Enter the DNS_traceroute directory
+3. Run command:
+	sudo python DNS_traceroute.py 
+
+
+# How to enter into VPS
+1. Install expect linux package (sudo apt-get install expect)
+2. cd VPS
+3. ./countryname.sh 
+
+ Like ./Ukraine.sh to enter Ukraine VPS
+
 
 # ToDo
 SSL_TLS sample packets to be craft:
 https://github.com/tintinweb/scapy-ssl_tls
 
 Examples are present in TLS traceroute folder as well.
+
+ 
