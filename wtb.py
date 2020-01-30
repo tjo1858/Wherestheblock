@@ -4,9 +4,9 @@ import argparse
 import csv
 import logging
 import os
-import ssl
 import pathlib
 import socket
+import ssl
 import subprocess
 import sys
 
@@ -16,7 +16,6 @@ import geoip2.errors
 from fake_useragent import UserAgent
 from scapy.all import DNS, DNSQR, UDP, RandShort, traceroute
 
-
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 
@@ -25,7 +24,8 @@ def dns_lookup(target: str, truncate_length: int = None) -> str:
     """
     Perform a reverse DNS lookup on a host IP address.
     :param target: target IP address
-    :param truncate_length: truncate the address to this many characters
+    :param truncate_length: truncate the address to this many characters,
+        if desired (for output purposes)
     :return: DNS address of provided IP address
     """
 
@@ -45,7 +45,13 @@ def dns_lookup(target: str, truncate_length: int = None) -> str:
     return dns_host
 
 
-def ip_lookup(hostname):
+def ip_lookup(hostname: str) -> str:
+    """
+    Lookup an IP address for a given hostname.
+    :param hostname: host to look up
+    :return: IP address string
+    """
+
     try:
         host_ip = socket.gethostbyname(hostname)
     except socket.error:
@@ -79,7 +85,13 @@ def geolocate(target: str) -> str:
     return location
 
 
-def dns_traceroute(url, hops):
+def dns_traceroute(url: str, hops: int) -> None:
+    """
+    Perform a DNS traceroute (needs work)
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
     ans, unans = traceroute(
         "4.2.2.1", l4=UDP(sport=RandShort()) / DNS(qd=DNSQR(qname=url))
     )
@@ -87,7 +99,14 @@ def dns_traceroute(url, hops):
     print(unans.summary())
 
 
-def http_traceroute(url, hops):
+def http_traceroute(url: str, hops: int) -> None:
+    """
+    Perform an HTTP get request traceroute.
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
+
     # HTTP header
     user_agent = UserAgent().random
     req = b"GET / HTTP/1.1\r\n"
@@ -133,7 +152,13 @@ def http_traceroute(url, hops):
     write_results(filename, results)
 
 
-def tls_traceroute(url, hops):
+def tls_traceroute(url: str, hops: int) -> None:
+    """
+    Perform a TLS handshake traceroute.
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
 
     results = []
     for ttl in range(1, hops + 1):
@@ -173,19 +198,44 @@ def tls_traceroute(url, hops):
     write_results(filename, results)
 
 
-def icmp_traceroute(url, hops):
+def icmp_traceroute(url: str, hops: int) -> None:
+    """
+    Call the native traceroute for ICMP
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
     call_native_traceroute("ICMP", url, hops)
 
 
-def tcp_traceroute(url, hops):
+def tcp_traceroute(url: str, hops: int) -> None:
+    """
+    Call the native traceroute for TCP
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
     call_native_traceroute("TCP", url, hops)
 
 
-def udp_traceroute(url, hops):
+def udp_traceroute(url: str, hops: int) -> None:
+    """
+    Call the native traceroute for UDP
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
     call_native_traceroute("UDP", url, hops)
 
 
-def call_native_traceroute(protocol, url, hops):
+def call_native_traceroute(protocol: str, url: str, hops: int) -> None:
+    """
+    Wrapper to call the native traceroute utility.
+    :param protocol: desired protocol choice (udp, http, etc.)
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
     traceroute = subprocess.run(
         ["traceroute", f"-{protocol[0].upper()}", "-m", str(hops), url],
         capture_output=True,
@@ -202,7 +252,13 @@ def call_native_traceroute(protocol, url, hops):
     write_results(filename, results)
 
 
-def lft_traceroute(url, hops):
+def lft_traceroute(url: str, hops: int) -> None:
+    """
+    Perform an lft traceroute.
+    :param url: target URL
+    :param hops: max number of hops to travel
+    :return: None
+    """
     traceroute = subprocess.Popen(
         ["lft", "-m", hops, url], stdout=subprocess.PIPE, stderr=subprocess.STDOUT
     )
@@ -218,7 +274,15 @@ def lft_traceroute(url, hops):
     write_results(filename, results)
 
 
-def write_results(filename, results):
+def write_results(filename: str, results: list) -> None:
+    """
+    Write results out to a CSV file.
+    :param filename: full filepath to write results to
+    :param results: list of results, each entry being a list consisting of 
+        [ url, hop, data received]
+    :return: None
+    """
+
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as outfile:
         results_writer = csv.writer(
@@ -315,6 +379,7 @@ if __name__ == "__main__":
     elif args.target:
         targets.append(args.target)
 
+    # context switcher to choose function based on provided protocol
     switcher = {
         "icmp": icmp_traceroute,
         "udp": udp_traceroute,
