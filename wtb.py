@@ -3,17 +3,17 @@
 import argparse
 import csv
 import logging
-import pathlib
 import multiprocessing
 import os
-import subprocess
+import pathlib
 import socket
+import subprocess
 import sys
 from itertools import repeat
 
 import coloredlogs
 import geoip2.database
-from scapy.all import ICMP, IP, TCP, UDP, sr, sr1
+from scapy.all import *
 
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
@@ -70,6 +70,14 @@ def geolocate(target: str) -> str:
         location["country"] = geolookup.country.name
 
     return location
+
+
+def dns_traceroute(url):
+    ans, unans = traceroute(
+        "4.2.2.1", l4=UDP(sport=RandShort()) / DNS(qd=DNSQR(qname=row["URL"]))
+    )
+    print(ans.summary())
+    print(unans.summary())
 
 
 def http_traceroute(url):
