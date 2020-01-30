@@ -42,6 +42,7 @@ def dns_lookup(target: str, truncate_length: int = None) -> str:
 
     return dns_host
 
+
 def ip_lookup(hostname):
     return socket.gethostbyname(hostname)
 
@@ -235,14 +236,13 @@ if __name__ == "__main__":
     elif args.target:
         targets.append(args.target)
 
-    for target in targets:
-        if args.protocol == "icmp":
-            icmp_traceroute(target, args.max_ttl)
-        elif args.protocol == "udp":
-            udp_traceroute(target, args.max_ttl)
-        elif args.protocol == "tcp":
-            tcp_traceroute(target, args.max_ttl)
-        elif args.protocol == "http":
-            http_traceroute(target, args.max_ttl)
+    switcher = {
+        "icmp": icmp_traceroute,
+        "udp": udp_traceroute,
+        "tcp": tcp_traceroute,
+        "http": http_traceroute,
+    }
+    traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol")
 
-        
+    for target in targets:
+        traceroute_func(target, args.max_ttl)
