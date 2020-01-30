@@ -1,0 +1,4 @@
+URL,TTL,Message
+google.com,0, 1  192.168.1.1 (192.168.1.1)  2.876 ms  1.015 ms  0.937 ms
+google.com,1, 2  100.64.224.1 (100.64.224.1)  5.810 ms  2.176 ms  2.882 ms
+google.com,2,
