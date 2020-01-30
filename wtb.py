@@ -168,7 +168,7 @@ def tls_traceroute(url, hops):
     country = geolocate(host_ip)["country"]
 
     filename = os.path.join(
-        pathlib.Path().absolute(), "output", "http", country, f"{url}.csv"
+        pathlib.Path().absolute(), "output", "tls", country, f"{url}.csv"
     )
     write_results(filename, results)
 
