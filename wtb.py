@@ -125,7 +125,10 @@ def call_native_traceroute(protocol, url, hops):
         ["traceroute", f"-{protocol[0].upper()}", "-m", str(hops), url],
         capture_output=True,
     )
-    results = [line for line in traceroute.stdout.decode().split("\n")]
+    results = []
+    for hop, line in enumerate(traceroute.stdout.decode().split("\n")):
+        results.append([url, hop, line])
+
     ip = ip_lookup(url)
     country = geolocate(ip)["country"]
     filename = os.path.join(pathlib.Path().absolute(), "output", country, f"{url}.csv")
@@ -140,14 +143,14 @@ def lft_traceroute(url, hops):
 
 
 def write_results(filename, results):
-    os.makedirs(os.path.dirname(filename), 777, exist_ok=True)
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as outfile:
         results_writer = csv.writer(
             outfile, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL
         )
         results_writer.writerow(["URL", "TTL", "Message"])
-        for item in my_list:
-            results_writer.writerow(item)
+        for result in results:
+            results_writer.writerow(result)
 
 
 def read_csv_input_file(filepath: str) -> list:
@@ -242,7 +245,7 @@ if __name__ == "__main__":
         "tcp": tcp_traceroute,
         "http": http_traceroute,
     }
-    traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol")
+    traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol.")
 
     for target in targets:
         traceroute_func(target, args.max_ttl)
