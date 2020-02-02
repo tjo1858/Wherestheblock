@@ -9,6 +9,7 @@ import socket
 import ssl
 import subprocess
 import sys
+import json
 
 import coloredlogs
 import geoip2.database
@@ -136,7 +137,7 @@ def http_traceroute(url: str, hops: int) -> None:
         c.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
         try:
             c.send(req)
-            results.append([url, ttl, str(c.recv(4096)).decode()])
+            results.append([url, ttl, str(c.recv(4096))])
 
         except socket.error as e:
             results.append([url, ttl, e])
@@ -147,7 +148,7 @@ def http_traceroute(url: str, hops: int) -> None:
     country = geolocate(host_ip)["country"]
 
     filename = os.path.join(
-        pathlib.Path().absolute(), "output", "http", country, f"{url}.csv"
+        pathlib.Path().absolute(), "output", "http", country, f"{url}.json"
     )
     write_results(filename, results)
 
@@ -193,7 +194,7 @@ def tls_traceroute(url: str, hops: int) -> None:
     country = geolocate(host_ip)["country"]
 
     filename = os.path.join(
-        pathlib.Path().absolute(), "output", "tls", country, f"{url}.csv"
+        pathlib.Path().absolute(), "output", "tls", country, f"{url}.json"
     )
     write_results(filename, results)
 
@@ -205,6 +206,7 @@ def icmp_traceroute(url: str, hops: int) -> None:
     :param hops: max number of hops to travel
     :return: None
     """
+
     call_native_traceroute("ICMP", url, hops)
 
 
@@ -237,8 +239,7 @@ def call_native_traceroute(protocol: str, url: str, hops: int) -> None:
     :return: None
     """
     traceroute = subprocess.run(
-        ["traceroute", f"-{protocol[0].upper()}", "-m", str(hops), url],
-        capture_output=True,
+        ["traceroute", "-P", protocol, "-m", str(hops), url], capture_output=True,
     )
     results = []
     for hop, line in enumerate(traceroute.stdout.decode().split("\n")):
@@ -247,7 +248,7 @@ def call_native_traceroute(protocol: str, url: str, hops: int) -> None:
     ip = ip_lookup(url)
     country = geolocate(ip)["country"]
     filename = os.path.join(
-        pathlib.Path().absolute(), "output", protocol, country, f"{url}.csv"
+        pathlib.Path().absolute(), "output", protocol, country, f"{url}.json"
     )
     write_results(filename, results)
 
@@ -269,7 +270,7 @@ def lft_traceroute(url: str, hops: int) -> None:
     ip = ip_lookup(url)
     country = geolocate(ip)["country"]
     filename = os.path.join(
-        pathlib.Path().absolute(), "output", "lft", country, f"{url}.csv"
+        pathlib.Path().absolute(), "output", "lft", country, f"{url}.json"
     )
     write_results(filename, results)
 
@@ -284,13 +285,15 @@ def write_results(filename: str, results: list) -> None:
     """
 
     os.makedirs(os.path.dirname(filename), exist_ok=True)
+    formatted_results = []
     with open(filename, "w") as outfile:
-        results_writer = csv.writer(
-            outfile, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL
-        )
-        results_writer.writerow(["URL", "TTL", "Message"])
         for result in results:
-            results_writer.writerow(result)
+            formatted_results.append(
+                {"url": result[0], "ttl": result[1], "message": result[2]}
+            )
+        log.info(f"Writing results to {filename}...")
+        log.debug(f"\n{json.dumps(formatted_results, indent=4)}")
+        json.dump(formatted_results, outfile)
 
 
 def read_csv_input_file(filepath: str) -> list:
