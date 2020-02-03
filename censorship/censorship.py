@@ -1,11 +1,14 @@
 import csv
 import os
+import shutil
 
 # run this from inside of the censorship directory
 
 # get all of the files in the output directory
 dirname = "../output/"
 files = list()
+total_count = 0
+statements = []
 for (dirpath, dirnames, filenames) in os.walk(dirname):
     files += [os.path.join(dirpath, file) for file in filenames]
 
@@ -59,11 +62,37 @@ for file in files:
                     # we may have potentially found censorship
                     if found_tcp != 0:
                         if found_http < found_tcp - 3:
+                            total_count += 1
                             website_url = os.path.basename(file)[:-4]
-                            print(
+                            statement = (
                                 f"Potential censorship found for {website_url}.\n"
-                                f"HTTP hops: {found_http}, TCP hops: {found_tcp}."
+                                f"HTTP hops: {found_http}, TCP hops: {found_tcp}.\n"
                                 f"TCP file:\n{tcp_filepath}\n"
                                 f"HTTP:\n{file}\n\n"
                             )
+                            print(statement)
+                            statements.append(statement)
+
+                            # make a directory for each website
+                            output_directory = os.path.join(
+                                "censorship_report", website_url
+                            )
+                            os.makedirs(output_directory, exist_ok=True)
+
+                            # copy the http and tcp traceroute files for reference
+                            shutil.copyfile(
+                                file, os.path.join(output_directory, "http.csv")
+                            )
+                            shutil.copyfile(
+                                tcp_filepath, os.path.join(output_directory, "tcp.csv")
+                            )
+
+
+with open("censorship_report.txt", "w") as censorship_report:
+    for statement in statements:
+        censorship_report.write(statement)
+
+    statement = f"Total count of censorship: {total_count}"
+    print(statement)
+    censorship_report.write(statement)
 
