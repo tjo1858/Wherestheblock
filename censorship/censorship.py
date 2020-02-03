@@ -1,8 +1,10 @@
 import csv
 import os
 
+# run this from inside of the censorship directory
+
 # get all of the files in the output directory
-dirname = "output"
+dirname = "../output/"
 files = list()
 for (dirpath, dirnames, filenames) in os.walk(dirname):
     files += [os.path.join(dirpath, file) for file in filenames]
@@ -11,11 +13,11 @@ for file in files:
 
     # first, find all of the http output
     linesplit = file.split("/")
-    protocol = linesplit[1]
+    protocol = linesplit[2]
     if protocol == "http":
 
         # now, grab the corresponding tcp traceroute (if exists)
-        linesplit[1] = "tcp"
+        linesplit[2] = "tcp"
         tcp_filepath = "/".join(linesplit)
 
         if os.path.exists(tcp_filepath):
