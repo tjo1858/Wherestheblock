@@ -20,6 +20,12 @@ from scapy.all import DNS, DNSQR, DNSRR, ICMP, IP, UDP, RandShort, sr1, tracerou
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 
+asn_reader = geoip2.database.Reader(
+    os.path.join("geolite_databases", "GeoLite2-ASN.mmdb")
+)
+
+city_reader = geoip2.database.Reader("geolite_databases/GeoLite2-City.mmdb")
+
 
 def dns_lookup(ip_address: str) -> str:
     """
@@ -62,15 +68,12 @@ def geolocate(target: str) -> str:
     :return: string containing the {city}, {country}, if found
     """
 
-    reader = geoip2.database.Reader("geolite_databases/GeoLite2-City.mmdb")
     location = ""
     try:
-        geolookup = reader.city(target)
+        geolookup = city_reader.city(target)
     except geoip2.errors.AddressNotFoundError:
         log.debug(f"Unable to get geolocation data for {target}.")
-        return
-
-        location = geolookup["country"]
+        return location
 
     if geolookup.country.name:
         location += f"{geolookup.country.name}"
@@ -79,6 +82,21 @@ def geolocate(target: str) -> str:
         location += f", {geolookup.city.name}"
 
     return location
+
+
+def asn_lookup(target: str):
+
+    try:
+        geolookup = asn_reader.asn(target)
+    except geoip2.errors.AddressNotFoundError:
+        log.debug(f"Unable to get ASN data for {target}.")
+        return ""
+
+    return (
+        str(geolookup.autonomous_system_number)
+        + ":"
+        + geolookup.autonomous_system_organization
+    )
 
 
 def get_rtt(sent_time: str, received_time: str) -> str:
@@ -212,8 +230,9 @@ def icmp_traceroute(target: str, hops: int, timeout=5) -> None:
     :param timeout: packet timeout in seconds
     :return: None
     """
-
-    results = []
+    print(
+        f"\033[1m{'TTL': <5} {'IP' : <25} {'DNS' :<40} {'GEOLOCATION' : <40} {'ASN': <20} RTT\033[0m"
+    )
     for hop in range(1, hops):
 
         pkt = IP(dst=target, ttl=hop) / ICMP()
@@ -225,17 +244,18 @@ def icmp_traceroute(target: str, hops: int, timeout=5) -> None:
         else:
             dns = dns_lookup(reply.src) or ""
             location = geolocate(reply.src)
-            total_time = get_rtt(pkt.sent_time, reply.time)
+            asn = asn_lookup(reply.src)
+            rtt = get_rtt(pkt.sent_time, reply.time)
 
             if reply.type == 3:
                 log.info(
-                    f"{hop:<5} {reply.src} {dns:<40} {location:<40} {total_time}ms ✓"
+                    f"{hop:<5} {reply.src} {dns:<40} {location:<40} {asn:<20} {rtt}ms ✓"
                 )
                 break
 
             else:
                 log.info(
-                    f"{hop:<5} {reply.src:<25} {dns:<40} {location:<40} {total_time}ms"
+                    f"{hop:<5} {reply.src:<25} {dns:<40} {location:<40} {asn:<20} {rtt}ms"
                 )
 
     log.info("Traceroute complete.")
