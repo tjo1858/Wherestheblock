@@ -2,6 +2,7 @@
 
 import argparse
 import csv
+import json
 import logging
 import os
 import pathlib
@@ -9,41 +10,33 @@ import socket
 import ssl
 import subprocess
 import sys
-import json
 
 import coloredlogs
 import geoip2.database
 import geoip2.errors
 from fake_useragent import UserAgent
-from scapy.all import DNS, DNSQR, UDP, RandShort, traceroute
+from scapy.all import DNS, DNSQR, DNSRR, ICMP, IP, UDP, RandShort, sr1, traceroute
 
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 
 
-def dns_lookup(target: str, truncate_length: int = None) -> str:
+def dns_lookup(ip_address: str) -> str:
     """
     Perform a reverse DNS lookup on a host IP address.
-    :param target: target IP address
-    :param truncate_length: truncate the address to this many characters,
-        if desired (for output purposes)
+    :param ip_Address: target IP address
     :return: DNS address of provided IP address
     """
 
-    try:
-        dns_host = socket.gethostbyaddr(target)[0]
-    except socket.error as e:
-        log.debug(f"Unable to perform reverse DNS lookup for {target}: {e}")
-        return ""
-
-    if truncate_length:
-        dns_host = (
-            (dns_host[:truncate_length] + "...")
-            if len(dns_host) > truncate_length
-            else dns_host
-        )
-
-    return dns_host
+    addr = ".".join(ip_address.split(".")[::-1])
+    answer = sr1(
+        IP(dst="8.8.8.8")
+        / UDP(dport=53)
+        / DNS(rd=1, qd=DNSQR(qname=f"{addr}.in-addr.arpa", qtype="PTR")),
+        verbose=0,
+    )
+    if answer[DNS].ancount > 0:
+        return answer[DNSRR][0].rdata.decode()
 
 
 def ip_lookup(hostname: str) -> str:
@@ -70,20 +63,33 @@ def geolocate(target: str) -> str:
     """
 
     reader = geoip2.database.Reader("geolite_databases/GeoLite2-City.mmdb")
-    location = {}
+    location = ""
     try:
         geolookup = reader.city(target)
     except geoip2.errors.AddressNotFoundError:
         log.debug(f"Unable to get geolocation data for {target}.")
         return
 
-    if geolookup.city.name:
-        location["city"] = geolookup.city.name
+        location = geolookup["country"]
 
     if geolookup.country.name:
-        location["country"] = geolookup.country.name
+        location += f"{geolookup.country.name}"
+
+    if geolookup.city.name:
+        location += f", {geolookup.city.name}"
 
     return location
+
+
+def get_rtt(sent_time: str, received_time: str) -> str:
+    """
+    Compute the total RTT for a packet.
+    :param sent_time: timestamp of packet that was sent
+    :param received_time: timestamp of packet that was received
+    :return: total RTT in milliseconds
+    """
+
+    return round((received_time - sent_time) * 1000, 3)
 
 
 def dns_traceroute(url: str, hops: int) -> None:
@@ -199,15 +205,40 @@ def tls_traceroute(url: str, hops: int) -> None:
     write_results(filename, results)
 
 
-def icmp_traceroute(url: str, hops: int) -> None:
+def icmp_traceroute(target: str, hops: int, timeout=5) -> None:
     """
-    Call the native traceroute for ICMP
     :param url: target url
     :param hops: max number of hops to travel
+    :param timeout: packet timeout in seconds
     :return: None
     """
 
-    call_native_traceroute("ICMP", url, hops)
+    results = []
+    for hop in range(1, hops):
+
+        pkt = IP(dst=target, ttl=hop) / ICMP()
+        reply = sr1(pkt, verbose=0, timeout=timeout)
+
+        if reply is None:
+            log.info(f"{hop:<5} *")
+
+        else:
+            dns = dns_lookup(reply.src) or ""
+            location = geolocate(reply.src)
+            total_time = get_rtt(pkt.sent_time, reply.time)
+
+            if reply.type == 3:
+                log.info(
+                    f"{hop:<5} {reply.src} {dns:<40} {location:<40} {total_time}ms ✓"
+                )
+                break
+
+            else:
+                log.info(
+                    f"{hop:<5} {reply.src:<25} {dns:<40} {location:<40} {total_time}ms"
+                )
+
+    log.info("Traceroute complete.")
 
 
 def tcp_traceroute(url: str, hops: int) -> None:
