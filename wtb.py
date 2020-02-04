@@ -85,7 +85,11 @@ def geolocate(target: str) -> str:
 
 
 def asn_lookup(target: str):
-
+    """
+    Lookup an IP addresses ASN organization and system number.
+    :param target: input IP address
+    :return: string containing {system number}:{organization}
+    """
     try:
         geolookup = asn_reader.asn(target)
     except geoip2.errors.AddressNotFoundError:
@@ -110,7 +114,7 @@ def get_rtt(sent_time: str, received_time: str) -> str:
     return round((received_time - sent_time) * 1000, 3)
 
 
-def dns_traceroute(url: str, hops: int) -> None:
+def dns_traceroute(url: str, hops: int, timeout: int) -> None:
     """
     Perform a DNS traceroute (needs work)
     :param url: target url
@@ -124,7 +128,7 @@ def dns_traceroute(url: str, hops: int) -> None:
     print(unans.summary())
 
 
-def http_traceroute(url: str, hops: int) -> None:
+def http_traceroute(url: str, hops: int, timeout: int) -> None:
     """
     Perform an HTTP get request traceroute.
     :param url: target url
@@ -177,7 +181,7 @@ def http_traceroute(url: str, hops: int) -> None:
     write_results(filename, results)
 
 
-def tls_traceroute(url: str, hops: int) -> None:
+def tls_traceroute(url: str, hops: int, timeout: int) -> None:
     """
     Perform a TLS handshake traceroute.
     :param url: target url
@@ -223,7 +227,7 @@ def tls_traceroute(url: str, hops: int) -> None:
     write_results(filename, results)
 
 
-def icmp_traceroute(target: str, hops: int, timeout=5) -> None:
+def icmp_traceroute(target: str, hops: int, timeout: int) -> None:
     """
     :param url: target url
     :param hops: max number of hops to travel
@@ -261,7 +265,7 @@ def icmp_traceroute(target: str, hops: int, timeout=5) -> None:
     log.info("Traceroute complete.")
 
 
-def tcp_traceroute(url: str, hops: int) -> None:
+def tcp_traceroute(url: str, hops: int, timeout: int) -> None:
     """
     Call the native traceroute for TCP
     :param url: target url
@@ -271,7 +275,7 @@ def tcp_traceroute(url: str, hops: int) -> None:
     call_native_traceroute("TCP", url, hops)
 
 
-def udp_traceroute(url: str, hops: int) -> None:
+def udp_traceroute(url: str, hops: int, timeout: int) -> None:
     """
     Call the native traceroute for UDP
     :param url: target url
@@ -304,7 +308,7 @@ def call_native_traceroute(protocol: str, url: str, hops: int) -> None:
     write_results(filename, results)
 
 
-def lft_traceroute(url: str, hops: int) -> None:
+def lft_traceroute(url: str, hops: int, timeout: int) -> None:
     """
     Perform an lft traceroute.
     :param url: target URL
@@ -328,7 +332,7 @@ def lft_traceroute(url: str, hops: int) -> None:
 
 def write_results(filename: str, results: list) -> None:
     """
-    Write results out to a CSV file.
+    Write results out to a JSON file.
     :param filename: full filepath to write results to
     :param results: list of results, each entry being a list consisting of 
         [ url, hop, data received]
@@ -403,6 +407,13 @@ if __name__ == "__main__":
         help="Set the max time-to-live (max number of hops) used in outgoing probe packets.",
     )
     parser.add_argument(
+        "-T",
+        "--timeout",
+        default=5,
+        type=int,
+        help="Set the time (in seconds) to wait for a response to a probe (default 5 sec.).",
+    )
+    parser.add_argument(
         "-v",
         "--verbose",
         action="store_true",
@@ -446,4 +457,4 @@ if __name__ == "__main__":
     traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol.")
 
     for target in targets:
-        traceroute_func(target, args.max_ttl)
+        traceroute_func(target, args.max_ttl, args.timeout)
