@@ -36,6 +36,9 @@ class trcrt:
         elif self.protocol == "udp":
             self.payload = UDP() / DNS(qd=DNSQR(qname="test.com"))
 
+        elif self.protocol == "http":
+            self.payload = TCP(dport=80, flags="S")
+
     def run(self):
         log.info(
             f"\033[1m{'TTL': <5} {'IP' : <25} {'DNS' :<40} {'GEOLOCATION' : <40} {'ASN': <20} RTT\033[0m"
@@ -52,17 +55,32 @@ class trcrt:
             else:
                 hops.append(self.format_hop(reply, hop, pkt))
 
-                if reply.type == 3:
-                    break
+                if self.protocol == "http":
+                    getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
+                    request = (
+                        IP(dst="www.google.com")
+                        / TCP(
+                            dport=80,
+                            sport=reply[TCP].dport,
+                            seq=reply[TCP].ack,
+                            ack=reply[TCP].seq + 1,
+                            flags="A",
+                        )
+                        / getStr
+                    )
+                    http_reply = sr1(request, verbose=0)
+                else:
+                    if reply.type == 3:
+                        break
 
-        results = {
+        self.results = {
             "hops": hops,
             "max_ttl": self.max_ttl,
             "timeout": self.timeout,
             "time": str(datetime.now()),
         }
-        log.debug(f"Results: \n{json.dumps(results, indent=4)}")
-        self.write_results(results)
+        log.debug(f"Results: \n{json.dumps(self.results, indent=4)}")
+        self.write_results()
 
     def format_hop(self, reply, hop, pkt) -> dict:
         """
@@ -88,13 +106,9 @@ class trcrt:
 
         return hop_dict
 
-    def write_results(self, results: dict) -> None:
+    def write_results(self) -> None:
         """
         Write results out to a JSON file.
-        :param filename: full filepath to write results to
-        :param results: list of results, each entry being a list consisting of
-            [ url, hop, data received]
-        :return: None
         """
 
         os.makedirs("output", exist_ok=True)
@@ -109,11 +123,10 @@ class trcrt:
             if args.protocol not in output["protocol"]:
                 output["protocol"][self.protocol] = []
 
-        output["protocol"][self.protocol].append(results)
+        output["protocol"][self.protocol].append(self.results)
 
         with open(filename, "w") as outfile:
             log.info(f"Writing results to {filename}...")
-            log.debug(f"\n{json.dumps(results, indent=4)}")
             json.dump(output, outfile)
 
 
