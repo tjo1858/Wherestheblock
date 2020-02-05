@@ -43,7 +43,7 @@ class trcrt:
         hops = []
 
         for hop in range(1, self.max_ttl + 1):
-            pkt = IP(dst=self.target, ttl=hop) / ICMP()
+            pkt = IP(dst=self.target, ttl=hop) / self.payload
             reply = sr1(pkt, verbose=0, timeout=self.timeout)
 
             if reply is None:
@@ -114,7 +114,7 @@ class trcrt:
         with open(filename, "w") as outfile:
             log.info(f"Writing results to {filename}...")
             log.debug(f"\n{json.dumps(results, indent=4)}")
-            json.dump(results, outfile)
+            json.dump(output, outfile)
 
 
 def read_csv_input_file(filepath: str) -> list:
