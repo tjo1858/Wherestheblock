@@ -14,6 +14,7 @@ import sys
 import coloredlogs
 import geoip2.database
 import geoip2.errors
+from datetime import datetime
 from fake_useragent import UserAgent
 from scapy.all import DNS, DNSQR, DNSRR, ICMP, IP, UDP, RandShort, sr1, traceroute
 
@@ -229,7 +230,7 @@ def tls_traceroute(url: str, hops: int, timeout: int) -> None:
     write_results(filename, results)
 
 
-def icmp_traceroute(target: str, hops: int, timeout: int) -> None:
+def icmp_traceroute(url: str, hops: int, timeout: int, output: dict) -> None:
     """
     :param url: target url
     :param hops: max number of hops to travel
@@ -242,31 +243,104 @@ def icmp_traceroute(target: str, hops: int, timeout: int) -> None:
     print(
         f"\033[1m{'TTL': <5} {'IP' : <25} {'DNS' :<40} {'GEOLOCATION' : <40} {'ASN': <20} RTT\033[0m"
     )
+
+    traceroute_dict = dict()
+    traceroute_dict["hops"] = []
+    traceroute_dict["max_ttl"] = timeout
+    traceroute_dict["time"] = str(datetime.now())
+
     for hop in range(1, hops):
 
-        pkt = IP(dst=target, ttl=hop) / ICMP()
+        pkt = IP(dst=url, ttl=hop) / ICMP()
         reply = sr1(pkt, verbose=0, timeout=timeout)
 
         if reply is None:
             log.info(f"{hop:<5} *")
 
         else:
-            dns = dns_lookup(reply.src) or ""
-            location = geolocate(reply.src)
-            asn = asn_lookup(reply.src)
-            rtt = get_rtt(pkt.sent_time, reply.time)
+            traceroute_dict["hops"].append(format_hop(reply, hop, pkt))
 
             if reply.type == 3:
-                log.info(
-                    f"{hop:<5} {reply.src} {dns:<40} {location:<40} {asn:<20} {rtt}ms ✓"
-                )
                 break
 
-            else:
-                log.info(
-                    f"{hop:<5} {reply.src:<25} {dns:<40} {location:<40} {asn:<20} {rtt}ms"
-                )
+    log.info("Traceroute complete.")
 
+    output["protocol"]["icmp"].append(traceroute_dict)
+
+    filename = os.path.join(
+        pathlib.Path().absolute(), "new_output", f"{url}.json"
+    )
+    write_results(filename, output)
+
+def format_hop(reply, hop, pkt) -> dict:
+    """
+    Format traceroute reply results into json
+    :param reply: scapy reply packet
+    :param hop: hop number
+    :param pkt: original packet sent out
+    :return: hop results dictionary
+    """
+    hop_dict = dict()
+    hop_dict["ttl"] = hop
+    dns = dns_lookup(reply.src) or ""
+    hop_dict["dns"] = dns
+    location = geolocate(reply.src)
+    hop_dict["location"] = location
+    asn = asn_lookup(reply.src)
+    hop_dict["asn"] = asn
+    rtt = get_rtt(pkt.sent_time, reply.time)
+    hop_dict["rtt"] = rtt
+
+    if reply.type == 3:
+        log.info(
+            f"{hop:<5} {reply.src} {dns:<40} {location:<40} {asn:<20} {rtt}ms ✓"
+        )
+    else:
+        log.info(
+            f"{hop:<5} {reply.src:<25} {dns:<40} {location:<40} {asn:<20} {rtt}ms"
+        )
+
+    return hop_dict
+
+def udp_traceroute(url: str, hops: int, timeout: int, output: dict) -> None:
+    """
+    Call the native traceroute for UDP
+    :param url: target url
+    :param hops: max number of hops to travel
+    :return: None
+    """
+    print(
+        f"\033[1m{'TTL': <5} {'IP' : <25} {'DNS' :<40} {'GEOLOCATION' : <40} {'ASN': <20} RTT\033[0m"
+    )
+
+    traceroute_dict = dict()
+    traceroute_dict["hops"] = []
+    traceroute_dict["max_ttl"] = timeout
+    traceroute_dict["time"] = str(datetime.now())
+
+    for hop in range(1, hops):
+
+        pkt = IP(dst=target, ttl=hop) / UDP()
+        reply = sr1(pkt, verbose=0, timeout=timeout)
+
+        if reply is None:
+            log.info(f"{hop:<5} *")
+
+        else:
+            traceroute_dict["hops"].append(format_hop(reply, hop, pkt))
+
+            if reply.type == 3:
+                break
+
+
+    output["protocol"]["udp"].append(traceroute_dict)
+    #host_ip = ip_lookup(url)
+    #country = geolocate(host_ip)["country"]
+
+    filename = os.path.join(
+        pathlib.Path().absolute(), "new_output", f"{url}.json"
+    )
+    write_results(filename, output)
     log.info("Traceroute complete.")
 
 
@@ -278,16 +352,6 @@ def tcp_traceroute(url: str, hops: int, timeout: int) -> None:
     :return: None
     """
     call_native_traceroute("TCP", url, hops)
-
-
-def udp_traceroute(url: str, hops: int, timeout: int) -> None:
-    """
-    Call the native traceroute for UDP
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-    call_native_traceroute("UDP", url, hops)
 
 
 def call_native_traceroute(protocol: str, url: str, hops: int) -> None:
@@ -335,25 +399,20 @@ def lft_traceroute(url: str, hops: int, timeout: int) -> None:
     write_results(filename, results)
 
 
-def write_results(filename: str, results: list) -> None:
+def write_results(filename: str, results: dict) -> None:
     """
     Write results out to a JSON file.
     :param filename: full filepath to write results to
-    :param results: list of results, each entry being a list consisting of 
+    :param results: list of results, each entry being a list consisting of
         [ url, hop, data received]
     :return: None
     """
 
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-    formatted_results = []
     with open(filename, "w") as outfile:
-        for result in results:
-            formatted_results.append(
-                {"url": result[0], "ttl": result[1], "message": result[2]}
-            )
         log.info(f"Writing results to {filename}...")
-        log.debug(f"\n{json.dumps(formatted_results, indent=4)}")
-        json.dump(formatted_results, outfile)
+        log.debug(f"\n{json.dumps(results, indent=4)}")
+        json.dump(results, outfile)
 
 
 def read_csv_input_file(filepath: str) -> list:
@@ -462,4 +521,19 @@ if __name__ == "__main__":
     traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol.")
 
     for target in targets:
-        traceroute_func(target, args.max_ttl, args.timeout)
+        filename = os.path.join(
+            pathlib.Path().absolute(), "new_output", f"{target}.json"
+        )
+
+        if not os.path.exists(filename):
+            output = dict()
+            output["url"] = target
+            output["protocol"] = dict()
+            output["protocol"][args.protocol] = []
+        else:
+            with open(filename, 'r') as f:
+                output = json.load(f)
+            if args.protocol not in output["protocol"]:
+                output["protocol"][args.protocol] = []
+
+        traceroute_func(target, args.max_ttl, args.timeout, output)
