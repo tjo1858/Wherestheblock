@@ -24,7 +24,9 @@ asn_reader = geoip2.database.Reader(
     os.path.join("geolite_databases", "GeoLite2-ASN.mmdb")
 )
 
-city_reader = geoip2.database.Reader("geolite_databases/GeoLite2-City.mmdb")
+city_reader = geoip2.database.Reader(
+    os.path.join("geolite_databases", "GeoLite2-City.mmdb")
+)
 
 
 def dns_lookup(ip_address: str) -> str:
@@ -234,6 +236,9 @@ def icmp_traceroute(target: str, hops: int, timeout: int) -> None:
     :param timeout: packet timeout in seconds
     :return: None
     """
+    # tcp: TCP(dport=53,flags="S"))
+    # udp: UDP() / DNS(qd=DNSQR(qname="test.com"))
+
     print(
         f"\033[1m{'TTL': <5} {'IP' : <25} {'DNS' :<40} {'GEOLOCATION' : <40} {'ASN': <20} RTT\033[0m"
     )
