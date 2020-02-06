@@ -3,27 +3,35 @@
 import argparse
 import json
 import logging
+import multiprocessing
 import os
 import socket
-import time
 import sys
+import time
 from datetime import datetime
+from itertools import repeat
 
 import coloredlogs
-from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1
-
+from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1, load_layer
 from utils.asn_lookup import asn_lookup
 from utils.csv_utils import read_csv_input_file
 from utils.dns_lookup import dns_lookup
 from utils.geolocate import geolocate
 from utils.rtt import get_rtt
 
+logging.getLogger("scapy").setLevel(logging.ERROR)
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 
 
 class Traceroute(dict):
-    def __init__(self, target, protocol="icmp", max_ttl=30, timeout=5):
+    """
+    Represents an individual traceroute to a target.
+    """
+
+    def __init__(
+        self, target: str, protocol: str = "icmp", max_ttl: int = 30, timeout: int = 5
+    ) -> None:
         self.target = target
         self.max_ttl = max_ttl
         self.timeout = timeout
@@ -41,12 +49,17 @@ class Traceroute(dict):
             self.payload = UDP() / DNS(qd=DNSQR(qname="test.com"))
 
         elif self.protocol == "http":
+            load_layer("http")
             self.payload = TCP(dport=80, flags="S")
 
-    def run(self):
-        log.info(
-            f"\033[1m{'TTL':<5} {'IP':<20} {'DNS':40} {'GEOLOCATION':40} {'ASN':20} RTT\033[0m"
-        )
+        self.run()
+        return
+
+    def run(self) -> None:
+        """
+        Run the traceroute to the target, taking into account predetermined
+        maximum hop count, protocol, and timeout.
+        """
 
         for ttl in range(1, self.max_ttl + 1):
             try:
@@ -64,8 +77,11 @@ class Traceroute(dict):
                 return
 
             else:
+                # no response, endpoint is likely dropping this traffic
                 if reply is None:
-                    log.info(f"{ttl:5} *")
+                    self.hops.append(
+                        Hop(source="*", ttl=ttl, sent_time=pkt.sent_time, reply_time="")
+                    )
 
                 else:
                     hop = Hop(
@@ -74,38 +90,77 @@ class Traceroute(dict):
                         sent_time=pkt.sent_time,
                         reply_time=reply.time,
                     )
-                    log.info(hop)
-                    self.hops.append(vars(hop))
 
                     if reply.haslayer(ICMP):
                         if reply.type == 3:
-                            break
+                            hop.response = "✓"
 
                     else:
+                        # if we received a response back that is not ICMP,
+                        # we likely received back a SYN/ACK for an HTTP request.
+                        # respond with an ACK and our desired target.
+                        # TODO: handle the response
+
                         if self.protocol == "http":
-                            getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
-                            request = (
-                                IP(dst="www.google.com")
-                                / TCP(
-                                    dport=80,
-                                    sport=reply[TCP].dport,
-                                    seq=reply[TCP].ack,
-                                    ack=reply[TCP].seq + 1,
-                                    flags="A",
-                                )
-                                / getStr
+
+                            # first, save the hop response for the initial SYN/ACK
+                            self.hops.append(hop)
+
+                            # now, send the HTTP request to the target
+                            request_data = f"GET / HTTP/1.1\r\nHost: {self.target}\r\n"
+                            http_request = IP(dst=self.target) / TCP() / request_data
+                            http_reply = sr1(
+                                http_request, verbose=0, timeout=self.timeout
                             )
-                            http_reply = sr1(request, verbose=0)
+
+                            # if we got a reply, save it with the TCP flags
+                            # TODO: decide if we want to save the packet data?
+                            if http_reply:
+                                self.hops.append(
+                                    Hop(
+                                        source=http_reply.src,
+                                        ttl=ttl,
+                                        sent_time=http_request.sent_time,
+                                        reply_time=http_reply.time,
+                                        response=http_reply.sprintf("%TCP.flags%"),
+                                    )
+                                )
+                                break
+                            # otherwise, we got no response
+                            else:
+                                hop = Hop(
+                                    source="",
+                                    ttl=ttl,
+                                    sent_time=http_request.sent_time,
+                                    reply_time=0,
+                                )
+
+                    self.hops.append(hop)
 
         self.write_results()
 
     def write_results(self) -> None:
         """
-        Write results out to a JSON file.
+        Write results out to a JSON file. Additionally, receive the multiprocessing
+        lock and write out our results to stdout.
         """
+        filename = os.path.join("output", self.target + ".json")
+
+        # acquire the lock so we do not garble up output on stdout
+        # for multiple targets
+        lock.acquire()
+        log.info(
+            f"\033[1m{'TTL':<5} {'IP':<20} {'DNS':40} {'GEOLOCATION':40} {'ASN':20} {'RTT':8} RESPONSE\033[0m"
+        )
+        for hop in self.hops:
+            log.info(hop)
+        log.info(f"\033[1mWriting results to {filename}...\033[0m")
+        lock.release()
+
+        # rewrite the hop list as dictionaries (maybe this can be done more elegantly)
+        self.hops = [vars(hop) for hop in self.hops]
 
         os.makedirs("output", exist_ok=True)
-        filename = os.path.join("output", self.target + ".json")
 
         results = {
             "hops": self.hops,
@@ -114,43 +169,62 @@ class Traceroute(dict):
             "time": str(datetime.now()),
         }
 
+        # if we have no output file already existing, we will create one
         if not os.path.exists(filename):
             output = {"url": self.target, "protocol": {self.protocol: []}}
         else:
+            # otherwise, we will load it and append the results for this
+            # traceroute to the list for the given protocol
             with open(filename, "r") as f:
                 output = json.load(f)
 
-            if args.protocol not in output["protocol"]:
+            if self.protocol not in output["protocol"].keys():
                 output["protocol"][self.protocol] = []
 
         output["protocol"][self.protocol].append(results)
 
         with open(filename, "w") as outfile:
-            log.info(f"Writing results to {filename}...")
             json.dump(output, outfile)
 
 
 class Hop(dict):
-    def __init__(self, source, ttl, sent_time, reply_time):
+    """
+    Represents an individual hop en route to a target.
+    """
+
+    def __init__(
+        self, source: str, ttl: int, sent_time: int, reply_time: int, response: str = ""
+    ) -> None:
         self.source = source
         self.ttl = ttl
         self.location = geolocate(source)
         self.asn = asn_lookup(source)
         self.rtt = get_rtt(sent_time, reply_time)
         self.dns = dns_lookup(source) or ""
+        self.extra_data = ""
+        self.response = response
 
     def __getattr__(self, attr):
         return self[attr]
 
     def __repr__(self):
         return (
-            f"{self.ttl:<5}"
-            f"{self.source:<20.20}"
-            f"{self.dns:<40.40}"
-            f"{self.location:<40.40}"
-            f"{self.asn:<20.20}"
-            f"{self.rtt}ms"
+            f"{self.ttl:<5} "
+            f"{self.source:<20.20} "
+            f"{self.dns:<40.40} "
+            f"{self.location:<40.40} "
+            f"{self.asn:<20.20} "
+            f"{self.rtt:<8.8} "
+            f"{self.response}"
         )
+
+
+def init(stdout_lock: multiprocessing.Lock) -> None:
+    """
+    Initialize the global multiprocessing lock for output to stdout.
+    """
+    global lock
+    lock = stdout_lock
 
 
 if __name__ == "__main__":
@@ -184,6 +258,12 @@ if __name__ == "__main__":
         help="Set the time (in seconds) to wait for a response to a probe (default 5 sec.).",
     )
     parser.add_argument(
+        "--threads",
+        default=4,
+        type=int,
+        help="Maximum number of concurrent traceroutes.",
+    )
+    parser.add_argument(
         "-v",
         "--verbose",
         action="store_true",
@@ -198,12 +278,6 @@ if __name__ == "__main__":
             level="DEBUG", fmt="%(asctime)s - %(levelname)s - %(message)s"
         )
 
-    # requires either a CSV input file or a target address
-    if not args.csv and not args.target:
-        log.error("You must provide either a target or an input file. Exiting...")
-        parser.print_help()
-        sys.exit(1)
-
     targets = []
 
     if args.csv:
@@ -214,15 +288,37 @@ if __name__ == "__main__":
     elif args.target:
         targets.append(args.target)
 
+    else:
+        log.error("You must provide either a target or an input file. Exiting...")
+        parser.print_help()
+        sys.exit(1)
+
+    # only spawn multiple threads if we have multiple targets
+    if len(targets) < args.threads:
+        thread_count = len(targets)
+    else:
+        thread_count = args.threads
+
     start_time = time.time()
 
-    for target in targets:
-        traceroute = Traceroute(
-            target=target,
-            protocol=args.protocol,
-            max_ttl=args.max_ttl,
-            timeout=args.timeout,
+    # create a lock for the multiprocessing pool for output to stdout
+    stdout_lock = multiprocessing.Lock()
+
+    # initialize a thread pool for each target in the list
+    with multiprocessing.Pool(
+        processes=thread_count, initializer=init, initargs=(stdout_lock,)
+    ) as pool:
+
+        # zip up the arguments as all of the targets, repeating the protocol,
+        # max_ttl, and timeout for each individual traceroute
+        pool.starmap(
+            Traceroute,
+            zip(
+                targets,
+                repeat(args.protocol),
+                repeat(args.max_ttl),
+                repeat(args.timeout),
+            ),
         )
-        traceroute.run()
 
     log.info(f"Total elapsed time: {time.time() - start_time:.2f}")
