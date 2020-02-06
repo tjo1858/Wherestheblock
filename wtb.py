@@ -12,7 +12,8 @@ from datetime import datetime
 from itertools import repeat
 
 import coloredlogs
-from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1, load_layer
+from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1
+
 from utils.asn_lookup import asn_lookup
 from utils.csv_utils import read_csv_input_file
 from utils.dns_lookup import dns_lookup
@@ -49,7 +50,6 @@ class Traceroute(dict):
             self.payload = UDP() / DNS(qd=DNSQR(qname="test.com"))
 
         elif self.protocol == "http":
-            load_layer("http")
             self.payload = TCP(dport=80, flags="S")
 
         self.run()
@@ -324,14 +324,18 @@ if __name__ == "__main__":
 
         # zip up the arguments as all of the targets, repeating the protocol,
         # max_ttl, and timeout for each individual traceroute
-        pool.starmap(
-            Traceroute,
-            zip(
-                targets,
-                repeat(args.protocol),
-                repeat(args.max_ttl),
-                repeat(args.timeout),
-            ),
-        )
+        try:
+            pool.starmap(
+                Traceroute,
+                zip(
+                    targets,
+                    repeat(args.protocol),
+                    repeat(args.max_ttl),
+                    repeat(args.timeout),
+                ),
+            )
+        except KeyboardInterrupt:
+            log.warning("\nKeyboard interrupt received, exiting...")
+            pool.close()
 
-    log.info(f"Total elapsed time: {time.time() - start_time:.2f}")
+    log.info(f"Total elapsed time: {time.time() - start_time:.2f} seconds.")
