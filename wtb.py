@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import socket
+import time
 import sys
 from datetime import datetime
 
@@ -165,7 +166,7 @@ if __name__ == "__main__":
         "--protocol",
         default="udp",
         type=str,
-        choices=["udp", "tcp", "icmp", "lft", "http", "dns", "tls"],
+        choices=["udp", "tcp", "icmp", "http", "dns", "tls"],
         help="protocol choice (default: %(default)s)",
     )
     parser.add_argument(
@@ -213,6 +214,8 @@ if __name__ == "__main__":
     elif args.target:
         targets.append(args.target)
 
+    start_time = time.time()
+
     for target in targets:
         traceroute = Traceroute(
             target=target,
@@ -221,3 +224,5 @@ if __name__ == "__main__":
             timeout=args.timeout,
         )
         traceroute.run()
+
+    log.info(f"Total elapsed time: {time.time() - start_time:.2f}")
