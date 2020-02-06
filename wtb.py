@@ -32,12 +32,12 @@ class Traceroute(dict):
     def __init__(
         self, target: str, protocol: str = "icmp", max_ttl: int = 30, timeout: int = 5
     ) -> None:
-        self.target = target
-        self.max_ttl = max_ttl
-        self.timeout = timeout
-        self.protocol = protocol
         self.hops = []
-        self.time = datetime.now()
+        self.max_ttl = max_ttl
+        self.protocol = protocol
+        self.target = target
+        self.time = str(datetime.now())
+        self.timeout = timeout
 
         if self.protocol == "icmp":
             self.payload = ICMP()
@@ -165,7 +165,7 @@ class Traceroute(dict):
             "hops": self.hops,
             "max_ttl": self.max_ttl,
             "timeout": self.timeout,
-            "time": str(datetime.now()),
+            "time": self.time,
         }
 
         # if we have no output file already existing, we will create one
@@ -200,7 +200,6 @@ class Hop(dict):
         self.asn = asn_lookup(source)
         self.rtt = get_rtt(sent_time, reply_time)
         self.dns = dns_lookup(source) or ""
-        self.extra_data = ""
         self.response = response
 
     def __repr__(self):
@@ -242,7 +241,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-m",
         "--max_ttl",
-        default=64,
+        default=30,
         type=int,
         help="Set the max time-to-live (max number of hops) used in outgoing probe packets.",
     )
@@ -299,6 +298,8 @@ if __name__ == "__main__":
     with multiprocessing.Pool(
         processes=thread_count, initializer=init, initargs=(multiprocessing.Lock(),)
     ) as pool:
+
+        log.info("Initializing traceroute...")
 
         # zip up the arguments as all of the targets, repeating the protocol,
         # max_ttl, and timeout for each individual traceroute
