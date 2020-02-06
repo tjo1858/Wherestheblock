@@ -196,11 +196,23 @@ class Hop(dict):
     ) -> None:
         self.source = source
         self.ttl = ttl
-        self.location = geolocate(source)
-        self.asn = asn_lookup(source)
         self.rtt = get_rtt(sent_time, reply_time)
-        self.dns = dns_lookup(source) or ""
         self.response = response
+
+        if source not in locations.keys():
+            locations[source] = geolocate(source)
+
+        self.location = locations[source]
+
+        if source not in asns.keys():
+            asns[source] = asn_lookup(source)
+
+        self.asn = asns[source]
+
+        if source not in dns_records.keys():
+            dns_records[source] = dns_lookup(source) or ""
+
+        self.dns = dns_records[source]
 
     def __repr__(self):
         return (
@@ -221,6 +233,15 @@ def init(stdout_lock: multiprocessing.Lock) -> None:
     global lock
     lock = stdout_lock
 
+    global dns_records
+    dns_records = {}
+
+    global locations
+    locations = {}
+
+    global asns
+    asns = {}
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("Perform a traceroute against a given target(s).")
@@ -235,7 +256,7 @@ if __name__ == "__main__":
         "--protocol",
         default="udp",
         type=str,
-        choices=["udp", "tcp", "icmp", "http", "dns", "tls"],
+        choices=["udp", "tcp", "icmp", "http", "tls"],
         help="protocol choice (default: %(default)s)",
     )
     parser.add_argument(
