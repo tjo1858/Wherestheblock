@@ -42,7 +42,7 @@ class trcrt:
 
     def run(self):
         log.info(
-            f"\033[1m{'TTL': <5} {'IP' : <25} {'DNS' :<40} {'GEOLOCATION' : <40} {'ASN': <20} RTT\033[0m"
+            f"\033[1m{'TTL':5} {'IP':20} {'DNS':40} {'GEOLOCATION':40} {'ASN':20} RTT\033[0m"
         )
         hops = []
 
@@ -66,26 +66,28 @@ class trcrt:
                     log.info(f"{hop:<5} *")
 
                 else:
+
                     hops.append(self.format_hop(reply, hop, pkt))
 
-                    if self.protocol == "http":
-                        getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
-                        request = (
-                            IP(dst="www.google.com")
-                            / TCP(
-                                dport=80,
-                                sport=reply[TCP].dport,
-                                seq=reply[TCP].ack,
-                                ack=reply[TCP].seq + 1,
-                                flags="A",
-                            )
-                            / getStr
-                        )
-                        http_reply = sr1(request, verbose=0)
-
-                    else:
+                    try:
                         if reply.type == 3:
                             break
+
+                    except AttributeError:
+                        if self.protocol == "http":
+                            getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
+                            request = (
+                                IP(dst="www.google.com")
+                                / TCP(
+                                    dport=80,
+                                    sport=reply[TCP].dport,
+                                    seq=reply[TCP].ack,
+                                    ack=reply[TCP].seq + 1,
+                                    flags="A",
+                                )
+                                / getStr
+                            )
+                            http_reply = sr1(request, verbose=0)
 
         self.results = {
             "hops": hops,
@@ -112,9 +114,12 @@ class trcrt:
             "rtt": get_rtt(pkt.sent_time, reply.time),
         }
 
-        output = f"{hop:<5} {reply.src} {hop_dict['dns']:<40} {hop_dict['location']:<40} {hop_dict['asn']:<20} {hop_dict['rtt']}ms"
-        if reply.type == 3:
-            output += " ✓"
+        output = f"{hop:<5} {reply.src:20.20} {hop_dict['dns']:40.40} {hop_dict['location']:40.40} {hop_dict['asn']:20.20} {hop_dict['rtt']}ms"
+        try:
+            if reply.type == 3:
+                output += " ✓"
+        except AttributeError:
+            pass
 
         log.info(output)
 
