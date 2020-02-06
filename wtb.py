@@ -21,12 +21,14 @@ log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 
 
-class trcrt:
+class Traceroute(dict):
     def __init__(self, target, protocol="icmp", max_ttl=30, timeout=5):
         self.target = target
         self.max_ttl = max_ttl
         self.timeout = timeout
         self.protocol = protocol
+        self.hops = []
+        self.time = datetime.now()
 
         if self.protocol == "icmp":
             self.payload = ICMP()
@@ -42,13 +44,12 @@ class trcrt:
 
     def run(self):
         log.info(
-            f"\033[1m{'TTL':5} {'IP':20} {'DNS':40} {'GEOLOCATION':40} {'ASN':20} RTT\033[0m"
+            f"\033[1m{'TTL':<5} {'IP':<20} {'DNS':40} {'GEOLOCATION':40} {'ASN':20} RTT\033[0m"
         )
-        hops = []
 
-        for hop in range(1, self.max_ttl + 1):
+        for ttl in range(1, self.max_ttl + 1):
             try:
-                pkt = IP(dst=self.target, ttl=hop) / self.payload
+                pkt = IP(dst=self.target, ttl=ttl) / self.payload
                 reply = sr1(pkt, verbose=0, timeout=self.timeout)
 
             except socket.gaierror as e:
@@ -63,17 +64,23 @@ class trcrt:
 
             else:
                 if reply is None:
-                    log.info(f"{hop:<5} *")
+                    log.info(f"{ttl:5} *")
 
                 else:
+                    hop = Hop(
+                        source=reply.src,
+                        ttl=ttl,
+                        sent_time=pkt.sent_time,
+                        reply_time=reply.time,
+                    )
+                    log.info(hop)
+                    self.hops.append(vars(hop))
 
-                    hops.append(self.format_hop(reply, hop, pkt))
-
-                    try:
+                    if reply.haslayer(ICMP):
                         if reply.type == 3:
                             break
 
-                    except AttributeError:
+                    else:
                         if self.protocol == "http":
                             getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
                             request = (
@@ -89,41 +96,7 @@ class trcrt:
                             )
                             http_reply = sr1(request, verbose=0)
 
-        self.results = {
-            "hops": hops,
-            "max_ttl": self.max_ttl,
-            "timeout": self.timeout,
-            "time": str(datetime.now()),
-        }
-        log.debug(f"Results: \n{json.dumps(self.results, indent=4)}")
         self.write_results()
-
-    def format_hop(self, reply, hop, pkt) -> dict:
-        """
-        Format traceroute reply results into json
-        :param reply: scapy reply packet
-        :param hop: hop number
-        :param pkt: original packet sent out
-        :return: hop results dictionary
-        """
-        hop_dict = {
-            "ttl": hop,
-            "dns": dns_lookup(reply.src) or "",
-            "location": geolocate(reply.src),
-            "asn": asn_lookup(reply.src),
-            "rtt": get_rtt(pkt.sent_time, reply.time),
-        }
-
-        output = f"{hop:<5} {reply.src:20.20} {hop_dict['dns']:40.40} {hop_dict['location']:40.40} {hop_dict['asn']:20.20} {hop_dict['rtt']}ms"
-        try:
-            if reply.type == 3:
-                output += " ✓"
-        except AttributeError:
-            pass
-
-        log.info(output)
-
-        return hop_dict
 
     def write_results(self) -> None:
         """
@@ -132,6 +105,13 @@ class trcrt:
 
         os.makedirs("output", exist_ok=True)
         filename = os.path.join("output", self.target + ".json")
+
+        results = {
+            "hops": self.hops,
+            "max_ttl": self.max_ttl,
+            "timeout": self.timeout,
+            "time": str(datetime.now()),
+        }
 
         if not os.path.exists(filename):
             output = {"url": self.target, "protocol": {self.protocol: []}}
@@ -142,11 +122,34 @@ class trcrt:
             if args.protocol not in output["protocol"]:
                 output["protocol"][self.protocol] = []
 
-        output["protocol"][self.protocol].append(self.results)
+        output["protocol"][self.protocol].append(results)
 
         with open(filename, "w") as outfile:
             log.info(f"Writing results to {filename}...")
             json.dump(output, outfile)
+
+
+class Hop(dict):
+    def __init__(self, source, ttl, sent_time, reply_time):
+        self.source = source
+        self.ttl = ttl
+        self.location = geolocate(source)
+        self.asn = asn_lookup(source)
+        self.rtt = get_rtt(sent_time, reply_time)
+        self.dns = dns_lookup(source) or ""
+
+    def __getattr__(self, attr):
+        return self[attr]
+
+    def __repr__(self):
+        return (
+            f"{self.ttl:<5}"
+            f"{self.source:<20.20}"
+            f"{self.dns:<40.40}"
+            f"{self.location:<40.40}"
+            f"{self.asn:<20.20}"
+            f"{self.rtt}ms"
+        )
 
 
 if __name__ == "__main__":
@@ -211,7 +214,7 @@ if __name__ == "__main__":
         targets.append(args.target)
 
     for target in targets:
-        traceroute = trcrt(
+        traceroute = Traceroute(
             target=target,
             protocol=args.protocol,
             max_ttl=args.max_ttl,
