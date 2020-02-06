@@ -4,6 +4,7 @@ import argparse
 import json
 import logging
 import os
+import socket
 import sys
 from datetime import datetime
 
@@ -46,32 +47,45 @@ class trcrt:
         hops = []
 
         for hop in range(1, self.max_ttl + 1):
-            pkt = IP(dst=self.target, ttl=hop) / self.payload
-            reply = sr1(pkt, verbose=0, timeout=self.timeout)
+            try:
+                pkt = IP(dst=self.target, ttl=hop) / self.payload
+                reply = sr1(pkt, verbose=0, timeout=self.timeout)
 
-            if reply is None:
-                log.info(f"{hop:<5} *")
+            except socket.gaierror as e:
+                log.error(f"Unable to resolve IP for {self.target}. Error output: {e}")
+                return
+
+            except Exception as e:
+                log.exception(
+                    "Non-socket exception occured:  %s", getattr(e, "__dict__", {})
+                )
+                return
 
             else:
-                hops.append(self.format_hop(reply, hop, pkt))
+                if reply is None:
+                    log.info(f"{hop:<5} *")
 
-                if self.protocol == "http":
-                    getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
-                    request = (
-                        IP(dst="www.google.com")
-                        / TCP(
-                            dport=80,
-                            sport=reply[TCP].dport,
-                            seq=reply[TCP].ack,
-                            ack=reply[TCP].seq + 1,
-                            flags="A",
-                        )
-                        / getStr
-                    )
-                    http_reply = sr1(request, verbose=0)
                 else:
-                    if reply.type == 3:
-                        break
+                    hops.append(self.format_hop(reply, hop, pkt))
+
+                    if self.protocol == "http":
+                        getStr = "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n"
+                        request = (
+                            IP(dst="www.google.com")
+                            / TCP(
+                                dport=80,
+                                sport=reply[TCP].dport,
+                                seq=reply[TCP].ack,
+                                ack=reply[TCP].seq + 1,
+                                flags="A",
+                            )
+                            / getStr
+                        )
+                        http_reply = sr1(request, verbose=0)
+
+                    else:
+                        if reply.type == 3:
+                            break
 
         self.results = {
             "hops": hops,
