@@ -92,8 +92,7 @@ class Traceroute(dict):
                     )
 
                     if reply.haslayer(ICMP):
-                        if reply.type == 3:
-                            hop.response = "✓"
+                        hop.response = reply.sprintf("%ICMP.type%")
 
                     else:
                         # if we received a response back that is not ICMP,
@@ -150,7 +149,7 @@ class Traceroute(dict):
         # for multiple targets
         lock.acquire()
         log.info(
-            f"\033[1m{'TTL':<5} {'IP':<20} {'DNS':40} {'GEOLOCATION':40} {'ASN':20} {'RTT':8} RESPONSE\033[0m"
+            f"\033[1m{'TTL':<5} {'IP':<20} {'DNS':40} {'GEOLOCATION':35} {'ASN':20} {'RTT':8} RESPONSE\033[0m"
         )
         for hop in self.hops:
             log.info(hop)
@@ -204,15 +203,12 @@ class Hop(dict):
         self.extra_data = ""
         self.response = response
 
-    def __getattr__(self, attr):
-        return self[attr]
-
     def __repr__(self):
         return (
             f"{self.ttl:<5} "
             f"{self.source:<20.20} "
             f"{self.dns:<40.40} "
-            f"{self.location:<40.40} "
+            f"{self.location:<35.35} "
             f"{self.asn:<20.20} "
             f"{self.rtt:<8.8} "
             f"{self.response}"
@@ -294,19 +290,14 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # only spawn multiple threads if we have multiple targets
-    if len(targets) < args.threads:
-        thread_count = len(targets)
-    else:
-        thread_count = args.threads
+    thread_count = len(targets) if len(targets) < args.threads else args.threads
 
     start_time = time.time()
 
-    # create a lock for the multiprocessing pool for output to stdout
-    stdout_lock = multiprocessing.Lock()
-
-    # initialize a thread pool for each target in the list
+    # initialize a thread pool for each target in the list with
+    # a lock for the multiprocessing pool for output to stdout
     with multiprocessing.Pool(
-        processes=thread_count, initializer=init, initargs=(stdout_lock,)
+        processes=thread_count, initializer=init, initargs=(multiprocessing.Lock(),)
     ) as pool:
 
         # zip up the arguments as all of the targets, repeating the protocol,
