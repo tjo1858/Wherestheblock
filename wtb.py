@@ -80,7 +80,7 @@ class Traceroute(dict):
                 # no response, endpoint is likely dropping this traffic
                 if reply is None:
                     self.hops.append(
-                        Hop(source="*", ttl=ttl, sent_time=pkt.sent_time, reply_time="")
+                        Hop(source="", ttl=ttl, sent_time=pkt.sent_time, reply_time="")
                     )
 
                 else:
@@ -196,7 +196,11 @@ class Hop(dict):
     ) -> None:
         self.source = source
         self.ttl = ttl
-        self.rtt = get_rtt(sent_time, reply_time)
+        if sent_time and reply_time:
+            self.rtt = get_rtt(sent_time, reply_time)
+        else:
+            self.rtt = ""
+
         self.response = response
 
         if source not in locations.keys():

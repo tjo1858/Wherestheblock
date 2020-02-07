@@ -7,4 +7,3 @@ def get_rtt(sent_time: str, received_time: str) -> str:
     """
 
     return round((received_time - sent_time) * 1000, 3)
-
