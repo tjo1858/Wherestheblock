@@ -1,4 +1,7 @@
+import logging
 import socket
+
+log = logging.getLogger(__name__)
 
 
 def ip_lookup(hostname: str) -> str:
@@ -8,8 +11,17 @@ def ip_lookup(hostname: str) -> str:
     :return: IP address string
     """
 
+    host_ip = ""
     try:
         host_ip = socket.gethostbyname(hostname)
+
     except socket.error:
-        return
-    return host_ip
+        log.debug(f"Unable to lookup IP address for {hostname}.")
+
+    except Exception as e:
+        log.error(
+            f"Unknown exception occurred when looking up IP address for {hostname}: {e}"
+        )
+
+    finally:
+        return host_ip

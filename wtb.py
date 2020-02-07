@@ -39,19 +39,15 @@ class Traceroute(dict):
         self.target = target
         self.time = str(datetime.now())
         self.timeout = timeout
+        self.protocol = protocol
 
-        if self.protocol == "icmp":
-            self.payload = ICMP()
-
-        elif self.protocol == "tcp":
-            self.payload = TCP(dport=53, flags="S")
-
-        elif self.protocol == "udp":
-            self.payload = UDP() / DNS(qd=DNSQR(qname="test.com"))
-
-        elif self.protocol == "http":
-            self.payload = TCP(dport=80, flags="S")
-
+        payloads = {
+            "icmp": ICMP(),
+            "tcp": TCP(dport=53, flags="S"),
+            "udp": UDP() / DNS(qd=DNSQR(qname="test.com")),
+            "http": TCP(dport=80, flags="S"),
+        }
+        self.payload = payloads.get(self.protocol)
         self.run()
         return
 
@@ -67,20 +63,18 @@ class Traceroute(dict):
                 reply = sr1(pkt, verbose=0, timeout=self.timeout)
 
             except socket.gaierror as e:
-                log.error(f"Unable to resolve IP for {self.target}. Error output: {e}")
+                log.error(f"Unable to resolve IP for {self.target}: {e}")
                 return
 
             except Exception as e:
-                log.exception(
-                    "Non-socket exception occured:  %s", getattr(e, "__dict__", {})
-                )
+                log.error(f"Non-socket exception occured: {e}")
                 return
 
             else:
                 # no response, endpoint is likely dropping this traffic
                 if reply is None:
                     self.hops.append(
-                        Hop(source="", ttl=ttl, sent_time=pkt.sent_time, reply_time="")
+                        Hop(source="*", ttl=ttl, sent_time=pkt.sent_time, reply_time="")
                     )
 
                 else:
@@ -149,7 +143,17 @@ class Traceroute(dict):
         # for multiple targets
         lock.acquire()
         log.info(
-            f"\033[1m{'TTL':<5} {'IP':<20} {'DNS':40} {'GEOLOCATION':35} {'ASN':20} {'RTT':8} RESPONSE\033[0m"
+            (
+                f"\033[1m"
+                f"{'TTL':<5} "
+                f"{'IP':<20} "
+                f"{'DNS':<40} "
+                f"{'GEOLOCATION':<35} "
+                f"{'ASN':<20} "
+                f"{'RTT':<8} "
+                f"{'RESPONSE':<15} "
+                f"\033[0m"
+            )
         )
         for hop in self.hops:
             log.info(hop)
@@ -196,6 +200,7 @@ class Hop(dict):
     ) -> None:
         self.source = source
         self.ttl = ttl
+
         if sent_time and reply_time:
             self.rtt = get_rtt(sent_time, reply_time)
         else:
@@ -203,20 +208,26 @@ class Hop(dict):
 
         self.response = response
 
-        if source not in locations.keys():
-            locations[source] = geolocate(source)
+        if source != "*":
+            if source not in locations.keys():
+                locations[source] = geolocate(source)
 
-        self.location = locations[source]
+            self.location = locations[source]
 
-        if source not in asns.keys():
-            asns[source] = asn_lookup(source)
+            if source not in asns.keys():
+                asns[source] = asn_lookup(source)
 
-        self.asn = asns[source]
+            self.asn = asns[source]
 
-        if source not in dns_records.keys():
-            dns_records[source] = dns_lookup(source) or ""
+            if source not in dns_records.keys():
+                dns_records[source] = dns_lookup(source) or ""
 
-        self.dns = dns_records[source]
+            self.dns = dns_records[source]
+
+        else:
+            self.location = ""
+            self.asn = ""
+            self.dns = ""
 
     def __repr__(self):
         return (
@@ -226,7 +237,7 @@ class Hop(dict):
             f"{self.location:<35.35} "
             f"{self.asn:<20.20} "
             f"{self.rtt:<8.8} "
-            f"{self.response}"
+            f"{self.response:<15.15}"
         )
 
 
@@ -342,4 +353,4 @@ if __name__ == "__main__":
             log.warning("\nKeyboard interrupt received, exiting...")
             pool.close()
 
-    log.info(f"Total elapsed time: {time.time() - start_time:.2f} seconds.")
+    log.info(f"\nTotal elapsed time: {time.time() - start_time:.2f} seconds.")
