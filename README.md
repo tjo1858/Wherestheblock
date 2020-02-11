@@ -27,7 +27,7 @@ to install all required dependencies for this project, run:
 	  -t TARGET, --target TARGET
 							Target destination.
 	  -P {udp,tcp,icmp,http,tls}, --protocol {udp,tcp,icmp,http,tls}
-							protocol choice (default: udp)
+							protocol choice (default: icmp)
 	  -m MAX_TTL, --max_ttl MAX_TTL
 							Set the max time-to-live (max number of hops) used in
 							outgoing probe packets.
