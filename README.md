@@ -12,13 +12,14 @@ to install all required dependencies for this project, run:
 
 ## usage
 
-	usage: Perform a traceroute against a given target(s). [-h]
-														   [-c CSV | -t TARGET]
-														   [-P {udp,tcp,icmp,http,tls}]
-														   [-m MAX_TTL]
-														   [-T TIMEOUT]
-														   [--threads THREADS]
-														   [-v]
+	usage: Perform a traceroute against a given target(s). 
+		[-h]
+		[-c CSV | -t TARGET]
+		[-P {udp,tcp,icmp,http,tls}]
+		[-m MAX_TTL]
+		[-T TIMEOUT]
+		[--threads THREADS]
+		[-v]
 
 	optional arguments:
 	  -h, --help            show this help message and exit
