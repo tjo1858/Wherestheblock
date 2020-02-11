@@ -7,7 +7,11 @@ import geoip2.errors
 log = logging.getLogger(__name__)
 
 asn_reader = geoip2.database.Reader(
-    os.path.join("geolite_databases", "GeoLite2-ASN.mmdb")
+    os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        "geolite_databases",
+        "GeoLite2-ASN.mmdb",
+    )
 )
 
 

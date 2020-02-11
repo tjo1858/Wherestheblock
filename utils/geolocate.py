@@ -5,7 +5,11 @@ import geoip2.database
 import geoip2.errors
 
 city_reader = geoip2.database.Reader(
-    os.path.join("geolite_databases", "GeoLite2-City.mmdb")
+    os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        "geolite_databases",
+        "GeoLite2-City.mmdb",
+    )
 )
 
 log = logging.getLogger(__name__)
