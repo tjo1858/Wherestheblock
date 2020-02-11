@@ -12,23 +12,29 @@ to install all required dependencies for this project, run:
 
 ## usage
 
-        usage: Perform a traceroute against a given target(s). [-h]
-                                                           [-c CSV | -t TARGET]
-                                                           [-P {udp,tcp,icmp,lft,http,dns}]
-                                                           [-m MAX_TTL] [-v]
-    
-    optional arguments:
-      -h, --help            show this help message and exit
-      -c CSV, --csv CSV     Input CSV file.
-      -t TARGET, --target TARGET
-                            Target destination.
-      -P {udp,tcp,icmp,lft,http,dns}, --protocol {udp,tcp,icmp,lft,http,dns}
-                            protocol choice (default: udp)
-      -m MAX_TTL, --max_ttl MAX_TTL
-                            Set the max time-to-live (max number of hops) used in
-                            outgoing probe packets.
-      -v, --verbose         Enable verbose logging.
+	usage: Perform a traceroute against a given target(s). [-h]
+														   [-c CSV | -t TARGET]
+														   [-P {udp,tcp,icmp,http,tls}]
+														   [-m MAX_TTL]
+														   [-T TIMEOUT]
+														   [--threads THREADS]
+														   [-v]
 
+	optional arguments:
+	  -h, --help            show this help message and exit
+	  -c CSV, --csv CSV     Input CSV file.
+	  -t TARGET, --target TARGET
+							Target destination.
+	  -P {udp,tcp,icmp,http,tls}, --protocol {udp,tcp,icmp,http,tls}
+							protocol choice (default: udp)
+	  -m MAX_TTL, --max_ttl MAX_TTL
+							Set the max time-to-live (max number of hops) used in
+							outgoing probe packets.
+	  -T TIMEOUT, --timeout TIMEOUT
+							Set the time (in seconds) to wait for a response to a
+							probe (default 5 sec.).
+	  --threads THREADS     Maximum number of concurrent traceroutes.
+	  -v, --verbose         Enable verbose logging.
 
 
 ## run with an input file
