@@ -1,331 +1,324 @@
 #!/usr/bin/env python3
 
 import argparse
-import csv
+import json
 import logging
+import multiprocessing
 import os
-import pathlib
 import socket
 import ssl
-import subprocess
 import sys
-import json
+import time
+from datetime import datetime
+from http.client import HTTPResponse
+from itertools import repeat
 
+import certifi
 import coloredlogs
-import geoip2.database
-import geoip2.errors
-from fake_useragent import UserAgent
-from scapy.all import DNS, DNSQR, UDP, RandShort, traceroute
+from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1
 
+from utils.asn_lookup import asn_lookup
+from utils.csv_utils import read_csv_input_file
+from utils.dns_lookup import dns_lookup
+from utils.geolocate import geolocate
+
+ca_certs = certifi.where()
+
+logging.getLogger("scapy").setLevel(logging.ERROR)
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 
 
-def dns_lookup(target: str, truncate_length: int = None) -> str:
+class Traceroute(dict):
     """
-    Perform a reverse DNS lookup on a host IP address.
-    :param target: target IP address
-    :param truncate_length: truncate the address to this many characters,
-        if desired (for output purposes)
-    :return: DNS address of provided IP address
+    Represents an individual traceroute to a target.
     """
 
-    try:
-        dns_host = socket.gethostbyaddr(target)[0]
-    except socket.error as e:
-        log.debug(f"Unable to perform reverse DNS lookup for {target}: {e}")
-        return ""
+    def __init__(
+        self, target: str, protocol: str = "icmp", max_ttl: int = 30, timeout: int = 5
+    ) -> None:
+        self.hops = []
+        self.max_ttl = max_ttl
+        self.protocol = protocol
+        self.target = target
+        self.time = str(datetime.now())
+        self.timeout = timeout
+        self.protocol = protocol
 
-    if truncate_length:
-        dns_host = (
-            (dns_host[:truncate_length] + "...")
-            if len(dns_host) > truncate_length
-            else dns_host
-        )
-
-    return dns_host
-
-
-def ip_lookup(hostname: str) -> str:
-    """
-    Lookup an IP address for a given hostname.
-    :param hostname: host to look up
-    :return: IP address string
-    """
-
-    try:
-        host_ip = socket.gethostbyname(hostname)
-    except socket.error:
-        log.error(f"Unable to obtain IP address for {hostname}.")
-        return
-    return host_ip
-
-
-def geolocate(target: str) -> str:
-    """
-    Get the geolocation of a target IP address, using the Maxmind database.
-    https://www.maxmind.com/en/home
-    :param target: target IP address
-    :return: string containing the {city}, {country}, if found
-    """
-
-    reader = geoip2.database.Reader("geolite_databases/GeoLite2-City.mmdb")
-    location = {}
-    try:
-        geolookup = reader.city(target)
-    except geoip2.errors.AddressNotFoundError:
-        log.debug(f"Unable to get geolocation data for {target}.")
+        payloads = {
+            "icmp": ICMP(),
+            "tcp": TCP(dport=53, flags="S"),
+            "udp": UDP() / DNS(qd=DNSQR(qname="test.com")),
+            "http": TCP(dport=80, flags="S"),
+            "tls": TCP(dport=443, flags="S"),
+        }
+        self.payload = payloads.get(self.protocol)
+        self.run()
         return
 
-    if geolookup.city.name:
-        location["city"] = geolookup.city.name
+    def run(self) -> None:
+        """
+        Run the traceroute to the target, taking into account predetermined
+        maximum hop count, protocol, and timeout.
+        """
 
-    if geolookup.country.name:
-        location["country"] = geolookup.country.name
-
-    return location
-
-
-def dns_traceroute(url: str, hops: int) -> None:
-    """
-    Perform a DNS traceroute (needs work)
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-    ans, unans = traceroute(
-        "4.2.2.1", l4=UDP(sport=RandShort()) / DNS(qd=DNSQR(qname=url))
-    )
-    print(ans.summary())
-    print(unans.summary())
-
-
-def http_traceroute(url: str, hops: int) -> None:
-    """
-    Perform an HTTP get request traceroute.
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-
-    # HTTP header
-    user_agent = UserAgent().random
-    req = b"GET / HTTP/1.1\r\n"
-    req += b"Host: ojaloberoi.in\r\n"
-    req += b"Connection: keep-alive\r\n"
-    req += b"Cache-Control: max-age=0\r\n"
-    req += b"Upgrade-Insecure-Requests: 1\r\n"
-    req += user_agent.encode() + b"\r\n"
-    req += b"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\n"
-    req += b"Accept-Language: en-US,en;q=0.8\r\n"
-    req += b"\r\n"
-
-    results = []
-    for ttl in range(1, hops + 1):
-        c = socket.socket(socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP)
-        c.settimeout(10)
-        host_ip = ip_lookup(url)
-        if not host_ip:
-            return
-
-        try:
-            c.connect((url, 80))
-        except socket.error as e:
-            log.error(f"Couldnt connect with the socket-server: {e}")
-            return
-
-        c.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
-        try:
-            c.send(req)
-            results.append([url, ttl, str(c.recv(4096))])
-
-        except socket.error as e:
-            results.append([url, ttl, e])
-
-        finally:
-            c.close()
-
-    country = geolocate(host_ip)["country"]
-
-    filename = os.path.join(
-        pathlib.Path().absolute(), "output", "http", country, f"{url}.json"
-    )
-    write_results(filename, results)
-
-
-def tls_traceroute(url: str, hops: int) -> None:
-    """
-    Perform a TLS handshake traceroute.
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-
-    results = []
-    for ttl in range(1, hops + 1):
-        host_ip = ip_lookup(url)
-        if not host_ip:
-            return
-
-        sock = socket.socket(
-            socket.AF_INET, socket.SOCK_STREAM, proto=socket.IPPROTO_TCP
-        )
-        sock.settimeout(5)
-        # create tls context and wrap the socket
-        context = ssl.create_default_context()
-        ssock = context.wrap_socket(
-            sock, server_hostname=url, do_handshake_on_connect=True
-        )
-        ssock.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
-
-        try:
-            ssock.connect((host_ip, 443))
-            # if we can connect, write the cert (?)
-            cert = ssock.getpeercert()
-            results.append([url, ttl, cert])
-
-        except socket.error as e:
-            log.error(f"Couldnt connect with the socket-server: {e}")
-            ssock.close()
-
-        finally:
-            ssock.close()
-
-    country = geolocate(host_ip)["country"]
-
-    filename = os.path.join(
-        pathlib.Path().absolute(), "output", "tls", country, f"{url}.json"
-    )
-    write_results(filename, results)
-
-
-def icmp_traceroute(url: str, hops: int) -> None:
-    """
-    Call the native traceroute for ICMP
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-
-    call_native_traceroute("ICMP", url, hops)
-
-
-def tcp_traceroute(url: str, hops: int) -> None:
-    """
-    Call the native traceroute for TCP
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-    call_native_traceroute("TCP", url, hops)
-
-
-def udp_traceroute(url: str, hops: int) -> None:
-    """
-    Call the native traceroute for UDP
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-    call_native_traceroute("UDP", url, hops)
-
-
-def call_native_traceroute(protocol: str, url: str, hops: int) -> None:
-    """
-    Wrapper to call the native traceroute utility.
-    :param protocol: desired protocol choice (udp, http, etc.)
-    :param url: target url
-    :param hops: max number of hops to travel
-    :return: None
-    """
-    traceroute = subprocess.run(
-        ["traceroute", "-P", protocol, "-m", str(hops), url], capture_output=True,
-    )
-    results = []
-    for hop, line in enumerate(traceroute.stdout.decode().split("\n")):
-        results.append([url, hop, line])
-
-    ip = ip_lookup(url)
-    country = geolocate(ip)["country"]
-    filename = os.path.join(
-        pathlib.Path().absolute(), "output", protocol, country, f"{url}.json"
-    )
-    write_results(filename, results)
-
-
-def lft_traceroute(url: str, hops: int) -> None:
-    """
-    Perform an lft traceroute.
-    :param url: target URL
-    :param hops: max number of hops to travel
-    :return: None
-    """
-    traceroute = subprocess.Popen(
-        ["lft", "-m", hops, url], stdout=subprocess.PIPE, stderr=subprocess.STDOUT
-    )
-    results = []
-    for hop, line in enumerate(traceroute.stdout.decode().split("\n")):
-        results.append([url, hop, line])
-
-    ip = ip_lookup(url)
-    country = geolocate(ip)["country"]
-    filename = os.path.join(
-        pathlib.Path().absolute(), "output", "lft", country, f"{url}.json"
-    )
-    write_results(filename, results)
-
-
-def write_results(filename: str, results: list) -> None:
-    """
-    Write results out to a CSV file.
-    :param filename: full filepath to write results to
-    :param results: list of results, each entry being a list consisting of 
-        [ url, hop, data received]
-    :return: None
-    """
-
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    formatted_results = []
-    with open(filename, "w") as outfile:
-        for result in results:
-            formatted_results.append(
-                {"url": result[0], "ttl": result[1], "message": result[2]}
-            )
-        log.info(f"Writing results to {filename}...")
-        log.debug(f"\n{json.dumps(formatted_results, indent=4)}")
-        json.dump(formatted_results, outfile)
-
-
-def read_csv_input_file(filepath: str) -> list:
-    """
-    Read a CSV input file of targets.
-    :param filepath: input filepath
-    :return: list of targets
-    """
-
-    log.debug(f"Attempting to read input file '{filepath}'...")
-
-    if not os.path.exists(filepath):
-        log.error(f"Input file '{filepath}' does not exist.")
-        return
-
-    with open(filepath, "r") as csv_file:
-        try:
-            csv_reader = csv.DictReader(csv_file)
-        except OSError:
-            log.error(f"'{filepath}' is not a valid CSV file.")
-            return
-
-        targets = []
-        for row in csv_reader:
+        for ttl in range(1, self.max_ttl + 1):
             try:
-                targets.append(row["URL"])
-            except KeyError as e:
-                log.error(f"Invalid CSV format: unable to grab key: {e}.")
+                pkt = IP(dst=self.target, ttl=ttl) / self.payload
+                reply = sr1(pkt, verbose=0, timeout=self.timeout)
+
+            except socket.gaierror as e:
+                log.error(f"Unable to resolve IP for {self.target}: {e}")
                 return
 
-    log.debug(f"'{filepath}' contained the following targets: {targets}")
-    return targets
+            except Exception as e:
+                log.error(f"Non-socket exception occured: {e}")
+                return
+
+            else:
+                # no response, endpoint is likely dropping this traffic
+                hop = Hop(ttl=ttl, sent_time=pkt.sent_time)
+                if reply is None:
+                    hop.source = "*"
+
+                else:
+                    hop.source = reply.src
+                    hop.reply_time = reply.time
+
+                    if reply.haslayer(ICMP):
+                        hop.response = reply.sprintf("%ICMP.type%")
+
+                    else:
+                        # if we received a response back that is not ICMP,
+                        # we likely received back a SYN/ACK for an HTTP request.
+                        # respond with an ACK and our desired target.
+                        # TODO: handle the response
+
+                        if self.protocol == "http":
+
+                            # first, save the hop response for the initial SYN/ACK
+                            hop.finalize()
+                            self.hops.append(hop)
+
+                            # now, send the HTTP request to the target
+                            request_data = f"GET / HTTP/1.1\r\nHost: {self.target}\r\n"
+                            http_request = IP(dst=self.target) / TCP() / request_data
+                            http_reply = sr1(
+                                http_request, verbose=0, timeout=self.timeout
+                            )
+
+                            # if we got a reply, save it with the TCP flags
+                            # TODO: decide if we want to save the packet data?
+                            hop = Hop(ttl=ttl, sent_time=http_request.sent_time)
+                            if http_reply:
+                                hop.source = http_reply.src
+                                hop.reply_time = http_reply.time
+                                hop.response = http_reply.sprintf("%TCP.flags%")
+
+                            # otherwise, we got no response
+                            else:
+                                hop.source = "*"
+
+                        elif self.protocol == "tls":
+
+                            # first, save the hop response for the initial SYN/ACK
+                            hop.finalize()
+                            self.hops.append(hop)
+
+                            request_body = (
+                                f"GET / HTTP/1.1\n"
+                                f"Host: {self.target}\n"
+                                f"User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)\n"
+                                f"\r\n\r\n"
+                            ).encode()
+
+                            # create the initial socket
+                            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                            sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+                            sock.settimeout(self.timeout)
+
+                            # wrap the socket with TLS
+                            secure_sock = ssl.wrap_socket(
+                                sock,
+                                ssl_version=ssl.PROTOCOL_TLSv1,
+                                cert_reqs=ssl.CERT_REQUIRED,
+                                ca_certs=ca_certs,
+                            )
+                            secure_sock.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
+
+                            hop = Hop(ttl=ttl, sent_time=time.time())
+                            try:
+                                secure_sock.connect((self.target, 443))
+                                secure_sock.sendall(request_body)
+
+                            except socket.error as e:
+                                # no response or some other type of error
+                                hop.source = "*"
+                                hop.response = str(e)
+
+                            else:
+                                # target hit, record the data
+                                hop.reply_time = time.time()
+                                response = HTTPResponse(secure_sock)
+                                response.begin()
+                                results = response.read().decode()
+                                hop.response = f"{response.getcode()}: {results}"
+
+                            finally:
+                                secure_sock.close()
+
+                    hop.finalize()
+                    self.hops.append(hop)
+
+        self.write_results()
+
+    def write_results(self) -> None:
+        """
+        Write results out to a JSON file. Additionally, receive the multiprocessing
+        lock and write out our results to stdout.
+        """
+        filename = os.path.join("output", self.target + ".json")
+
+        # acquire the lock so we do not garble up output on stdout
+        # for multiple targets
+        lock.acquire()
+        log.info(
+            (
+                f"\033[1m"
+                f"{'TTL':<5} "
+                f"{'IP':<20} "
+                f"{'DNS':<40} "
+                f"{'GEOLOCATION':<35} "
+                f"{'ASN':<20} "
+                f"{'RTT':<8} "
+                f"{'RESPONSE':<15} "
+                f"\033[0m"
+            )
+        )
+        for hop in self.hops:
+            log.info(hop)
+        log.info(f"\033[1mWriting results to {filename}...\033[0m")
+        lock.release()
+
+        # rewrite the hop list as dictionaries (maybe this can be done more elegantly)
+        self.hops = [vars(hop) for hop in self.hops]
+
+        os.makedirs("output", exist_ok=True)
+
+        results = {
+            "hops": self.hops,
+            "max_ttl": self.max_ttl,
+            "timeout": self.timeout,
+            "time": self.time,
+        }
+
+        # if we have no output file already existing, we will create one
+        if not os.path.exists(filename):
+            output = {"url": self.target, "protocol": {self.protocol: []}}
+        else:
+            # otherwise, we will load it and append the results for this
+            # traceroute to the list for the given protocol
+            with open(filename, "r") as f:
+                output = json.load(f)
+
+            if self.protocol not in output["protocol"].keys():
+                output["protocol"][self.protocol] = []
+
+        output["protocol"][self.protocol].append(results)
+
+        with open(filename, "w") as outfile:
+            json.dump(output, outfile)
+
+
+class Hop(dict):
+    """
+    Represents an individual hop en route to a target.
+    """
+
+    def __init__(
+        self,
+        ttl: int,
+        source: str = "",
+        sent_time: int = 0,
+        reply_time: int = 0,
+        response: str = "",
+    ) -> None:
+        self.source = source
+        self.ttl = ttl
+        self.sent_time = sent_time
+        self.reply_time = reply_time
+        self.response = response
+
+    def finalize(self):
+        if self.source != "*":
+            if self.source not in locations.keys():
+                locations[self.source] = geolocate(self.source)
+
+            self.location = locations[self.source]
+
+            if self.source not in asns.keys():
+                asns[self.source] = asn_lookup(self.source)
+
+            self.asn = asns[self.source]
+
+            if self.source not in dns_records.keys():
+                dns_records[self.source] = dns_lookup(self.source) or ""
+
+            self.dns = dns_records[self.source]
+
+        else:
+            self.location = ""
+            self.asn = ""
+            self.dns = ""
+
+        self.calculate_rtt()
+
+    def calculate_rtt(self):
+        """
+        Compute the total RTT for a packet.
+        :param sent_time: timestamp of packet that was sent
+        :param received_time: timestamp of packet that was received
+        :return: total RTT in milliseconds
+        """
+        if self.sent_time and self.reply_time:
+            try:
+                self.rtt = round((self.reply_time - self.sent_time) * 1000, 3)
+
+            except Exception as e:
+                log.error(
+                    f"Unable to calculate RTT for {self.reply_time} - {self.sent_time}: {e}"
+                )
+                self.rtt = ""
+
+        self.rtt = ""
+
+    def __repr__(self):
+        return (
+            f"{self.ttl:<5} "
+            f"{self.source:<20.20} "
+            f"{self.dns:<40.40} "
+            f"{self.location:<35.35} "
+            f"{self.asn:<20.20} "
+            f"{self.rtt:<8.8} "
+            f"{self.response:<15.15}"
+        )
+
+
+def init(stdout_lock: multiprocessing.Lock) -> None:
+    """
+    Initialize the global multiprocessing lock for output to stdout.
+    """
+    global lock
+    lock = stdout_lock
+
+    global dns_records
+    dns_records = {}
+
+    global locations
+    locations = {}
+
+    global asns
+    asns = {}
 
 
 if __name__ == "__main__":
@@ -341,15 +334,28 @@ if __name__ == "__main__":
         "--protocol",
         default="udp",
         type=str,
-        choices=["udp", "tcp", "icmp", "lft", "http", "dns", "tls"],
+        choices=["udp", "tcp", "icmp", "http", "tls"],
         help="protocol choice (default: %(default)s)",
     )
     parser.add_argument(
         "-m",
         "--max_ttl",
-        default=64,
+        default=30,
         type=int,
         help="Set the max time-to-live (max number of hops) used in outgoing probe packets.",
+    )
+    parser.add_argument(
+        "-T",
+        "--timeout",
+        default=5,
+        type=int,
+        help="Set the time (in seconds) to wait for a response to a probe (default 5 sec.).",
+    )
+    parser.add_argument(
+        "--threads",
+        default=4,
+        type=int,
+        help="Maximum number of concurrent traceroutes.",
     )
     parser.add_argument(
         "-v",
@@ -366,12 +372,6 @@ if __name__ == "__main__":
             level="DEBUG", fmt="%(asctime)s - %(levelname)s - %(message)s"
         )
 
-    # requires either a CSV input file or a target address
-    if not args.csv and not args.target:
-        log.error("You must provide either a target or an input file. Exiting...")
-        parser.print_help()
-        sys.exit(1)
-
     targets = []
 
     if args.csv:
@@ -382,17 +382,38 @@ if __name__ == "__main__":
     elif args.target:
         targets.append(args.target)
 
-    # context switcher to choose function based on provided protocol
-    switcher = {
-        "icmp": icmp_traceroute,
-        "udp": udp_traceroute,
-        "tcp": tcp_traceroute,
-        "http": http_traceroute,
-        "dns": dns_traceroute,
-        "lft": lft_traceroute,
-        "tls": tls_traceroute,
-    }
-    traceroute_func = switcher.get(args.protocol, lambda: "Invalid protocol.")
+    else:
+        log.error("You must provide either a target or an input file. Exiting...")
+        parser.print_help()
+        sys.exit(1)
 
-    for target in targets:
-        traceroute_func(target, args.max_ttl)
+    # only spawn multiple threads if we have multiple targets
+    thread_count = len(targets) if len(targets) < args.threads else args.threads
+
+    start_time = time.time()
+
+    # initialize a thread pool for each target in the list with
+    # a lock for the multiprocessing pool for output to stdout
+    with multiprocessing.Pool(
+        processes=thread_count, initializer=init, initargs=(multiprocessing.Lock(),)
+    ) as pool:
+
+        log.info("Initializing traceroute...")
+
+        # zip up the arguments as all of the targets, repeating the protocol,
+        # max_ttl, and timeout for each individual traceroute
+        try:
+            pool.starmap(
+                Traceroute,
+                zip(
+                    targets,
+                    repeat(args.protocol),
+                    repeat(args.max_ttl),
+                    repeat(args.timeout),
+                ),
+            )
+        except KeyboardInterrupt:
+            log.warning("\nKeyboard interrupt received, exiting...")
+            pool.close()
+
+    log.info(f"\nTotal elapsed time: {time.time() - start_time:.2f} seconds.")
