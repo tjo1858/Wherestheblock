@@ -6,11 +6,14 @@ import logging
 import multiprocessing
 import os
 import socket
+import ssl
 import sys
 import time
 from datetime import datetime
+from http.client import HTTPResponse
 from itertools import repeat
 
+import certifi
 import coloredlogs
 from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1
 
@@ -18,7 +21,8 @@ from utils.asn_lookup import asn_lookup
 from utils.csv_utils import read_csv_input_file
 from utils.dns_lookup import dns_lookup
 from utils.geolocate import geolocate
-from utils.rtt import get_rtt
+
+ca_certs = certifi.where()
 
 logging.getLogger("scapy").setLevel(logging.ERROR)
 log = logging.getLogger(__name__)
@@ -46,6 +50,7 @@ class Traceroute(dict):
             "tcp": TCP(dport=53, flags="S"),
             "udp": UDP() / DNS(qd=DNSQR(qname="test.com")),
             "http": TCP(dport=80, flags="S"),
+            "tls": TCP(dport=443, flags="S"),
         }
         self.payload = payloads.get(self.protocol)
         self.run()
@@ -72,18 +77,13 @@ class Traceroute(dict):
 
             else:
                 # no response, endpoint is likely dropping this traffic
+                hop = Hop(ttl=ttl, sent_time=pkt.sent_time)
                 if reply is None:
-                    self.hops.append(
-                        Hop(source="*", ttl=ttl, sent_time=pkt.sent_time, reply_time="")
-                    )
+                    hop.source = "*"
 
                 else:
-                    hop = Hop(
-                        source=reply.src,
-                        ttl=ttl,
-                        sent_time=pkt.sent_time,
-                        reply_time=reply.time,
-                    )
+                    hop.source = reply.src
+                    hop.reply_time = reply.time
 
                     if reply.haslayer(ICMP):
                         hop.response = reply.sprintf("%ICMP.type%")
@@ -97,6 +97,7 @@ class Traceroute(dict):
                         if self.protocol == "http":
 
                             # first, save the hop response for the initial SYN/ACK
+                            hop.finalize()
                             self.hops.append(hop)
 
                             # now, send the HTTP request to the target
@@ -108,26 +109,65 @@ class Traceroute(dict):
 
                             # if we got a reply, save it with the TCP flags
                             # TODO: decide if we want to save the packet data?
+                            hop = Hop(ttl=ttl, sent_time=http_request.sent_time)
                             if http_reply:
-                                self.hops.append(
-                                    Hop(
-                                        source=http_reply.src,
-                                        ttl=ttl,
-                                        sent_time=http_request.sent_time,
-                                        reply_time=http_reply.time,
-                                        response=http_reply.sprintf("%TCP.flags%"),
-                                    )
-                                )
-                                break
+                                hop.source = http_reply.src
+                                hop.reply_time = http_reply.time
+                                hop.response = http_reply.sprintf("%TCP.flags%")
+
                             # otherwise, we got no response
                             else:
-                                hop = Hop(
-                                    source="",
-                                    ttl=ttl,
-                                    sent_time=http_request.sent_time,
-                                    reply_time=0,
-                                )
+                                hop.source = "*"
 
+                        elif self.protocol == "tls":
+
+                            # first, save the hop response for the initial SYN/ACK
+                            hop.finalize()
+                            self.hops.append(hop)
+
+                            request_body = (
+                                f"GET / HTTP/1.1\n"
+                                f"Host: {self.target}\n"
+                                f"User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)\n"
+                                f"\r\n\r\n"
+                            ).encode()
+
+                            # create the initial socket
+                            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                            sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+                            sock.settimeout(self.timeout)
+
+                            # wrap the socket with TLS
+                            secure_sock = ssl.wrap_socket(
+                                sock,
+                                ssl_version=ssl.PROTOCOL_TLSv1,
+                                cert_reqs=ssl.CERT_REQUIRED,
+                                ca_certs=ca_certs,
+                            )
+                            secure_sock.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
+
+                            hop = Hop(ttl=ttl, sent_time=time.time())
+                            try:
+                                secure_sock.connect((self.target, 443))
+                                secure_sock.sendall(request_body)
+
+                            except socket.error as e:
+                                # no response or some other type of error
+                                hop.source = "*"
+                                hop.response = str(e)
+
+                            else:
+                                # target hit, record the data
+                                hop.reply_time = time.time()
+                                response = HTTPResponse(secure_sock)
+                                response.begin()
+                                results = response.read().decode()
+                                hop.response = f"{response.getcode()}: {results}"
+
+                            finally:
+                                secure_sock.close()
+
+                    hop.finalize()
                     self.hops.append(hop)
 
         self.write_results()
@@ -196,38 +236,61 @@ class Hop(dict):
     """
 
     def __init__(
-        self, source: str, ttl: int, sent_time: int, reply_time: int, response: str = ""
+        self,
+        ttl: int,
+        source: str = "",
+        sent_time: int = 0,
+        reply_time: int = 0,
+        response: str = "",
     ) -> None:
         self.source = source
         self.ttl = ttl
-
-        if sent_time and reply_time:
-            self.rtt = get_rtt(sent_time, reply_time)
-        else:
-            self.rtt = ""
-
+        self.sent_time = sent_time
+        self.reply_time = reply_time
         self.response = response
 
-        if source != "*":
-            if source not in locations.keys():
-                locations[source] = geolocate(source)
+    def finalize(self):
+        if self.source != "*":
+            if self.source not in locations.keys():
+                locations[self.source] = geolocate(self.source)
 
-            self.location = locations[source]
+            self.location = locations[self.source]
 
-            if source not in asns.keys():
-                asns[source] = asn_lookup(source)
+            if self.source not in asns.keys():
+                asns[self.source] = asn_lookup(self.source)
 
-            self.asn = asns[source]
+            self.asn = asns[self.source]
 
-            if source not in dns_records.keys():
-                dns_records[source] = dns_lookup(source) or ""
+            if self.source not in dns_records.keys():
+                dns_records[self.source] = dns_lookup(self.source) or ""
 
-            self.dns = dns_records[source]
+            self.dns = dns_records[self.source]
 
         else:
             self.location = ""
             self.asn = ""
             self.dns = ""
+
+        self.calculate_rtt()
+
+    def calculate_rtt(self):
+        """
+        Compute the total RTT for a packet.
+        :param sent_time: timestamp of packet that was sent
+        :param received_time: timestamp of packet that was received
+        :return: total RTT in milliseconds
+        """
+        if self.sent_time and self.reply_time:
+            try:
+                self.rtt = round((self.reply_time - self.sent_time) * 1000, 3)
+
+            except Exception as e:
+                log.error(
+                    f"Unable to calculate RTT for {self.reply_time} - {self.sent_time}: {e}"
+                )
+                self.rtt = ""
+
+        self.rtt = ""
 
     def __repr__(self):
         return (
