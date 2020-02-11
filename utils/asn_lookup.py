@@ -23,6 +23,10 @@ def asn_lookup(target: str):
     """
 
     asn = ""
+
+    if not target:
+        return asn
+
     try:
         geolookup = asn_reader.asn(target)
         asn = (

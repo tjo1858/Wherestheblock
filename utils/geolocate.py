@@ -24,6 +24,10 @@ def geolocate(target: str) -> str:
     """
 
     location = ""
+
+    if not target:
+        return location
+
     try:
         geolookup = city_reader.city(target)
         if geolookup.country.name:

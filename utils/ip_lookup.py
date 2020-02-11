@@ -12,6 +12,10 @@ def ip_lookup(hostname: str) -> str:
     """
 
     host_ip = ""
+
+    if not hostname:
+        return host_ip
+
     try:
         host_ip = socket.gethostbyname(hostname)
 

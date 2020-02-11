@@ -15,6 +15,7 @@ from itertools import repeat
 
 import certifi
 import coloredlogs
+from fake_useragent import UserAgent
 from scapy.all import DNS, DNSQR, ICMP, IP, TCP, UDP, sr1
 
 from utils.asn_lookup import asn_lookup
@@ -27,6 +28,7 @@ ca_certs = certifi.where()
 logging.getLogger("scapy").setLevel(logging.ERROR)
 log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
+user_agent = UserAgent()
 
 
 class Traceroute(dict):
@@ -91,45 +93,20 @@ class Traceroute(dict):
                     else:
                         # if we received a response back that is not ICMP,
                         # we likely received back a SYN/ACK for an HTTP request.
-                        # respond with an ACK and our desired target.
-                        # TODO: handle the response
 
-                        if self.protocol == "http":
+                        if self.protocol == "http" or self.protocol == "tls":
 
-                            # first, save the hop response for the initial SYN/ACK
-                            hop.finalize()
-                            self.hops.append(hop)
-
-                            # now, send the HTTP request to the target
-                            request_data = f"GET / HTTP/1.1\r\nHost: {self.target}\r\n"
-                            http_request = IP(dst=self.target) / TCP() / request_data
-                            http_reply = sr1(
-                                http_request, verbose=0, timeout=self.timeout
-                            )
-
-                            # if we got a reply, save it with the TCP flags
-                            # TODO: decide if we want to save the packet data?
-                            hop = Hop(ttl=ttl, sent_time=http_request.sent_time)
-                            if http_reply:
-                                hop.source = http_reply.src
-                                hop.reply_time = http_reply.time
-                                hop.response = http_reply.sprintf("%TCP.flags%")
-
-                            # otherwise, we got no response
-                            else:
-                                hop.source = "*"
-
-                        elif self.protocol == "tls":
-
-                            # first, save the hop response for the initial SYN/ACK
-                            hop.finalize()
-                            self.hops.append(hop)
-
-                            request_body = (
-                                f"GET / HTTP/1.1\n"
-                                f"Host: {self.target}\n"
-                                f"User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)\n"
-                                f"\r\n\r\n"
+                            # build the http request
+                            request_body = "\r\n".join(
+                                [
+                                    f"GET / HTTP/1.1",
+                                    f"Host: {self.target}",
+                                    f"User-Agent: {user_agent.random}",
+                                    f"Connection: keep-alive",
+                                    f"Cache-Control: no-store",
+                                    f"Accept: text/html",
+                                    f"\r\n",
+                                ]
                             ).encode()
 
                             # create the initial socket
@@ -137,19 +114,27 @@ class Traceroute(dict):
                             sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
                             sock.settimeout(self.timeout)
 
-                            # wrap the socket with TLS
-                            secure_sock = ssl.wrap_socket(
-                                sock,
-                                ssl_version=ssl.PROTOCOL_TLSv1,
-                                cert_reqs=ssl.CERT_REQUIRED,
-                                ca_certs=ca_certs,
-                            )
-                            secure_sock.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
+                            if self.protocol == "tls":
+                                port = 443
 
-                            hop = Hop(ttl=ttl, sent_time=time.time())
+                                # wrap the socket with TLS, requiring a certificate
+                                # and matching the cert with the certifi database
+                                sock = ssl.wrap_socket(
+                                    sock,
+                                    ssl_version=ssl.PROTOCOL_TLSv1,
+                                    cert_reqs=ssl.CERT_REQUIRED,
+                                    ca_certs=ca_certs,
+                                )
+
+                            else:
+                                port = 80
+
+                            sock.setsockopt(socket.SOL_IP, socket.IP_TTL, ttl)
+                            hop.sent_time = time.time()
+
                             try:
-                                secure_sock.connect((self.target, 443))
-                                secure_sock.sendall(request_body)
+                                sock.connect((self.target, port))
+                                sock.sendall(request_body)
 
                             except socket.error as e:
                                 # no response or some other type of error
@@ -159,16 +144,17 @@ class Traceroute(dict):
                             else:
                                 # target hit, record the data
                                 hop.reply_time = time.time()
-                                response = HTTPResponse(secure_sock)
+                                response = HTTPResponse(sock)
                                 response.begin()
                                 results = response.read().decode()
                                 hop.response = f"{response.getcode()}: {results}"
 
                             finally:
-                                secure_sock.close()
+                                sock.close()
 
-                    hop.finalize()
-                    self.hops.append(hop)
+                # finally, calculate metrics for the hop and add it to our results
+                hop.finalize()
+                self.hops.append(hop)
 
         self.write_results()
 
@@ -280,7 +266,8 @@ class Hop(dict):
         :param received_time: timestamp of packet that was received
         :return: total RTT in milliseconds
         """
-        if self.sent_time and self.reply_time:
+        self.rtt = ""
+        if self.sent_time > 0 and self.reply_time > 0:
             try:
                 self.rtt = round((self.reply_time - self.sent_time) * 1000, 3)
 
@@ -288,9 +275,6 @@ class Hop(dict):
                 log.error(
                     f"Unable to calculate RTT for {self.reply_time} - {self.sent_time}: {e}"
                 )
-                self.rtt = ""
-
-        self.rtt = ""
 
     def __repr__(self):
         return (
